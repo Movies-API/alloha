@@ -1,6 +1,595 @@
 {
   "data": [
     {
+      "name": "Эми",
+      "original_name": "Amy",
+      "alternative_name": null,
+      "year": 2013,
+      "id_kp": 775847,
+      "alternative_id_kp": null,
+      "id_imdb": "tt3007924",
+      "id_tmdb": 225671,
+      "id_world_art": null,
+      "token_movie": "ada769350e94f38fb27a4786978fb3",
+      "last_season": null,
+      "last_episode": null,
+      "date": null,
+      "country": "США",
+      "category": "Фильм",
+      "genre": "ужасы",
+      "actors": "Кристофер Аткинс, David Blount, David R. Clayton, Джессика ДиДжиованни, Jane Doherty, Victoria Doll, Клэйтон Стокер Майерс, Курт Петерсон, Крис Смит, Джей Васле",
+      "directors": "Патнаи Р.П.",
+      "producers": "Prasad Kunisetty, Рамеш Нути, Стюарт Элсон, Brian K. Aspinwall, Кристофер Аткинс, Nagerder Aytha, Neeraj Bindal, Harikishan Eppanapally, Anand Garlapati",
+      "premiere_ru": null,
+      "premiere": "2013-10-01",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 2,
+      "time": "1:34",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/775847.jpg",
+      "description": "Эми имеет экстрасенсорный дар, благодаря которому она видит как вся деревня амишей, в которой она живет, попадает под контроль демонических сил. Директор похоронного бюро Кристофер использует способности Эми, чтобы найти лидера демонов. Смогут ли они его остановить перед тем, как деревня будет уничтожена?",
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Кумир",
+      "original_name": null,
+      "alternative_name": null,
+      "year": 2015,
+      "id_kp": 931665,
+      "alternative_id_kp": null,
+      "id_imdb": null,
+      "id_tmdb": null,
+      "id_world_art": null,
+      "token_movie": "646f4568ae288d9353bc9042c72c2d",
+      "last_season": 1,
+      "last_episode": 8,
+      "date": null,
+      "country": "Россия",
+      "category": "Сериал",
+      "genre": "",
+      "actors": "Митя Лабуш, Ольга Кузьмина, Алексей Яровенко, Вячеслав Чепурченко, Анастасия Тюнина, Владимир Маслаков, Яков Шамшин, Артур Ваха, Павел Харизанов, Анастасия Фурса, Леонид Паранин, Анна Роскошная, Олег Чугунов, Алексей Шутов, Валентина Шевелева, Степан Ратников, Артем Васильев, Кирилл Варакса, Константин Исаев, Татьяна Андриянова",
+      "directors": "Владимир Балкашинов",
+      "producers": "Алексей Моисеев, Олег Пиганов, Нелли Высоцкая, Светлана Слитюк, Владимир Хабалов",
+      "premiere_ru": null,
+      "premiere": null,
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 6.1,
+      "rating_imdb": null,
+      "time": null,
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/931665.jpg",
+      "description": "Москва. 70-е годы. Молодая звезда советского футбола Валерий Гусько обвиняется в убийстве. Все улики против Гусько. Единственная надежда на случайного свидетеля, фотографа-любителя Костю Лопушанского. Костик и Валера в детстве играли в одной футбольной команде, где тренером был отец Кости. И сейчас, ради переживающего за любимого воспитанника отца, Костя решается помочь следствию. В качестве «подсадной утки» его внедряют в неведомый ему доселе мир московской фарцы и богемы…",
+      "iframe": "",
+      "seasons_count": 1,
+      "seasons": {
+        "1": {
+          "iframe": "",
+          "season": 1,
+          "episodes": {
+            "8": {
+              "iframe": "",
+              "episode": 8,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "7": {
+              "iframe": "",
+              "episode": 7,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "6": {
+              "iframe": "",
+              "episode": 6,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "5": {
+              "iframe": "",
+              "episode": 5,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "4": {
+              "iframe": "",
+              "episode": 4,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "3": {
+              "iframe": "",
+              "episode": 3,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "2": {
+              "iframe": "",
+              "episode": 2,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "1": {
+              "iframe": "",
+              "episode": 1,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            }
+          }
+        }
+      },
+      "quality": "WEBRip",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "WEBRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Бабушка легкого поведения 2.  Престарелые Мстители",
+      "original_name": null,
+      "alternative_name": null,
+      "year": 2019,
+      "id_kp": 1162846,
+      "alternative_id_kp": null,
+      "id_imdb": "tt9450542",
+      "id_tmdb": 571263,
+      "id_world_art": null,
+      "token_movie": "648e3512d9bfe72d10399035478327",
+      "last_season": null,
+      "last_episode": null,
+      "date": null,
+      "country": "Россия",
+      "category": "Фильм",
+      "genre": "комедия",
+      "actors": "Александр Ревва, Дмитрий Нагиев, Михаил Галустян, Глюкоза, Роман Курцын, Марина Федункив, Евгений Герчаков, Елена Валюшкина, Наталья Бардо, Мария Горбань, Артемий Падалка, Леся Кудряшова, Сергей Степин, Ирина Бякова, Андрей Родных, Филипп Киркоров, Влад Соколовский, Владислав Дунаев, Станислав Чумаченко, Марк-Малик Мурашкин",
+      "directors": "Марюс Вайсберг",
+      "producers": "Александр Ревва, Марюс Вайсберг, Юргис Вайсберг",
+      "premiere_ru": "2019-01-24",
+      "premiere": "2019-02-01",
+      "age_restrictions": 16,
+      "rating_mpaa": null,
+      "rating_kp": 5.4,
+      "rating_imdb": 3.1,
+      "time": "1:27",
+      "tagline": "Престарелые мстители",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1162846.jpg",
+      "description": "В продолжении популярной комедии зрителей вновь ждет встреча с обаятельным аферистом Сашей Рубенштейном и командой пенсионеров, которые теперь перебрались в Москву. Но их счастливой жизни приходит конец, когда банк, в котором хранятся все сбережения стариков, банкротит беспринципный олигарх Бородин. Саша и «ОПГ – организованная пенсионная группировка» опять объединяются, чтобы отомстить обидчику.",
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Как отмыть миллион",
+      "original_name": "La chute de l'empire américain",
+      "alternative_name": null,
+      "year": 2018,
+      "id_kp": 1055144,
+      "alternative_id_kp": null,
+      "id_imdb": "tt7231342",
+      "id_tmdb": 515047,
+      "id_world_art": null,
+      "token_movie": "bc69a286364d784d045f559e270d45",
+      "last_season": null,
+      "last_episode": null,
+      "date": null,
+      "country": "Канада",
+      "category": "Фильм",
+      "genre": "комедия, криминал",
+      "actors": "Александр Ландри, Марипьер Морен, Реми Жирар, Максим Рой, Жюльетт Госслен, Венсан Леклер, Эрик Брюно, Флоранс Лонгпре, Ален Голем, Женевьев Шмидт, Тетчена Белланж, Клод Лего, Роз-Мари Перро, Пьер Курци, Бенуа Бриер, Луис Морисетт, Ян Инглэнд, Дени Бушар, Патрик Абейяр, Пол Дусе",
+      "directors": "Дени Аркан",
+      "producers": "Дениз Робер, Доминик Беснеар, Martin Desroches, Виктор Лоуи, Christian Ménard, Патрик Рой",
+      "premiere_ru": "2019-08-01",
+      "premiere": "2018-06-19",
+      "age_restrictions": 16,
+      "rating_mpaa": "R",
+      "rating_kp": 6.3,
+      "rating_imdb": 6.8,
+      "time": "2:07",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1055144.jpg",
+      "description": "Скромняга Пьер-Поль, обладатель ученой степени, вынужден подрабатывать курьером. В один прекрасный день, доставляя очередную посылку, он первым оказывается на месте преступления и становится обладателем миллионного куша. Искушение решить все житейские проблемы велико. И пока он размышляет вернуть или присвоить огромную сумму наличных, его начинают преследовать бандиты, а полиция не спускает с него глаз. Спасаясь и от тех, и от других, интеллектуал Пьер-Поль встречает роковую красотку…",
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Гвен",
+      "original_name": "Gwen",
+      "alternative_name": null,
+      "year": 2018,
+      "id_kp": 1289034,
+      "alternative_id_kp": null,
+      "id_imdb": "tt5149490",
+      "id_tmdb": 543768,
+      "id_world_art": null,
+      "token_movie": "7672dcbef989be1e88c3fce1609313",
+      "last_season": null,
+      "last_episode": null,
+      "date": null,
+      "country": "Великобритания",
+      "category": "Фильм",
+      "genre": "драма, история",
+      "actors": "Элинор Уортингтон-Кокс, Марк Льюис Джонс, Ричард Хэррингтон, Максин Пик, Кобна Холдбрук-Смит, Ричард Элфин, Dyfrig Evans, Jodie Innes, Gwion Glyn",
+      "directors": "Уильям МакГрегор",
+      "producers": "Хилари Беван Джонс, Том Нэш, Angharad Elen, Лиззи Франке, Фергус Хэйкок, Лора Макара, Адам Патридж, Джоанна Тапа",
+      "premiere_ru": null,
+      "premiere": "2018-09-07",
+      "age_restrictions": 18,
+      "rating_mpaa": null,
+      "rating_kp": 5.3,
+      "rating_imdb": 6,
+      "time": "1:24",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1289034.jpg",
+      "description": "Англия, XIX век. На отдалённой ферме женщина с двумя дочерьми пытается сводить концы с концами. Мужа забрали на войну, а у оставшегося семейства начинаются проблемы: внезапно умирает всё стадо овец, а женщину поражает болезнь. Старшая дочь Гвен уверена, что когда отец вернётся, всё наладится.",
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Измени или умри",
+      "original_name": "An Affair to Die For",
+      "alternative_name": "Отдать жизнь за любовника",
+      "year": 2018,
+      "id_kp": 1173686,
+      "alternative_id_kp": null,
+      "id_imdb": "tt8620646",
+      "id_tmdb": 574883,
+      "id_world_art": null,
+      "token_movie": "1dfd0f9e7497321df06af27893adb3",
+      "last_season": null,
+      "last_episode": null,
+      "date": null,
+      "country": "Испания, Италия",
+      "category": "Фильм",
+      "genre": "триллер, ужасы",
+      "actors": "Клэр Форлани, Amy Dincuff, Нэйтан Купер, Титус Уэлливер, Джейк Эйбел, Дерек Морс, Терри Рэндалл, Мелина Мэтьюз",
+      "directors": "Виктор Гарсия",
+      "producers": "Фабио Массимо Каччиатори, Марта Капелло, Андреа Куччи, М.А. Фаура, Оливер Штольц, Исаак Торрас, Франко Бевионе, Йозеф Брандмайер, Биргит Ротхёрль",
+      "premiere_ru": null,
+      "premiere": "2019-02-01",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 5.6,
+      "rating_imdb": 4.8,
+      "time": "1:22",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1173686.jpg",
+      "description": "Тайное свидание в дорогой гостинице. Жена изменяет своему мужу. Муж изменяет своей жене. Казалось бы, ничего необычного. Но что, если всё пойдёт не так?",
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Профессиональный многоголосый",
+      "translation_iframe": {
+        "87": {
+          "name": "Профессиональный многоголосый",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Общественная библиотека",
+      "original_name": "The Public",
+      "alternative_name": null,
+      "year": 2018,
+      "id_kp": 806961,
+      "alternative_id_kp": null,
+      "id_imdb": "tt3294746",
+      "id_tmdb": 331986,
+      "id_world_art": null,
+      "token_movie": "18a6f32704b6885be61720d8f9bf76",
+      "last_season": null,
+      "last_episode": null,
+      "date": null,
+      "country": "США",
+      "category": "Фильм",
+      "genre": "драма",
+      "actors": "Алек Болдуин, Тейлор Шиллинг, Эмилио Эстевес, Джена Мэлоун, Кристиан Слэйтер, Джейкоб Варгас, Гэбриэл Юнион, Дерек Полен, Майкл Кеннет Уильямс, Джеффри Райт, Rhymefest, Ки Хон Ли, Патрик Хьюм, Ричард Т. Джонс, Сюзанна Томпсон, Спенсер Гаррет, Michael Douglas Hall, Брайант Бентли, Ник Паич, Jared Earland",
+      "directors": "Эмилио Эстевес",
+      "producers": "Эмилио Эстевес, Алекс Лебовичи, Лиза Ниденталь, Стив Понце, Майкл Бьен, Jordan Bouderau, Рэй Будерау, Тревор Дринкуотер, Тейлор Эстевез",
+      "premiere_ru": null,
+      "premiere": "2018-01-31",
+      "age_restrictions": null,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 6.3,
+      "rating_imdb": 6.6,
+      "time": "1:59",
+      "tagline": "Every Story Matters.",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/806961.jpg",
+      "description": "С наступлением холодов общественная библиотека в Цинциннати превращается в ночлежку для бродяг, маргиналов и психически нездоровых людей. Библиотекари из сострадания берут на себя роль социальных работников, чем вызывают недовольство у сил правопорядка.",
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Русский Бес",
+      "original_name": null,
+      "alternative_name": null,
+      "year": 2018,
+      "id_kp": 1044134,
+      "alternative_id_kp": null,
+      "id_imdb": "tt7039208",
+      "id_tmdb": 514933,
+      "id_world_art": null,
+      "token_movie": "feffc30dfe94d3d8617f0c32b790a0",
+      "last_season": null,
+      "last_episode": null,
+      "date": null,
+      "country": "Россия",
+      "category": "Фильм",
+      "genre": "драма, комедия, триллер",
+      "actors": "Иван Макаревич, Любовь Аксенова, Юлия Ауг, Виктория Исакова, Тимофей Трибунцев, Ксения Раппопорт, Александр Стриженов, Григорий Константинопольский, Виталий Кищенко, Михаил Ефремов, Алексей Агранович, Елена Коренева, Мария Шалаева, Алиса Хазанова, Маша Цигаль, Андрей Козлов, Максим Виторган, Мария Лаврова",
+      "directors": "Григорий Константинопольский",
+      "producers": "Андрей Новиков, Григорий Константинопольский, Владислава Фетисова",
+      "premiere_ru": "2019-01-31",
+      "premiere": "2019-11-25",
+      "age_restrictions": 18,
+      "rating_mpaa": null,
+      "rating_kp": 5.8,
+      "rating_imdb": 5.6,
+      "time": "1:38",
+      "tagline": "А что творится в твоем сердце?",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1044134.jpg",
+      "description": "Святослав Иванов влюблен в Асю и решает на ней жениться. По образованию он художник-дизайнер, а отец Аси – управляющий крупного российского банка. Святослав решает начать собственный бизнес – открыть ресторан, чтобы создать для Аси те условия жизни, к которым она привыкла. На пути молодого героя неожиданно встает ряд серьезных препятствий, угрожающих его жизни… Он обнаруживает, что у него есть тайный недоброжелатель, который хочет погубить и его бизнес, и его самого. Молодой человек прибегает к самым крайним мерам, постепенно распутывая цепочку тайного заговора… И под конец истории Святославу все-таки удается найти ответ, кто же был его врагом…",
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Ван Гоги",
+      "original_name": null,
+      "alternative_name": null,
+      "year": 2018,
+      "id_kp": 1049526,
+      "alternative_id_kp": null,
+      "id_imdb": "tt7529350",
+      "id_tmdb": 520922,
+      "id_world_art": null,
+      "token_movie": "eacac19a0c06d0fae45c8e7a342483",
+      "last_season": null,
+      "last_episode": null,
+      "date": null,
+      "country": "Россия",
+      "category": "Фильм",
+      "genre": "драма",
+      "actors": "Алексей Серебряков, Даниэль Ольбрыхский, Елена Коренева, Полина Агуреева, Наталья Негода, Александр Сирин, Светлана Немоляева, Ольга Остроумова, Ёла Санько, Евгений Ткачук, Савелий Кудряшов, Игорь Пронин, Авангард Леонтьев, Сергей Дрейден, Анна Каменкова",
+      "directors": "Сергей Ливнев",
+      "producers": "Сергей Бобза, Игорь Пронин, Юлия Зайцева, Максим Павлов, Андрей Коробов, Даниэль Гитман Тадевосян, Елена Кожанова",
+      "premiere_ru": "2019-03-07",
+      "premiere": "2019-02-26",
+      "age_restrictions": 16,
+      "rating_mpaa": null,
+      "rating_kp": 6.8,
+      "rating_imdb": 6.4,
+      "time": "1:43",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1049526.jpg",
+      "description": "Отец — прославленный дирижер. Сын — талантливый, но неизвестный художник. Их отношения давно превратились в любовь-ненависть, в которой больше ненависти, чем любви. Они живут на разных концах света и стараются не видеться без необходимости. Когда такая необходимость неожиданно возникает, самые близкие и одновременно далекие люди должны будут пройти непростой путь примирения.",
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Один день лета",
+      "original_name": null,
+      "alternative_name": null,
+      "year": 2018,
+      "id_kp": 1161905,
+      "alternative_id_kp": null,
+      "id_imdb": "tt9798310",
+      "id_tmdb": 569927,
+      "id_world_art": null,
+      "token_movie": "94d13d54ffd3e3ee9c5943533301a2",
+      "last_season": null,
+      "last_episode": null,
+      "date": null,
+      "country": "Россия",
+      "category": "Фильм",
+      "genre": "комедия, мелодрама, музыка",
+      "actors": "Татьяна Бабенкова, Алекс Коморовски, Степан Ледков, Андрей Носков, Юрий Гальцев, Максим Леонидов, Иван Краско, Эра Зиганшина, Анастасия Лазо, Алексей Копылов, Маргарита Аброськина, Игорь Иванов, Геннадий Смирнов, Тина Тарусина, Егор Бакулин, Михаил Шараев, Михаил Сакулин, Александр Бобров, Сергей Гарусов, Полина Ястребова",
+      "directors": "Александр Игудин",
+      "producers": "Антон Смирнов, Юлия Соболевская, Виктор Будилов, Людмила Бударина, Александр Евменов",
+      "premiere_ru": "2018-10-11",
+      "premiere": null,
+      "age_restrictions": 16,
+      "rating_mpaa": null,
+      "rating_kp": 5.4,
+      "rating_imdb": 3.6,
+      "time": "1:40",
+      "tagline": "Приключения москвички в Петербурге",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1161905.jpg",
+      "description": "Вся жизнь недавней провинциалки, а теперь москвички Кати — одно сплошное селфи с чередой знаменитостей. Любые интриги ради лайка, любые подвиги во имя статуса «звезды инстаграм». Но количества подписчиков по-прежнему недостаточно, и ради заветной цели она отправляется в Санкт-Петербург, чтобы сделать селфи с загадочным художником, скрывающим свою личность, и тем самым взорвать интернет. А в это время в аэропорту солидный незнакомец просит Катю передать неизвестному ей адресату обычный конверт.\n\rВыполнение этого поручения не только рушит ее планы, но и в результате всего лишь за один день в корне меняет ее взгляды на жизнь.",
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Урок жестокости",
+      "original_name": "A Lesson in Cruelty",
+      "alternative_name": null,
+      "year": 2018,
+      "id_kp": 974757,
+      "alternative_id_kp": null,
+      "id_imdb": "tt5522310",
+      "id_tmdb": 503088,
+      "id_world_art": null,
+      "token_movie": "d5e1d07d3a5a5a2cf160b618c6faa7",
+      "last_season": null,
+      "last_episode": null,
+      "date": null,
+      "country": "США",
+      "category": "Фильм",
+      "genre": "комедия",
+      "actors": "Джастин Лебрун, Мартин Коппинг, Сэлли МакДональд, Майя Александра, Savannah Hastings, Майкл Д. Энглин, Андре Ди' Шон Шэнкс, Финч Ниссен, Kellie Phan, Шэнна Винсент, Трейс Мастерс, Джамара Ластер, Lydia LeRoy, Керри Келли Гридли, Уилльям Е. Харрис, Джон Л. Армихо, Shane LeCocq, Кевин Скарло, Lorenzo Antonucci, Summer Parsons",
+      "directors": "Алекс Салазар",
+      "producers": "Мартин Коппинг, Джастин Лебрун, Стэйси Экстеин, Ruben Estremera, Gregory P. Wolk",
+      "premiere_ru": null,
+      "premiere": "2018-02-02",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 4.8,
+      "time": "1:12",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/974757.jpg",
+      "description": null,
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Любительский двухголосый",
+      "translation_iframe": {
+        "88": {
+          "name": "Любительский двухголосый",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Донбасс. Окраина",
+      "original_name": null,
+      "alternative_name": null,
+      "year": 2018,
+      "id_kp": 1199529,
+      "alternative_id_kp": null,
+      "id_imdb": "tt10504928",
+      "id_tmdb": 597853,
+      "id_world_art": null,
+      "token_movie": "b0b792aa15aa84fa740d4266b4ebc7",
+      "last_season": null,
+      "last_episode": null,
+      "date": null,
+      "country": "Россия",
+      "category": "Фильм",
+      "genre": "военный, драма, триллер",
+      "actors": "Гела Месхи, Евгений Михеев, Сергей Холмогоров, Ульяна Курочкина, Анна Пескова, Женя Малахова, Валентина Попова, Иван Неклюдов, Владимир Сорков",
+      "directors": "Ренат Давлетьяров",
+      "producers": "Ренат Давлетьяров, Григорий Подземельный, Екатерина Рыжая, Михаил Колодяжный",
+      "premiere_ru": "2019-06-12",
+      "premiere": null,
+      "age_restrictions": 12,
+      "rating_mpaa": null,
+      "rating_kp": 6.2,
+      "rating_imdb": 2.8,
+      "time": "1:36",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1199529.jpg",
+      "description": "Август 2014 года, окраина Донецка. Молодой солдат украинской армии Андрей Соколов направлен в зону военных действий водителем. Спасаясь от обстрела, он попадает в подвал жилого дома, где знакомится с несколькими совершенно разными людьми. Они пришли с разных сторон, у них разные судьбы и мировоззрение, но сейчас они объединены одной целью - выжить.",
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
       "name": "Квантовый разлом",
       "original_name": "Quantum Break",
       "alternative_name": null,
@@ -1081,788 +1670,6 @@
       "translation_iframe": {
         "66": {
           "name": "Дублированный",
-          "quality": "BDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Пиковая дама: Зазеркалье",
-      "original_name": null,
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 1140394,
-      "alternative_id_kp": null,
-      "id_imdb": "tt8383694",
-      "id_tmdb": 575361,
-      "id_world_art": null,
-      "token_movie": "29fe812e848ba3cda66904467499dd",
-      "last_season": null,
-      "last_episode": null,
-      "date": null,
-      "country": "Россия",
-      "category": "Фильм",
-      "genre": "ужасы",
-      "actors": "Ангелина Стречина, Даниил Муравьев-Изотов, Владислав Коноплёв, Клаудиа Бочар, Игорь Яшанин, Валерий Панков, Владимир Канухин, Алена Швиденкова, Ян Алабушев, Анастасия Талызина, Дмитрий Куличков, Дарья Белоусова, Татьяна Кузнецова, Виолетта Давыдовская, Александра Рудина",
-      "directors": "Александр Домогаров мл.",
-      "producers": "Константин Буслов, Владислав Северцев, Дмитрий Литвинов, Дмитрий Писарук, Кристина Рейльян",
-      "premiere_ru": "2019-03-14",
-      "premiere": "2019-07-12",
-      "age_restrictions": 16,
-      "rating_mpaa": null,
-      "rating_kp": 5.1,
-      "rating_imdb": 5,
-      "time": "1:23",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1140394.jpg",
-      "description": "Зловещий призрак Пиковой Дамы снова жаждет крови, и на этот раз его жертвами становятся воспитанники школы-интерната, расположенного в старинном особняке, окутанном мрачными слухами. Развлекая друг друга страшилками об убийствах детей, которые совершались в этом доме в позапрошлом столетии, подростки находят в заброшенном крыле здания таинственное зеркало, покрытое загадочными рисунками. Ради шутки, ученики проводят перед этим зеркалом мистический обряд вызова духа Пиковой Дамы и загадывают самые сокровенные желания, надеясь, что призрак их исполнит. Шутники не подозревают о том, что платой за выполнение каждой прихоти станут их собственные души – и что Пиковая Дама не успокоится, пока не получит их все.",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Не требуется",
-      "translation_iframe": {
-        "82": {
-          "name": "Не требуется",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Призрачный патруль",
-      "original_name": "Deadtectives",
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 826382,
-      "alternative_id_kp": null,
-      "id_imdb": "tt3503068",
-      "id_tmdb": 541099,
-      "id_world_art": null,
-      "token_movie": "d27d906bf3bb0216502a794041ea54",
-      "last_season": null,
-      "last_episode": null,
-      "date": null,
-      "country": "США",
-      "category": "Фильм",
-      "genre": "комедия, ужасы",
-      "actors": "Крис Гир, Тина Ивлев, Дэвид Ньюман, Хосе Мария Де Тавира, Марта Игареда, Эмилио Савинни, Марк Райли, Valentina Zertuche, Matías del Castillo, Нури Бланко, Крис Райс, Milleth Gómez, Raúl Aranda-Lee, Сеселия Антониетта, Maria Cargutié, Пабло Гиса Кёстингер",
-      "directors": "Тони Уэст",
-      "producers": "Даниэль Посада, Jason Tamasco, Чарльз М. Барсамиан, Джерри Кареччио, Саманта Кастельяно, Джонатан Дэвис, Патрик ДиПитерс, Майкл Февелль, Алексис Фридман",
-      "premiere_ru": "2019-09-26",
-      "premiere": "2018-10-05",
-      "age_restrictions": 16,
-      "rating_mpaa": null,
-      "rating_kp": 5.3,
-      "rating_imdb": 6.3,
-      "time": "1:32",
-      "tagline": "Когда работа – нечистая сила",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/826382.jpg",
-      "description": "Ведущие успешного телешоу «Призрачный патруль» прекрасно справляются с ролью умелых охотников за привидениями и прочей нечистью. До тех пор пока не оказываются в заброшенном особняке, полном паранормальных секретов. Как не опозориться перед поклонниками шоу и не умереть от страха?",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Многоголосый закадровый",
-      "translation_iframe": {
-        "72": {
-          "name": "Многоголосый закадровый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Куртизанки",
-      "original_name": "Harlots",
-      "alternative_name": null,
-      "year": 2017,
-      "id_kp": 1007866,
-      "alternative_id_kp": null,
-      "id_imdb": "tt5761478",
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "5d70c071d18531a7ee9e46cbfbb3b2",
-      "last_season": 3,
-      "last_episode": 8,
-      "date": null,
-      "country": "Великобритания, США",
-      "category": "Сериал",
-      "genre": "драма",
-      "actors": "Лесли Мэнвилл, Кейт Флитвуд, Холли Демпси, Элуиз Смит, Бронвин Джеймс, Пиппа Беннетт-Уорнер, Дэнни Сапани, Элли Хейдон, Саманта Мортон, Джессика Браун-Финдли, Джордан А. Нэш, Дагги Макмикин, Дороти Эткинсон, Лив Тайлер, Джордон Стивенс, Розалинд Элизар, Francesca Mills, Джулиан Райнд-Татт, Бен Ламберт, Джозеф Алтин",
-      "directors": "Коки Гидройч, Джилл Робертсон, Чина Му-Ен, Филиппа Лангдэйл, Робин Шеппард, Хлоя Томас, Дебс Гарднер-Патерсон",
-      "producers": "Мойра Буффини, Элисон Карпентер, Дебра Хейуорд",
-      "premiere_ru": null,
-      "premiere": "2017-03-27",
-      "age_restrictions": 18,
-      "rating_mpaa": null,
-      "rating_kp": 7.8,
-      "rating_imdb": 7.7,
-      "time": "1:00",
-      "tagline": "Pleasure has a price",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1007866.jpg",
-      "description": "История разворачиваются в XVIII столетии. Маргарет Уэллс — владелица борделя, все силы и заработанные средства отдающая на воспитание дочерей.",
-      "iframe": "",
-      "seasons_count": 3,
-      "seasons": {
-        "3": {
-          "iframe": "",
-          "season": 3,
-          "episodes": {
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        },
-        "2": {
-          "iframe": "",
-          "season": 2,
-          "episodes": {
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        },
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "98": {
-                  "translation": "Studio Films",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "WEB-DL",
-      "translation": "TVShows, Studio Films",
-      "translation_iframe": {
-        "96": {
-          "name": "TVShows",
-          "quality": "WEB-DL",
-          "iframe": ""
-        },
-        "98": {
-          "name": "Studio Films",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "По воле божьей",
-      "original_name": "Grâce à Dieu",
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 1157488,
-      "alternative_id_kp": null,
-      "id_imdb": "tt8095860",
-      "id_tmdb": 509364,
-      "id_world_art": null,
-      "token_movie": "327fa3ab087d5ecdb1d3cb8533b462",
-      "last_season": null,
-      "last_episode": null,
-      "date": null,
-      "country": "Бельгия, Франция",
-      "category": "Фильм",
-      "genre": "драма, криминал",
-      "actors": "Мельвиль Пупо, Дени Меноше, Сванн Арло, Эрик Каравака, Франсуа Марторе, Бернар Верле, Жозиан Баласко, Мартина Эрель, Элен Венсан, Франсуа Шатто, Фредерик Пьеро, Орелия Пети, Джули Дюкло, Джинн Роза, Амели Доре, Николя Бриде, Пьер Лоттен, Фейрия Делиба, Байя Реас, Стефан Брель",
-      "directors": "Франсуа Озон",
-      "producers": "Эрик Альтмайер, Николас Альтмайер, Давид Рагониг",
-      "premiere_ru": "2019-04-29",
-      "premiere": "2018-12-10",
-      "age_restrictions": 18,
-      "rating_mpaa": null,
-      "rating_kp": 6.7,
-      "rating_imdb": 7.2,
-      "time": "2:17",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1157488.jpg",
-      "description": "Александр, Франсуа и Жиль, взрослые состоявшиеся мужчины, объединяются в борьбе против почтенного священника, некогда поломавшего жизнь им и еще десяткам мальчиков. В этой праведной битве - с собственной уязвимостью и чужими предрассудками, с косными институтами и молчаливыми свидетелями - каждому из мужчин предстоит выбрать, во что верить, над чем смеяться, и кого прощать.",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Вечер с Беверли Лафф Линн",
-      "original_name": "An Evening with Beverly Luff Linn",
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 1026871,
-      "alternative_id_kp": null,
-      "id_imdb": "tt6518270",
-      "id_tmdb": 446695,
-      "id_world_art": null,
-      "token_movie": "bbe1ac32ea6ac0a3ee61d7e5dc7a60",
-      "last_season": null,
-      "last_episode": null,
-      "date": null,
-      "country": "Великобритания, США",
-      "category": "Фильм",
-      "genre": "комедия, криминал",
-      "actors": "Обри Плаза, Эмиль Хирш, Джемейн Клемент, Мэтт Берри, Крэйг Робинсон, Мария Бэмфорд, Зак Черри, Скай Элобар, Майкл Коэн, Джакоб Уайсоки, Джон Керри, Беттина Девин, Сэм Диссанайяке, Gil Gex, Карл Соломон, Kirsten Krieg, Bruce Paz, Adam Foster, Расс Берд",
-      "directors": "Джим Хоскин",
-      "producers": "Сэм Бисби, Теодора Данлэп, Эмили Лео, Оливер Роскилл, Эндрю Старк, Лакен Тох, Лэнс Экорд, Джеки Келман Бисби, Найджел Бут",
-      "premiere_ru": "2019-10-10",
-      "premiere": "2018-01-20",
-      "age_restrictions": 16,
-      "rating_mpaa": "R",
-      "rating_kp": 6,
-      "rating_imdb": 5.8,
-      "time": "1:48",
-      "tagline": "A love triangle with too many sides.",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1026871.jpg",
-      "description": "Уволенная с работы собственным мужем Лулу Денджер теперь целыми днями валяется на диване перед телевизором. Однажды она видит по телевидению рекламу некоего «Волшебного вечера с Беверли Лафф Линн» в отеле неподалёку. Этот мужчина когда-то очень много для неё значил, и, используя подвернувшуюся возможность - незнакомца с пистолетом, пришедшего забрать деньги у её мужа, которые тот украл у её брата, - Лулу сбегает из дома и направляется в тот отель навстречу судьбе.",
-      "iframe": "",
-      "quality": "WEBRip",
-      "translation": "Любительский",
-      "translation_iframe": {
-        "89": {
-          "name": "Любительский",
-          "quality": "WEBRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Игра воображения",
-      "original_name": "Imajineshon gemu",
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 1165522,
-      "alternative_id_kp": null,
-      "id_imdb": "tt0113384",
-      "id_tmdb": 462397,
-      "id_world_art": null,
-      "token_movie": "ca16e09ba0f9d6acddfd9be8166d60",
-      "last_season": null,
-      "last_episode": null,
-      "date": null,
-      "country": "Япония",
-      "category": "Фильм",
-      "genre": "драма",
-      "actors": "Масами Хисамото, Томоми Итано, Минами Сэнгоку, Котаро Танака, Сусуму Тэрадзима, Сюто Васио",
-      "directors": "Таисукэ Хата",
-      "producers": "Рё Юкидзанэ",
-      "premiere_ru": null,
-      "premiere": "2018-06-28",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 5.7,
-      "time": "1:31",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1165522.jpg",
-      "description": null,
-      "iframe": "",
-      "quality": "HDRip",
-      "translation": "Многоголосый закадровый",
-      "translation_iframe": {
-        "72": {
-          "name": "Многоголосый закадровый",
-          "quality": "HDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Триллер",
-      "original_name": "Thriller",
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 1195476,
-      "alternative_id_kp": null,
-      "id_imdb": "tt7671414",
-      "id_tmdb": 541100,
-      "id_world_art": null,
-      "token_movie": "470dac0759e22521cf5650a0a350a8",
-      "last_season": null,
-      "last_episode": null,
-      "date": null,
-      "country": "США",
-      "category": "Фильм",
-      "genre": "драма, триллер, ужасы",
-      "actors": "Noah Abbott, Джонни Александр, Джессика Уильямс, Чет Анекве, Биг Бой, Ванесса Белл Кэллоуэй, Джордан Алекса Дэвис, Джулиус Денем, Marcus Doyle, Josh Drummond, Митчелл Эдвардс, Skipper Elekwachi, Чарльз Грир IV, Маэстро Харрелл, Пейдж Херд, Кевин Джексон, Чонси Дженкинс, The Lady of Rage, Джули Ли, Майкл Окампо",
-      "directors": "Даллас Джексон",
-      "producers": "Грег Гилрет, Адам Хендрикс, Даллас Джексон, Джон Х. Лэнг, Зак Лок, Кен Рэнс, RZA, Дэвид Гроув Черчилль Вист, Ralf Weinfurtner",
-      "premiere_ru": null,
-      "premiere": "2018-09-23",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 3.7,
-      "time": "1:27",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1195476.jpg",
-      "description": "Группа подростков неудачно подшутила над своим одноклассником, а тот, оттолкнув одного из шутников, случайно убил его. Теперь парень сядет, а когда выйдет, то отомстит всем, кто украл у него лучшие годы жизни.",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Многоголосый закадровый",
-      "translation_iframe": {
-        "72": {
-          "name": "Многоголосый закадровый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Стальная страна",
-      "original_name": "Steel Country",
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 997477,
-      "alternative_id_kp": null,
-      "id_imdb": "tt5936866",
-      "id_tmdb": 412157,
-      "id_world_art": null,
-      "token_movie": "d89125e265fa1d2f4ee29a1d5066a9",
-      "last_season": null,
-      "last_episode": null,
-      "date": null,
-      "country": "Великобритания, США",
-      "category": "Фильм",
-      "genre": "детектив, триллер",
-      "actors": "Эндрю Скотт, Денис Гоф, Катрин Дайер, Брона Во, Дж.Д. Эвермор, Бекки Уолстром, Сандра Эллис Лэфферти, Джаред Банкенс, Грифф Ферст, Джейсон Дэвис, Кристиан Финлейсон, Криста Бэт Кэмпбелл, Майкл Эдвард Роуз, Эрик Менденхолл, Кори Скотт Аллен, Дидра Мур, Эндрю Массет, Шон Фриланд, Кевин Патрик Мёрфи, Том Олсон",
-      "directors": "Саймон Феллоуз",
-      "producers": "Леон Клэранс, Таи Дункан, Гарет Унвин, Марк Уильямс, Питер Хэмпден, Норман Мерри, Джо Монк, Люси Трендл, Лор Вайссе",
-      "premiere_ru": null,
-      "premiere": "2018-06-24",
-      "age_restrictions": 18,
-      "rating_mpaa": null,
-      "rating_kp": 6.1,
-      "rating_imdb": 6.2,
-      "time": "1:29",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/997477.jpg",
-      "description": "Когда мальчик пропадает без вести на окраине сонного городка в штатах, местный мусорщик Дональд решает разобраться с этим делом сам.",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Семь пар нечистых",
-      "original_name": null,
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 984366,
-      "alternative_id_kp": null,
-      "id_imdb": "tt10505100",
-      "id_tmdb": 565469,
-      "id_world_art": null,
-      "token_movie": "731b3282b9c484c9a7f8555ff35e6f",
-      "last_season": null,
-      "last_episode": null,
-      "date": null,
-      "country": "Россия",
-      "category": "Фильм",
-      "genre": "боевик, военный, драма",
-      "actors": "Юра Борисов, Мари Ворожи, Тимофей Трибунцев, Василий Мищенко, Михаил Евланов, Александр Вершинин, Евгений Куршинский, Микаэль Джанибекян, Бесо Гатаев, Александр Алёшкин, Максим Браматкин, Станислав Курач, Артём Мельничук, Александр Коротков, Александр Ковалёв, Вадим Утенков, Константин Спиркин, Егор Клейменов, Азамат Нигманов, Кирилл Белевич",
-      "directors": "Кирилл Белевич",
-      "producers": "Вадим Абдрашитов, Дмитрий Потемкин, Федор Гончаров",
-      "premiere_ru": "2018-12-06",
-      "premiere": null,
-      "age_restrictions": 16,
-      "rating_mpaa": null,
-      "rating_kp": 5.9,
-      "rating_imdb": 4.8,
-      "time": "1:27",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/984366.jpg",
-      "description": "1941 г. Бунт в открытом море – это всегда страшно. Ненависть заключенных и охранников друг к другу копится десятилетиями. Эта ненависть переполняет людей. Бунт заключенных на корабле страшен вдвойне. Слишком много ненависти на ограниченном пространстве. Но все меняется, когда появляется общий враг.",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Не требуется",
-      "translation_iframe": {
-        "82": {
-          "name": "Не требуется",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Райские холмы",
-      "original_name": "Paradise Hills",
-      "alternative_name": null,
-      "year": 2019,
-      "id_kp": 1097391,
-      "alternative_id_kp": null,
-      "id_imdb": "tt6127004",
-      "id_tmdb": 487083,
-      "id_world_art": null,
-      "token_movie": "4efd78649c6d3a6c4d0017bb84e435",
-      "last_season": null,
-      "last_episode": null,
-      "date": null,
-      "country": "Испания",
-      "category": "Фильм",
-      "genre": "триллер, фантастика, фэнтези",
-      "actors": "Эмма Робертс, Даниэль Макдональд, Аквафина, Милла Йовович, Эйса Гонсалес, Джереми Ирвин, Арно Валуа, Дэниэл Хорват, Джои Сордил, Нэнси Джек, Джулия Штрезен-Ройтер Рамирес, Ted Stresen-Reuter, Erica Bertamini Hoashi, Лесли Грант, Lea Isabel Schaaf, Julia Atsu, Карина Колокольчикова, Candela May, Kenan Yetnayet, Manju Rubí",
-      "directors": "Элис Вэддингтон",
-      "producers": "Адриан Герра, Нурия Вол, Марта Санчес",
-      "premiere_ru": "2019-11-07",
-      "premiere": "2019-01-26",
-      "age_restrictions": 16,
-      "rating_mpaa": null,
-      "rating_kp": 5.6,
-      "rating_imdb": 5.5,
-      "time": "1:35",
-      "tagline": "Дивный новый мир",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1097391.jpg",
-      "description": "Добро пожаловать в дивный новый мир. Здесь создан высокотехнологичный остров, имя которому - Райские холмы. Богатые семьи отправляют сюда «несовершенных» дочерей, чтобы преобразить их по своему желанию. Ведь если ты принадлежишь к высшему обществу, даже в далеком будущем брак по любви – непозволительная роскошь. Красота, покорность и непорочность – вот путь к новой жизни. И тебя ждет прекрасное будущее, но только если ты готова подчиняться правилам.",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "HDrezka Studio",
-      "translation_iframe": {
-        "85": {
-          "name": "HDrezka Studio",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Код Красный",
-      "original_name": "Red Joan",
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 1102365,
-      "alternative_id_kp": null,
-      "id_imdb": "tt7615302",
-      "id_tmdb": 494974,
-      "id_world_art": null,
-      "token_movie": "9008a0c7e14d858eba883f5dfe1e8c",
-      "last_season": null,
-      "last_episode": null,
-      "date": null,
-      "country": "Великобритания",
-      "category": "Фильм",
-      "genre": "биография, драма, мелодрама",
-      "actors": "Джуди Денч, Софи Куксон, Стивен Кэмпбелл Мур, Том Хьюз, Нина Сосанья, Лоуренс Спэллман, Николя Слоун, Тереза Србова, Фредди Гаминара, Raj Swamy, Адриан Вилер, Бен Майлз, Lulu Meissner, Филип Лангхорн, Mike Sykes, Эд Бирч, Дебби Чейзен, Робин Соанс, Рэймонд Култхард, Саймон Ладдерс",
-      "directors": "Тревор Нанн",
-      "producers": "Дэвид Парфитт, Келли Эштон, Джеймс Атертон, Клеона Кларк, Элис Доусон, Хьюго Грумбар, Тим Хаслам, Зиги Камаса, Айван Мактаггарт",
-      "premiere_ru": "2019-04-18",
-      "premiere": "2018-09-07",
-      "age_restrictions": 18,
-      "rating_mpaa": "R",
-      "rating_kp": 6.7,
-      "rating_imdb": 6.4,
-      "time": "1:41",
-      "tagline": "Реальная история русской шпионки, предотвратившей Третью мировую войну",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1102365.jpg",
-      "description": "Реальная история русской шпионки, которая предотвратила Третью мировую войну. Британская разведка долгие годы гонялась за ней, ее имя стало легендой, но о ее подвиге мы узнали только сейчас, когда был снят гриф секретности.",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Город лжи",
-      "original_name": "City of Lies",
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 743463,
-      "alternative_id_kp": null,
-      "id_imdb": "tt2677722",
-      "id_tmdb": 433501,
-      "id_world_art": null,
-      "token_movie": "dcba6fd726a8dd8ac5933170fec7f2",
-      "last_season": null,
-      "last_episode": null,
-      "date": null,
-      "country": "Великобритания, США",
-      "category": "Фильм",
-      "genre": "драма, криминал, триллер",
-      "actors": "Джонни Депп, Форест Уитакер, Тоби Хасс, Дэйтон Калли, Нил Браун мл., Луис Хертэм, Шей Уигэм, Ксандер Беркли, Шамир Андерсон, Лоуренс Мэйсон, Кристиан Джордж, Майкл Паре, Эймин Джозеф, Josh Hardwick, Гленн Пламмер, Кит Шарабайка, Dominique Columbus, Анджела Готс, Марисоль Сакраменто, Рокмонд Данбар",
-      "directors": "Брэд Фурман",
-      "producers": "Стюарт Манашил, Пол М. Бреннан, Зэнн Дивайн, Трой Пестано Дуглас, Брэд Фейнштейн, Джесс Фьюерст, Джефф Джеффрэй, Брюс Уэйн Гиллис, Питер Хэмпден",
-      "premiere_ru": null,
-      "premiere": "2018-12-08",
-      "age_restrictions": 18,
-      "rating_mpaa": "R",
-      "rating_kp": 5.9,
-      "rating_imdb": 6.4,
-      "time": "1:52",
-      "tagline": "Кто убил Бигги?",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/743463.jpg",
-      "description": "7 сентября 1996 года был смертельно ранен рэпер Тупак Шакур, через полгода был застрелен главный подозреваемый в его убийстве – хип-хоп-звезда Бигги Смолз. Преступники не были найдены, дело о «рэперской войне побережий» было закрыто. Спустя годы опальный детектив Рассел Пул возвращается к расследованию и вместе с репортером Джексоном распутывает паутину немыслимого заговора, в котором, очевидно, замешана полиция Лас-Вегаса.",
-      "iframe": "",
-      "quality": "BDRip",
-      "translation": "Многоголосый закадровый",
-      "translation_iframe": {
-        "72": {
-          "name": "Многоголосый закадровый",
           "quality": "BDRip",
           "iframe": ""
         }

@@ -1,6 +1,498 @@
 {
   "data": [
     {
+      "name": "Банджо",
+      "original_name": "Banjo",
+      "alternative_name": null,
+      "year": 2016,
+      "id_kp": 992280,
+      "alternative_id_kp": null,
+      "id_imdb": "tt5755606",
+      "id_tmdb": 403517,
+      "id_world_art": null,
+      "token_movie": "c0a36d755697912837a1c94b9a599a",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-05-14 19:52:07",
+      "country": "Индия",
+      "category": "Фильм",
+      "genre": "боевик, драма, мелодрама",
+      "actors": "Ритеш Дешмукх, Наргис Факхри, Адитья Кумар, Рэм Менон, Dharmesh Yelande, Удай Сабнис, Джанардхан Параб, Люк Кенни, Sheeba George, Пурнима Ахире, Ананд Ингл, Нитин Джадхав, Shruthi Mathur, Рита Пауэрс, Дургеш Радж, Милинд Шинде, Dattsangram Wasamkar",
+      "directors": "Рави Джадхав",
+      "producers": "Кришика Лулла, Винай Чаукар, ChandraPrakash Dubey, Арун Кумар, Санджай Мехта",
+      "premiere_ru": null,
+      "premiere": "2016-09-23",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 4.9,
+      "time": "2:17",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/992280.jpg",
+      "description": "Рассказ о четырёх друзьях, которые создали банджо-группу для дополнительного заработка. Несмотря на то, что они пользуются огромной популярностью среди местных и не только, друзья стыдятся своего увлечения банджо. Однажды из США в Мумбаи приезжает DJ Крис в поисках группы, чья мелодия ей так понравилась, чтобы пригласить ребят принять участие в международном музыкальном фестивале. Однако найти группу, которая не желает быть найденной, не так-то просто.",
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Любительский многоголосый",
+      "translation_iframe": {
+        "123": {
+          "name": "Любительский многоголосый",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Нэнси",
+      "original_name": "Nancy",
+      "alternative_name": null,
+      "year": 2018,
+      "id_kp": 1027718,
+      "alternative_id_kp": null,
+      "id_imdb": "tt6509058",
+      "id_tmdb": 480853,
+      "id_world_art": null,
+      "token_movie": "6cd73bea0e4afc970b6f6038031cc4",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-05-14 19:49:52",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "детектив, драма",
+      "actors": "Андреа Райзборо, Стив Бушеми, Энн Дауд, Джон Легуизамо, Дж. Смит-Камерон, Маринда Андерсон, Jamie Angelle, Лоренцо Беронилла, Оуэн Кэмпбелл, Самрат Чакрабарти, Олли Хааскиви, Рене Давид Ифра, James Karpowicz, Вирджиния Кулл, Линда Кутрубис, Ann Lucente, Т. Сахара Меер",
+      "directors": "Кристина Чоу",
+      "producers": "Michelle Cameron, Эми Ло, Андреа Райзборо, Барбара Брокколи, Дэн Коган, Гералин Уайт Дрейфус, Венди Эттинджер, Минетт Луи, Т. Сахара Меер",
+      "premiere_ru": null,
+      "premiere": "2018-01-20",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 6.1,
+      "rating_imdb": 6.2,
+      "time": "1:25",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1027718.jpg",
+      "description": "Нэнси Фримен – изобретательная интернет-мошенница, которая выдаёт себя за других людей, чтобы добиться чужого внимания и сочувствия. Но оказавшись на пороге разоблачения, Нэнси рискует потерять того единственного человека, который любил её по-настоящему.",
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Профессиональный многоголосый",
+      "translation_iframe": {
+        "87": {
+          "name": "Профессиональный многоголосый",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Человек-муравей и Оса",
+      "original_name": "Ant-Man and the Wasp",
+      "alternative_name": null,
+      "year": 2018,
+      "id_kp": 935940,
+      "alternative_id_kp": null,
+      "id_imdb": "tt5095030",
+      "id_tmdb": 363088,
+      "id_world_art": null,
+      "token_movie": "984523bcd5a0c31f9ab1556517d275",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-05-14 19:47:17",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "боевик, комедия, фантастика",
+      "actors": "Пол Радд, Эванджелин Лилли, Майкл Дуглас, Ханна Джон-Кэймен, Майкл Пенья, Лоренс Фишбёрн, Уолтон Гоггинс, Ти-Ай, Давид Дастмалчян, Мишель Пфайффер, Бобби Каннавале, Джуди Грир, Эбби Райдер Фортсон, Рэндолл Пак, Дивиан Ладва, Горан Костич, Роб Арчер, Шон Клайар, Бен Дэвис, Майкл Серверис",
+      "directors": "Пейтон Рид",
+      "producers": "Виктория Алонсо, Митчелл Белл, Стивен Бруссар, Луис Д’Эспозито, Кевин Файги, Стэн Ли, Чарльз Невирт, Laura Stoltz, Ларс П. Уинтер",
+      "premiere_ru": "2018-07-05",
+      "premiere": "2018-06-25",
+      "age_restrictions": 12,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 6.9,
+      "rating_imdb": 7.1,
+      "time": "1:58",
+      "tagline": "Real heroes. Not actual size.",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/935940.jpg",
+      "description": "Скотт Лэнг, известный также как Человек-муравей, уже заслужил право оказаться в команде Мстителей. Но желание быть ближе к дочери удерживает его в родном Сан-Франциско – до тех пор, пока доктор Хэнк Пим, создавший когда-то изменяющий размеры своего владельца чудо-костюм, не призывает Скотта присоединиться к новой опасной миссии. А помогать в противостоянии с коварным врагом Человеку-муравью будет новая напарница – Оса.",
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "В шесть часов вечера после войны",
+      "original_name": null,
+      "alternative_name": null,
+      "year": 1944,
+      "id_kp": 45632,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0037423",
+      "id_tmdb": 390605,
+      "id_world_art": null,
+      "token_movie": "a6cd588e7429632ba5be8925cab5ac",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-05-14 19:39:12",
+      "country": "СССР",
+      "category": "Фильм",
+      "genre": "драма, мелодрама, мюзикл",
+      "actors": "Евгений Самойлов, Марина Ладынина, Иван Любезнов, Ариадна Лысак, Елена Савицкая, Александр Антонов, Людмила Семенова, Тихон Хренников, Александра Данилова, Евгений Моргунов, Ирина Мурзаева, Михаил Пуговкин, Татьяна Барышева, Татьяна Говоркова, Маргарита Жарова",
+      "directors": "Иван Пырьев",
+      "producers": "",
+      "premiere_ru": null,
+      "premiere": "1944-11-16",
+      "age_restrictions": 12,
+      "rating_mpaa": null,
+      "rating_kp": 7.2,
+      "rating_imdb": 6.9,
+      "time": "1:41",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/45632.jpg",
+      "description": "Расставаясь, они обещали друг другу встретиться в шесть часов вечера после войны на Каменном мосту в Москве. Пять долгих и невыносимо тяжелых лет артиллерист Вася Кудряшов и зенитчица Варя Панкова ждали этой встречи. Верили в нее даже тогда, когда смерть подходила слишком близко. И эта вера помогла им выжить. Судьба вознаградила молодых людей за силу, мужество и терпение...",
+      "iframe": "",
+      "quality": "DVDRip",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "DVDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Мятежник",
+      "original_name": "Rebel",
+      "alternative_name": null,
+      "year": 2012,
+      "id_kp": 689665,
+      "alternative_id_kp": null,
+      "id_imdb": "tt2235858",
+      "id_tmdb": 135870,
+      "id_world_art": null,
+      "token_movie": "87c74b87f124fe48f7e9298f369517",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-05-14 19:39:06",
+      "country": "Индия",
+      "category": "Фильм",
+      "genre": "боевик, драма, комедия",
+      "actors": "Прабхас, Таманна Бхатия, Дикша Сетх, Келли Дорджи, Брахманандам, Мукеш Риши, Чалапатхи Рао, Саяджи Шинде, Али, М.С. Нарьяна, Джаяпракаш Редди, Джива, Суприт, Кришнамраджу, Прадип Рават, Коваи Сарала, Др. Бхарат Редди, К.С. Шанкар, Прабха, Хема",
+      "directors": "Лоуренс Рагхавендра",
+      "producers": "Бхагаван Дж., Дж. Пулла Рао",
+      "premiere_ru": null,
+      "premiere": "2012-09-27",
+      "age_restrictions": 16,
+      "rating_mpaa": null,
+      "rating_kp": 7.6,
+      "rating_imdb": 4.7,
+      "time": "2:48",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/689665.jpg",
+      "description": "Он прилетел в Хайдарабад, преследуя главную цель в своей жизни – найти врага. Два года он искал его, движимый жаждой мести. Два мучительных года. Но враг силен и коварен, а у героя нет даже его изображения. Напасть на след врага можно через дочь его сподручного. Нандини сбежала от отца и окружающего его криминального мира в Бангкок. \r\n\r\nЧтобы реализовать план, Риши нужно влюбить в себя девушку и обманом заставить ее помогать ему. Это непросто. Но кровь семьи, пролитая два года назад, стоит того, чтобы герой пошел на любые жертвы во имя свершения мести...",
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "SDI Media",
+      "translation_iframe": {
+        "109": {
+          "name": "SDI Media",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Разлом Сан-Андреас",
+      "original_name": "San Andreas",
+      "alternative_name": null,
+      "year": 2015,
+      "id_kp": 652692,
+      "alternative_id_kp": null,
+      "id_imdb": "tt2126355",
+      "id_tmdb": 254128,
+      "id_world_art": null,
+      "token_movie": "a059b1e973b775ccadece1bac05f47",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-05-14 19:37:39",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "боевик, драма, триллер",
+      "actors": "Дуэйн Джонсон, Карла Гуджино, Александра Даддарио, Йоан Гриффит, Арчи Панджаби, Пол Джаматти, Хьюго Джонстон-Барт, Арт Паркинсон, Уилл Юн Ли, Кайли Миноуг, Колтон Хэйнс, Тодд Уильямс, Мэтт Джералд, Алек Утгофф, Марисса Нейтлинг, Морган Гриффин, Бриэнн Хилл, Лоуренс Кой, Фиона Пресс, Дэннис Корд",
+      "directors": "Брэд Пейтон",
+      "producers": "Бо Флинн, Брюс Берман, Ричард Бренер, Сэмюэл Дж. Браун, Роб Кауэн, Майкл Диско, Хирам Гарсиа, Венди Джейкобсон, Трип Винсон",
+      "premiere_ru": "2015-05-28",
+      "premiere": "2015-05-21",
+      "age_restrictions": 12,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 6.2,
+      "rating_imdb": 6.1,
+      "time": "1:54",
+      "tagline": "Ever have one of THOSE days...? Pray you don't.",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/652692.jpg",
+      "description": "Рэй — пилот спасательного вертолета, который всю свою жизнь помогал другим людям. За все время работы он насмотрелся на множество жутких вещей и не раз оказывался в очень сложных ситуациях. Несмотря на все преграды он спешил на помощь, даже не предполагая, что самое страшное ждет его впереди.\n\rНа Калифорнию обрушивается мощное землетрясение, в результате которого гибнут сотни людей и образовывается огромная трещина в земле. Во всеобщем хаосе Рэю предстоит отыскать свою дочь, но сделать это будет очень непросто. В надежде, что его ребенок все еще жив, он отправляется в смертельно опасное путешествие через весь штат...",
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Лидер",
+      "original_name": "Naayak",
+      "alternative_name": null,
+      "year": 2013,
+      "id_kp": 712599,
+      "alternative_id_kp": null,
+      "id_imdb": "tt2440354",
+      "id_tmdb": 182954,
+      "id_world_art": null,
+      "token_movie": "5b3fc96ee8ad838cd9034cc8cd460a",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-05-14 19:37:38",
+      "country": "Индия",
+      "category": "Фильм",
+      "genre": "боевик",
+      "actors": "Рам Чаран Теджа, Каджал, Амала Пол, Anandhi, Рагху Бабу, Брахманандам, Рахул Дев, Рагху Кумар Каруманчи, Чарми, Винит Кумар, Кришна Мурали Посани, Джаяпракаш Редди, Прадип Рават, Фиш Венкат, Ашиш Видьятхи",
+      "directors": "Винайяк В.В.",
+      "producers": "Д.В.В. Данайя, С. Радха Кришна, Daniel Utjesanovic",
+      "premiere_ru": null,
+      "premiere": "2013-01-09",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 7.7,
+      "rating_imdb": 5.5,
+      "time": "2:30",
+      "tagline": "The Leader",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/712599.jpg",
+      "description": "Черри – инженер-программист из Хайдерабада. Когда у его дяди случаются проблемы с местным криминальным авторитетом, Черри разрабатывает план по вызволению дяди из неприятностей, но по ходу выполнения влюбляется в сестру авторитета Маду. В это время в Хайдарабаде и Калькутте начинается череда громких убийств. Когда целью становится министр Рават, обвинение предъявляют Черри. За ним начинает охотиться спецподразделение, что оборачивается совершенно непредвиденными ситуациями.",
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "SDI Media",
+      "translation_iframe": {
+        "109": {
+          "name": "SDI Media",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Беззаботные",
+      "original_name": "Befikre",
+      "alternative_name": null,
+      "year": 2016,
+      "id_kp": 975537,
+      "alternative_id_kp": null,
+      "id_imdb": "tt5108476",
+      "id_tmdb": 399624,
+      "id_world_art": null,
+      "token_movie": "b25e872d3e70d8e526cadab7db5b61",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-05-14 19:35:52",
+      "country": "Индия",
+      "category": "Фильм",
+      "genre": "драма, комедия, мелодрама",
+      "actors": "Ранвир Сингх, Ваани Капур, Акарш Хурана, Элиза Башир Бей, Hugo Diego Garcia, Жули Ордон, Нум Дьявара, Армаан Ралхан, Ayesha Raza, Джинда Кане, François-Marie Nivon, Bertrand Usclat, Ару Кришнанш Верма, Маринелли Васлон, Vincent Paquot, Ги Амрам, Marie Wadoux, Floran Royer, Pierre Cevaer, Лай Юнь",
+      "directors": "Адитья Чопра",
+      "producers": "Адитья Чопра, Рафаэль Бенолье, Antonin Depardieu, Бхарат Равайл, Ашиш Сингх",
+      "premiere_ru": "2017-12-22",
+      "premiere": "2016-12-08",
+      "age_restrictions": 12,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 3.9,
+      "time": "2:10",
+      "tagline": "Они осмелились любить",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/975537.jpg",
+      "description": "История о том, какой беззаботной может быть любовь. Дхарам – среднестатистический делиец, который приезжает в Париж в поисках заработка и приключений. На пороге этого путешествия жизнь сталкивает его с необузданной и свободолюбивой девушкой Шайрой, француженкой индийского происхождения. Между молодыми людьми завязывается бурный роман, в котором оба, равные по темпераменту, проходят самую настоящую проверку на прочность! Переживая как взлеты, так и падения, оба понимают, что любовь – это акт доверия, который может совершить лишь тот, кто осмелится полюбить.",
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Honey&Haseena",
+      "translation_iframe": {
+        "141": {
+          "name": "Honey&Haseena",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Валериан и город тысячи планет",
+      "original_name": "Valerian and the City of a Thousand Planets",
+      "alternative_name": null,
+      "year": 2017,
+      "id_kp": 689960,
+      "alternative_id_kp": null,
+      "id_imdb": "tt2239822",
+      "id_tmdb": 339964,
+      "id_world_art": null,
+      "token_movie": "180e933b7b106d2deac3a782f263ad",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-05-14 19:35:51",
+      "country": "Бельгия, Китай, Франция",
+      "category": "Фильм",
+      "genre": "боевик, фантастика, фэнтези",
+      "actors": "Дэйн ДеХаан, Кара Делевинь, Клайв Оуэн, Рианна, Итан Хоук, Херби Хэнкок, Крис У, Сэм Спруэлл, Ален Шаба, Рутгер Хауэр, Питер Хадсон, Ксавье Джанноли, Луи Летерье, Эрик Рошан, Бенуа Жако, Оливье Мегатон, Жерар Кравчик, Пьер Качья, David Saada, Hippolyte Burkhart-Uhlen",
+      "directors": "Люк Бессон",
+      "producers": "Люк Бессон, Фанни Бессон, Виржини Силла, ДжейСи Чэн, Dylan Haggerty, Грегори Уанон",
+      "premiere_ru": "2017-08-10",
+      "premiere": "2017-07-17",
+      "age_restrictions": 12,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 6.8,
+      "rating_imdb": 6.5,
+      "time": "2:16",
+      "tagline": "From the visionary director of The Fifth Element and Lucy",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/689960.jpg",
+      "description": "2700 год. Валериан и Лорелин - космические спецагенты, которые по долгу службы впутались в подозрительное дело и стали невольными участниками то ли межгалактического заговора, то ли аферы причудливых поселенцев планеты Альфа, прибывших туда из различных миров со всех уголков галактик.",
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Пассажир",
+      "original_name": "The Commuter",
+      "alternative_name": null,
+      "year": 2018,
+      "id_kp": 497011,
+      "alternative_id_kp": null,
+      "id_imdb": "tt1590193",
+      "id_tmdb": 399035,
+      "id_world_art": null,
+      "token_movie": "1cf1ec190be486bb076458be987fb7",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-05-14 19:34:28",
+      "country": "Великобритания, США, Франция",
+      "category": "Фильм",
+      "genre": "боевик, детектив, триллер",
+      "actors": "Лиам Нисон, Вера Фармига, Патрик Уилсон, Джонатан Бэнкс, Сэм Нил, Элизабет Макговерн, Киллиан Скотт, Шазад Латиф, Энди Найман, Клара Лаго, Роланд Мюллер, Флоренс Пью, Дин-Чарльз Чепмен, Элла-Рэй Смит, Нила Аалия, Колин Макфарлэйн, Кобна Холдбрук-Смит, Адам Нагаитис, Кингсли Бен-Адир, Демсон Идрис",
+      "directors": "Жауме Кольет-Серра",
+      "producers": "Стюарт М. Бессер, Жауме Кольет-Серра, Майкл Дрейер, Рон Халперн, Алекс Хейнеман, Дидье Люпфер, Лэйси Дарлен Полсон, Эндрю Рона, Хуан Сола",
+      "premiere_ru": "2018-03-08",
+      "premiere": "2018-01-08",
+      "age_restrictions": 16,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 6.6,
+      "rating_imdb": 6.3,
+      "time": "1:44",
+      "tagline": "Осторожно, игра начинается...",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/497011.jpg",
+      "description": "Еще вчера его день начинался с поездки на работу в одном и том же поезде, в компании уже давно знакомых лиц, но сегодня таинственная незнакомка предлагает ему поучаствовать в эксперименте. Одна остановка, чтобы принять решение, и единственный шанс из тысячи победить. Осторожно, игра начинается…",
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Весёлые мошенники 4",
+      "original_name": "Golmaal Again",
+      "alternative_name": null,
+      "year": 2017,
+      "id_kp": 577480,
+      "alternative_id_kp": null,
+      "id_imdb": "tt1806913",
+      "id_tmdb": 472123,
+      "id_world_art": null,
+      "token_movie": "1b3debe325f431b2207c1b50475669",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-05-14 19:34:04",
+      "country": "Индия",
+      "category": "Фильм",
+      "genre": "боевик, ужасы, фэнтези",
+      "actors": "Аджай Девган, Аршад Варси, Табу, Шреяс Талпаде, Тусшар Капур, Кунал Кхему, Паринити Чопра, Нил Нитин Мукеш, Пракаш Радж, Джонни Левер, Санджай Мишра, Мукеш Тивари, Удай Тикекар, Враджеш Хирджи, Нана Патекар, Анил Чаранджитт, Ishika Gagneja, Ашвини Кхалсекар, Анил Капур, Шах Рукх Кхан",
+      "directors": "Рохит Шетти",
+      "producers": "Рохит Шетти, Sadashiv Athule, George Cameron, Индерджит Чадха, Yash Shah, Анил Тхакур",
+      "premiere_ru": null,
+      "premiere": "2017-10-19",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 5,
+      "time": "2:20",
+      "tagline": "This Diwali, No Logic Only Magic!",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/577480.jpg",
+      "description": null,
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "FanStudio",
+      "translation_iframe": {
+        "139": {
+          "name": "FanStudio",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Спасатели Малибу",
+      "original_name": "Baywatch",
+      "alternative_name": null,
+      "year": 2017,
+      "id_kp": 468940,
+      "alternative_id_kp": null,
+      "id_imdb": "tt1469304",
+      "id_tmdb": 339846,
+      "id_world_art": null,
+      "token_movie": "df67bcc821a17c93201e226d4550aa",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-05-14 19:32:59",
+      "country": "Великобритания, Китай, США",
+      "category": "Фильм",
+      "genre": "боевик, комедия, криминал",
+      "actors": "Дуэйн Джонсон, Зак Эфрон, Приянка Чопра, Александра Даддарио, Келли Рорбах, Ильфенеш Хадера, Джон Басс, Яхья Абдул-Матин II, Хэннибал Бёресс, Роб Хюбель, Эймин Джозеф, Джек Кеси, Оскар Нуньес, Дэвид Хассельхофф, Памела Андерсон, Клем Чун, Белинда, Шарлотта МакКинни, Изабель Гулар, Ариан Фостер",
+      "directors": "Сет Гордон",
+      "producers": "Али Белл, Майкл Берк, Мишель Берк, Грегори Дж. Бонанн, Дэвид Эллисон, Бо Флинн, Дэни Гарсиа, Хирам Гарсиа, Дэна Голдберг",
+      "premiere_ru": "2017-06-01",
+      "premiere": "2017-05-12",
+      "age_restrictions": 18,
+      "rating_mpaa": "R",
+      "rating_kp": 5.8,
+      "rating_imdb": 5.5,
+      "time": "1:56",
+      "tagline": "Вытряхни песок из плавок",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/468940.jpg",
+      "description": "Группа пляжных спасателей работает на побережье Тихого океана. Они всегда находятся на своем посту и охраняют отдыхающих от несчастных случаев на воде. Главный герой, опытный спасатель Митч Бьюкеннон, и его молодой коллега Мэтт Броди случайно узнают, что их пляж находится под угрозой исчезновения. Хозяйка пафосного ночного клуба, по совместительству местный «наркобарон», пытается прибрать побережье к рукам. Дамочка скупает всю недвижимость, не гнушаясь запугиваниями и убийствами владельцев земельных участков.",
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
       "name": "Стрелок",
       "original_name": "Villu",
       "alternative_name": null,
@@ -1263,780 +1755,6 @@
         "82": {
           "name": "Не требуется",
           "quality": "HDTV",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Тёмный мир: Равновесие",
-      "original_name": null,
-      "alternative_name": null,
-      "year": 2014,
-      "id_kp": 682079,
-      "alternative_id_kp": null,
-      "id_imdb": "tt3716168",
-      "id_tmdb": 248223,
-      "id_world_art": null,
-      "token_movie": "80b151b79a286161734e48e73a5ff7",
-      "last_season": 1,
-      "last_episode": 12,
-      "date": "2020-05-14 19:11:06",
-      "country": "Россия",
-      "category": "Сериал",
-      "genre": "фэнтези",
-      "actors": "Мария Пирогова, Павел Прилучный, Владислав Абашин, Александр Ратников, Евгения Брик, Григорий Скряпкин, Валерия Ланская, Макар Запорожский, Игорь Черневич, Петр Семак, Анастасия Стежко, Иван Жвакин, Алиса Хазанова, Паулина Андреева, Игорь Емелин, Федор Бавтриков, Петр Вакуленко, Никита Тезин, Алексей Маклаков, Анна Цуканова-Котт",
-      "directors": "Олег Асадулин",
-      "producers": "Наталия Клибанова, Ольга Белова",
-      "premiere_ru": "2014-05-12",
-      "premiere": null,
-      "age_restrictions": 12,
-      "rating_mpaa": null,
-      "rating_kp": 6.2,
-      "rating_imdb": 5.5,
-      "time": "0:48",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/682079.jpg",
-      "description": "Из Темного мира в мир людей просачиваются Тени. Эти голодные замерзшие существа питаются жизненной силой людей, их радостью, любовью и временем. Сила зла растет, и Портал между мирами вот-вот будет разрушен. Команда посвященных каждый день поддерживает хрупкое равновесие, но даже они не могут противостоять надвигающейся катастрофе. И только настоящая Любовь сможет восстановить равновесие и спасти наш мир.",
-      "iframe": "",
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "WEBRip",
-      "translation": "Не требуется",
-      "translation_iframe": {
-        "82": {
-          "name": "Не требуется",
-          "quality": "WEBRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Призраки",
-      "original_name": "The Haunted",
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 895519,
-      "alternative_id_kp": null,
-      "id_imdb": "tt4572116",
-      "id_tmdb": 623034,
-      "id_world_art": null,
-      "token_movie": "f221de0b7660ed3abcda7a22dfe666",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-05-14 19:10:10",
-      "country": "Великобритания",
-      "category": "Фильм",
-      "genre": "детектив, триллер, ужасы",
-      "actors": "Софи Стивенс, Керсти Стил, Ник Байли, Мэгги Дэниелс, Вирджиния Денэм, Стефен Дёрфлер, Рэй Макаллан",
-      "directors": "Дэвид Холройд",
-      "producers": "Криспин Мэнсон, Мэттью Стрэдлинг",
-      "premiere_ru": "2020-07-30",
-      "premiere": "2018-10-13",
-      "age_restrictions": 18,
-      "rating_mpaa": null,
-      "rating_kp": 3.9,
-      "rating_imdb": 3.6,
-      "time": "1:15",
-      "tagline": "Добро пожаловать в дом, где обитают духи. Оставайтесь с ними. Навсегда.",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/895519.jpg",
-      "description": "Эмили принимает предложение подработать ночной сиделкой у лежачего пациента. Оставшись в большом доме, удалённом от города, она быстро понимает, почему никто больше не соглашался на эту работу. ",
-      "iframe": "",
-      "quality": "WEB-DLRip",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "WEB-DLRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Давай поцелуемся",
-      "original_name": null,
-      "alternative_name": null,
-      "year": 2014,
-      "id_kp": 745217,
-      "alternative_id_kp": null,
-      "id_imdb": "tt4055120",
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "2005aee6d7523e99d510f01683a28e",
-      "last_season": 1,
-      "last_episode": 12,
-      "date": "2020-05-14 19:09:47",
-      "country": "Украина",
-      "category": "Сериал",
-      "genre": "комедия, мелодрама",
-      "actors": "Юлия Такшина, Артем Ткаченко, Юлия Куварзина, Кирилл Жандаров, Ольга Чудакова, Екатерина Гулякова, Владимир Машук, Соня Корецкая, Михаил Кукуюк, Максим Максимюк, Сергей Радченко, Ирина Барбинова, Михаил Пшеничный, Карина Белова, Юрий Дяк, Лариса Уманцева, Вячеслав Николенко, Алексей Петрожицкий, Евгения Мякенькая, Владлена Марчак",
-      "directors": "Сергей Чекалов",
-      "producers": "Наталья Стрибук, Елена Васильева, Александр Ткаченко, Станислав Зурахов",
-      "premiere_ru": null,
-      "premiere": "2014-06-16",
-      "age_restrictions": 12,
-      "rating_mpaa": null,
-      "rating_kp": 6,
-      "rating_imdb": null,
-      "time": "0:44",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/745217.jpg",
-      "description": "Центральное место в новой романтической комедии будут занимать проблемы, которые возникают между людьми в начале их отношений. Мужчины и женщины. С чем им приходится столкнуться, когда в их сердце рождается любовь?",
-      "iframe": "",
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DLRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DLRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DLRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DLRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DLRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DLRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DLRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DLRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DLRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DLRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DLRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DLRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "WEB-DLRip",
-      "translation": "Не требуется",
-      "translation_iframe": {
-        "82": {
-          "name": "Не требуется",
-          "quality": "WEB-DLRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Голоса",
-      "original_name": "The Voices",
-      "alternative_name": null,
-      "year": 2020,
-      "id_kp": 1000432,
-      "alternative_id_kp": null,
-      "id_imdb": "tt5950596",
-      "id_tmdb": 639250,
-      "id_world_art": null,
-      "token_movie": "c5ab7e482b5e5beed11e0f53dccb2f",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-05-14 19:08:18",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "триллер, ужасы",
-      "actors": "Аманда Маркс, Виктория Мэтлок, Juliana Sada, Брендан Секстон III, Лин Шэй, Джессика Соннеборн, Брэдли Фаулер, Sharon Roggio",
-      "directors": "Уэсли Элли, Брэдли Фаулер",
-      "producers": "Уэсли Элли, James Christopher Fechser, Брэдли Фаулер, Аманда Маркс, Виктория Мэтлок, Джон Бошер, Крис Чарльз, Юрий Колл",
-      "premiere_ru": null,
-      "premiere": "2020-02-15",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 3.8,
-      "rating_imdb": 3.7,
-      "time": "1:36",
-      "tagline": "Being alone helps.",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1000432.jpg",
-      "description": "После тяжёлого расставания со своим женихом Грэйс решает некоторое время пожить в семейном загородном доме. Там она воссоединяется со своей сестрой, но вскоре понимает, что та больна параноидальной шизофренией, как и их покойная мать, покончившая с собой. И чем сильнее Грэйс погружается в семейные тайны, тем сильнее она сомневается в собственной вменяемости.",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Супер бабушка",
-      "original_name": "Super Nani",
-      "alternative_name": null,
-      "year": 2014,
-      "id_kp": 731166,
-      "alternative_id_kp": null,
-      "id_imdb": "tt2630076",
-      "id_tmdb": 299692,
-      "id_world_art": null,
-      "token_movie": "4852c04f3d1cb4db33e3526ab8258e",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-05-14 19:08:03",
-      "country": "Индия",
-      "category": "Фильм",
-      "genre": "драма, комедия, семейный",
-      "actors": "Рекха, Шарман Джоши, Aanchal Dwivedi, Рандхир Капур, Анупам Кхер, Раджеш Кумар, Швета Кумар, Шрия Нарайан, Raju Rahikwar, Vishakha Subhedar, Варша Усгаонкар, Вайшнави",
-      "directors": "Индра Кумар",
-      "producers": "Индра Кумар, Ашок Тхакерия, Дилип Мистри",
-      "premiere_ru": null,
-      "premiere": "2014-10-30",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 6.6,
-      "rating_imdb": 4.7,
-      "time": "2:13",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/731166.jpg",
-      "description": "Бхарти Бхатия, чей каждый час жизни посвящен заботам о своей семье, её мелким нуждам и прихотям, включая властного мужа, сына, играющего на фондовом рынке на повышение, сноху, которая стремится стать звездой мыльной оперы и дочь с ультра современными ценностями. Она самоотверженно выполняет свои обязанности, но в награду получает только насмешки и унижения. В семье все относятся к ней как к коврику у порога. \n\rЗахватывающая история начинается, когда в Индию неожиданно приезжает внук Манн. Вопреки своим ожиданиям увидеть сильную леди, главу дома, он видит мягкую и дремлющую женщину, которой все помыкают. Это раздражает его, и он решает превратить печальную и скучную жизнь своей бабушки в весёлое катание на американских горках.",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Zee TV",
-      "translation_iframe": {
-        "144": {
-          "name": "Zee TV",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Акаш и Вани",
-      "original_name": "Akaash Vani",
-      "alternative_name": null,
-      "year": 2013,
-      "id_kp": 710364,
-      "alternative_id_kp": null,
-      "id_imdb": "tt2423132",
-      "id_tmdb": 181462,
-      "id_world_art": null,
-      "token_movie": "38ced26e3a0b5c64bb265f728c0cc4",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-05-14 19:04:50",
-      "country": "Индия",
-      "category": "Фильм",
-      "genre": "драма, мелодрама",
-      "actors": "Картик Аарян, Нушрат Бхаруча, Санни Сингх Ниджар, Гаутам Мера, Фатима Сана Шаикх, Киран Кумар, Махеш Такур, Прачи Шах",
-      "directors": "Лув Ранджан",
-      "producers": "Абхишек Патхак, Кумар Мангат, Индерджит Чадха, Санджив Джоши, Томас Макарас, Santosh K. Mishra, Рави Сарин, Сатиш Шарма, Анил Тхакур",
-      "premiere_ru": null,
-      "premiere": "2013-01-25",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 7.3,
-      "rating_imdb": 6.3,
-      "time": "2:29",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/710364.jpg",
-      "description": "Будучи студентами, Акаш и Вани познакомились в колледже и полюбили друг друга. Спустя четыре года Акаш уезжает в Лондон, чтобы продолжить учебу, а Вани возвращается в родной город Дехрадун. Там по настоянию родителей Вани выходит замуж. Однако семейная жизнь не складывается, Вани глубоко несчастлива в браке. Она даже готова подать на развод, но родители категорически против, поэтому предлагают ей уехать на неделю в Дели, чтобы немного развеяться. Там она снова встречает Акаша, но к чему приведет эта встреча? Хватит ли сил у Акаша и Вани противостоять целому обществу ради обретения собственного счастья?",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Zee TV",
-      "translation_iframe": {
-        "144": {
-          "name": "Zee TV",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Полный хаос",
-      "original_name": "Total Siyapaa",
-      "alternative_name": null,
-      "year": 2014,
-      "id_kp": 741903,
-      "alternative_id_kp": null,
-      "id_imdb": "tt2727028",
-      "id_tmdb": 255580,
-      "id_world_art": null,
-      "token_movie": "39f3746fd1c831b031479a67c79c61",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-05-14 19:00:35",
-      "country": "Индия",
-      "category": "Фильм",
-      "genre": "драма, комедия, мелодрама",
-      "actors": "Али Зафар, Ями Гаутам, Анупам Кхер, Кирон Кхер, Сара Кхан, Анудж Пандит, Вик Вэгхорн, Кэрол МакФедден, Steve Keefe, Алян Аббас, Сагар Эрийа, Вишва С. Бадола, Tim Barton, Кишор Бхатт, Marco Chiu, Том Кристиан, Брук Далби, Doug Devaney, Philip Higgs, Adnan Kapadia",
-      "directors": "Е. Нивас",
-      "producers": "Шитал Бхатия, Нирадж Пандеу, Chris Bunyan, Дипак Гаваде, Roop Singh Sood",
-      "premiere_ru": null,
-      "premiere": "2014-03-06",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 6.2,
-      "rating_imdb": 5,
-      "time": "1:48",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/741903.jpg",
-      "description": "События развиваются в Лондоне. Аман надеется жениться на индийской девушке Аше. Он отправляется в дом ее родителей, чтобы просить разрешения взять ее в жены. Однако его план произвести на них хорошее впечатление рушится, когда они узнают, что он – пакистанец…",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Zee TV",
-      "translation_iframe": {
-        "144": {
-          "name": "Zee TV",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Счастливый финал",
-      "original_name": "Happy Ending",
-      "alternative_name": null,
-      "year": 2014,
-      "id_kp": 780238,
-      "alternative_id_kp": null,
-      "id_imdb": "tt3017412",
-      "id_tmdb": 303281,
-      "id_world_art": null,
-      "token_movie": "1a412273e942afbf81dd98b6fc79d7",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-05-14 18:57:37",
-      "country": "Индия",
-      "category": "Фильм",
-      "genre": "комедия, мелодрама",
-      "actors": "Саиф Али Кхан, Илеана Д’Крус, Калки Коечлин, Ранвир Шори, Рахул Нат, Шивани Танксале, Говинда, Прити Зинта, Карина Капур, Tupua Ainu'u, Дин Барлэдж, Amanpreet Singh Bevli, Кира Кехилл, Леа Каруана, Кришна Д.К., Ким ДеДжизес, Сабрин Ферретти, Хейли Ганье, Lukas Jacob, Эндрю Книбоун",
-      "directors": "Кришна Д.К., Радж Нидимору",
-      "producers": "Саиф Али Кхан, Сунил Лула, Динеш Виджан, Murshid Akhtar, Рахул Гандхи, Маню Гарги, Прем Пиллаи, Bala Rajasekharuni",
-      "premiere_ru": null,
-      "premiere": "2014-11-20",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 6.5,
-      "rating_imdb": 5.4,
-      "time": "2:15",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/780238.jpg",
-      "description": "«Я люблю тебя» - именно этих трёх страшных слов боится вечный холостяк Юди. Самые идеальные отношения для него – это ни к чему не ведущие и ни к чему не обязывающие. Но у его девушки Вишакхи, присосавшейся к нему, как пиявка и по пятам преследующей его, совсем иное мнение об этом. Её Юдик-Чудик, должен 24 часа в сутки находится только рядом с ней. Пытаясь избежать чрезмерной навязчивости ненормальной подружки, Юди берётся за первую попавшуюся работу, в которой он должен написать сценарий для помешанного на ромкомах Армана-джи. Ко всему вдобавок, в писательской индустрии у Юди появляется обаятельная конкурентка Ачал, которая путём афёры, начинает наперебой отбивать у него контракты. Юди решает сдружиться с ней, дабы вывести мошенницу на чистую воду.",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Zee TV",
-      "translation_iframe": {
-        "144": {
-          "name": "Zee TV",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Рокки Красавчик",
-      "original_name": "Rocky Handsome",
-      "alternative_name": null,
-      "year": 2016,
-      "id_kp": 819259,
-      "alternative_id_kp": null,
-      "id_imdb": "tt3410408",
-      "id_tmdb": 376873,
-      "id_world_art": null,
-      "token_movie": "cb6bc1c658afbf911f76f7b78190be",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-05-14 18:55:27",
-      "country": "Индия",
-      "category": "Фильм",
-      "genre": "боевик, драма, триллер",
-      "actors": "Джон Абрахам, Нишикант Камат, Шарад Келкар, Тедди Маурья, Diya Chalwad, Патрик Тэнг, Шрути Хасан, Prashanti Talpankar, Наталиа Каур, Paromita Chatterjee, Akanksha Awasthi, Viren Vajpayee, Vansh Sanghani, Jayant Sawarkar, Шив Кумар Субраманиам, Удай Тикекар, Мегх Пант, Shyam Pakakillath, Sanjay Khapre, Абхиджит Шаван",
-      "directors": "Нишикант Камат",
-      "producers": "Джон Абрахам, Сунир Кхетерпал, Гурав Бозе, Мадхав Рой Капур, Шил Кумар, Эджей Рай, Кулдип Ратор, Mahipal Karan Rathore",
-      "premiere_ru": null,
-      "premiere": "2016-03-25",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 6.9,
-      "rating_imdb": 6.8,
-      "time": "1:59",
-      "tagline": "His only friend... her only hope.",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/819259.jpg",
-      "description": "В небольшом портовом городке можно встретить человека, который постоянно расхаживает в капюшоне. Его зовут Кабир, но все в округе называют его Красавчиком. О нем ходит множество слухов. В частности, говорят о том, что Кабир является преступником, и с ним лучше не связываться. Однако маленькая девочка Наоми очень любит Красавчика и часто прячется у него, пытаясь не попасться на глаза матери-наркоманке.",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Honey&Haseena",
-      "translation_iframe": {
-        "141": {
-          "name": "Honey&Haseena",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Фантом",
-      "original_name": "Phantom",
-      "alternative_name": null,
-      "year": 2015,
-      "id_kp": 821150,
-      "alternative_id_kp": null,
-      "id_imdb": "tt3469244",
-      "id_tmdb": 353879,
-      "id_world_art": null,
-      "token_movie": "ab3510556a575932c4cb96de5d42ca",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-05-14 18:52:49",
-      "country": "Индия",
-      "category": "Фильм",
-      "genre": "боевик, драма, триллер",
-      "actors": "Саиф Али Кхан, Катрина Каиф, Сабьясачи Чакраборти, Раджеш Тайланг, Hervey Afiune, Elyas Ahmad, Фара Ахмед, Брэнди Александр, Мохаммед Али, Маной Ананд, Jane Clark Anderson, Darren Andrichuk, Клер Эштон, Nicole Atalla, Рави Ауджла, Радж Авасти, Мохаммед Зишан Айюб, Хейли Джоэнн Бэйкон, Джой Бадлани, Ella Banks",
-      "directors": "Кабир Кхан",
-      "producers": "Саджид Надиадвала, Hervey Afiune, Rajan Kapoor, Сидхарт Рой Капур, Rakesh Madhotra, Рэймонд Мэсси, Патель Сайрус, Адитья Сингх, Пракаш Упадхиай",
-      "premiere_ru": null,
-      "premiere": "2015-08-28",
-      "age_restrictions": 12,
-      "rating_mpaa": null,
-      "rating_kp": 7.2,
-      "rating_imdb": 5.9,
-      "time": "2:16",
-      "tagline": "A story you wish were true",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/821150.jpg",
-      "description": "26 ноября 2008 года был совершён один из крупнейших терактов в Мумбаи. Ответственность за теракт взяла на себя крупная террористическая организация «Лашкаре-Тайба», буквально переводимая как «Армия Бога». В результате погибли 195 человек, более 300 были ранены. Этот фильм повествует о ликвидации лидеров этой группировки храбрыми индийскими солдатами, которые рискуя своими жизнями, вторглись под прикрытием на территорию Пакистана, чтобы уничтожить ячейку одной из самых опасных и жестоких террористических организаций в мире.",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Honey&Haseena",
-      "translation_iframe": {
-        "141": {
-          "name": "Honey&Haseena",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Голубое небо, зелёное море, красная земля",
-      "original_name": "Neelakasham Pachakadal Chuvanna Bhoomi",
-      "alternative_name": null,
-      "year": 2013,
-      "id_kp": 781636,
-      "alternative_id_kp": null,
-      "id_imdb": "tt3061202",
-      "id_tmdb": 209419,
-      "id_world_art": null,
-      "token_movie": "d2970196ed3a0d629f88339ff4cb69",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-05-14 18:50:33",
-      "country": "Индия",
-      "category": "Фильм",
-      "genre": "драма, приключения",
-      "actors": "Дулкар Салман, Санни Уэйн, Bala Hijam, Shane Nigam, Paloma Monappa, Surjith, Шохайбхан Ханифравтхер, Abhija Sivakala, Anikha Surendran, Дхритиман Чаттерджи, Jinu Joseph, Imthias Kadeer, Pearle Maaney, Джой Мэтью, Mathukkutty",
-      "directors": "Shameer Thahir",
-      "producers": "Shameer Thahir, Абдул Хамид, Шохайбхан Ханифравтхер, Sunil Sreenivaasan",
-      "premiere_ru": null,
-      "premiere": "2013-08-08",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 7.7,
-      "time": "2:17",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/781636.jpg",
-      "description": "Фильм о том, как однокурсники Каси и Суни отправляются в путешествие на мотоциклах из Кералы в Нагаленд в поисках себя и ответов на вопросы.",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Любительский многоголосый",
-      "translation_iframe": {
-        "123": {
-          "name": "Любительский многоголосый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Остросюжетная любовь",
-      "original_name": "Prema Katha Chitram",
-      "alternative_name": null,
-      "year": 2013,
-      "id_kp": 794756,
-      "alternative_id_kp": null,
-      "id_imdb": "tt2971414",
-      "id_tmdb": 200402,
-      "id_world_art": null,
-      "token_movie": "df57023469abf578b3ddc5a6c2b46c",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-05-14 18:47:27",
-      "country": "Индия",
-      "category": "Фильм",
-      "genre": "драма, ужасы",
-      "actors": "Судхир Бабу Посани, Нандита Радж, Правин, Sapthagiri",
-      "directors": "Дж. Прабхакар Редди",
-      "producers": "Марутхи Дасари",
-      "premiere_ru": null,
-      "premiere": "2013-06-07",
-      "age_restrictions": 16,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 7.1,
-      "time": "2:10",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/794756.jpg",
-      "description": "Трое друзей: Судхир, Правин и Нандита планируют самоубийство, у каждого на это свои причины. Правин предлагает им поехать в гостевой домик и сделать это там. Так сказать, красиво умереть. Но так ли всё просто с причинами каждого решиться на этот отчаянный шаг и какие тайны скрывает загадочный дом...",
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Red Media",
-      "translation_iframe": {
-        "174": {
-          "name": "Red Media",
-          "quality": "WEB-DL",
           "iframe": ""
         }
       }

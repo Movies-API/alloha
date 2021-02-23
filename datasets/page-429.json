@@ -1,6 +1,539 @@
 {
   "data": [
     {
+      "name": "Мёд в голове",
+      "original_name": "Honig im Kopf",
+      "alternative_name": null,
+      "year": 2014,
+      "id_kp": 824406,
+      "alternative_id_kp": null,
+      "id_imdb": "tt3488462",
+      "id_tmdb": 269258,
+      "id_world_art": null,
+      "token_movie": "33ffd4eee714983d4178083ef0856c",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-29 18:32:22",
+      "country": "Германия",
+      "category": "Фильм",
+      "genre": "драма, комедия, приключения",
+      "actors": "",
+      "directors": "",
+      "producers": "",
+      "premiere_ru": null,
+      "premiere": "2014-12-25",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 7.9,
+      "rating_imdb": 6.6,
+      "time": "2:19",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/824406.jpg",
+      "description": null,
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Профессиональный многоголосый",
+      "translation_iframe": {
+        "87": {
+          "name": "Профессиональный многоголосый",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Бруклин",
+      "original_name": "Brooklyn",
+      "alternative_name": null,
+      "year": 2015,
+      "id_kp": 678550,
+      "alternative_id_kp": null,
+      "id_imdb": "tt2381111",
+      "id_tmdb": 167073,
+      "id_world_art": null,
+      "token_movie": "141dbeb77748d108b716647245424e",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-29 18:31:19",
+      "country": "Великобритания, Ирландия, Канада",
+      "category": "Фильм",
+      "genre": "драма, мелодрама",
+      "actors": "",
+      "directors": "",
+      "producers": "",
+      "premiere_ru": "2016-02-04",
+      "premiere": "2015-01-26",
+      "age_restrictions": 16,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 7.1,
+      "rating_imdb": 7.5,
+      "time": "1:57",
+      "tagline": "Two Countries, Two Loves, One Heart",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/678550.jpg",
+      "description": null,
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Пиковая дама: Черный обряд",
+      "original_name": null,
+      "alternative_name": null,
+      "year": 2015,
+      "id_kp": 880665,
+      "alternative_id_kp": null,
+      "id_imdb": "tt4901756",
+      "id_tmdb": 358962,
+      "id_world_art": null,
+      "token_movie": "1366623f5493777d89f68e283b0fc4",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-29 18:30:25",
+      "country": "Россия",
+      "category": "Фильм",
+      "genre": "ужасы",
+      "actors": "",
+      "directors": "",
+      "producers": "",
+      "premiere_ru": "2015-09-10",
+      "premiere": "2015-09-13",
+      "age_restrictions": 16,
+      "rating_mpaa": null,
+      "rating_kp": 5.1,
+      "rating_imdb": 5.3,
+      "time": "1:33",
+      "tagline": "Пиковая дама, приди",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/880665.jpg",
+      "description": null,
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Тройная угроза",
+      "original_name": "Triple Threat",
+      "alternative_name": null,
+      "year": 2019,
+      "id_kp": 1041862,
+      "alternative_id_kp": null,
+      "id_imdb": "tt6643972",
+      "id_tmdb": 449985,
+      "id_world_art": null,
+      "token_movie": "c7d677f89f921990e7080c1ec327af",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-29 18:29:16",
+      "country": "Китай, США, Таиланд",
+      "category": "Фильм",
+      "genre": "боевик, криминал, триллер",
+      "actors": "",
+      "directors": "",
+      "producers": "",
+      "premiere_ru": null,
+      "premiere": "2019-03-19",
+      "age_restrictions": 16,
+      "rating_mpaa": "R",
+      "rating_kp": 5.3,
+      "rating_imdb": 5.6,
+      "time": "1:36",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1041862.jpg",
+      "description": null,
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Американский психопат 2: Стопроцентная американка",
+      "original_name": "American Psycho II: All American Girl",
+      "alternative_name": null,
+      "year": 2002,
+      "id_kp": 80763,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0283877",
+      "id_tmdb": 10726,
+      "id_world_art": null,
+      "token_movie": "8e666ac4c66cc32517a2c69e13d36a",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-29 18:26:38",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "триллер, ужасы",
+      "actors": "",
+      "directors": "",
+      "producers": "",
+      "premiere_ru": null,
+      "premiere": "2002-04-22",
+      "age_restrictions": 18,
+      "rating_mpaa": "R",
+      "rating_kp": 5.6,
+      "rating_imdb": 3.8,
+      "time": "1:28",
+      "tagline": "Angrier. Deadlier. Sexier.",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/80763.jpg",
+      "description": null,
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Профессиональный двухголосый",
+      "translation_iframe": {
+        "121": {
+          "name": "Профессиональный двухголосый",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Костяной томагавк",
+      "original_name": "Bone Tomahawk",
+      "alternative_name": null,
+      "year": 2015,
+      "id_kp": 715046,
+      "alternative_id_kp": null,
+      "id_imdb": "tt2494362",
+      "id_tmdb": 294963,
+      "id_world_art": null,
+      "token_movie": "ce6d3cd3bcea729e3551608b867d59",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-29 18:25:59",
+      "country": "Великобритания, США",
+      "category": "Фильм",
+      "genre": "вестерн, драма, ужасы",
+      "actors": "",
+      "directors": "",
+      "producers": "",
+      "premiere_ru": "2015-12-10",
+      "premiere": "2015-10-01",
+      "age_restrictions": 18,
+      "rating_mpaa": null,
+      "rating_kp": 6.7,
+      "rating_imdb": 7.1,
+      "time": "2:13",
+      "tagline": "John Brooder: An armed gentleman",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/715046.jpg",
+      "description": null,
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Визит ",
+      "original_name": "The Visit",
+      "alternative_name": null,
+      "year": 2015,
+      "id_kp": 838043,
+      "alternative_id_kp": null,
+      "id_imdb": "tt3567288",
+      "id_tmdb": 298312,
+      "id_world_art": null,
+      "token_movie": "79be3ff7064fa83ecfafa462671f13",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-29 18:24:48",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "детектив, триллер, ужасы",
+      "actors": "",
+      "directors": "",
+      "producers": "",
+      "premiere_ru": "2015-11-26",
+      "premiere": "2015-08-30",
+      "age_restrictions": 16,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 6.1,
+      "rating_imdb": 6.2,
+      "time": "1:34",
+      "tagline": "Любовь родственников не знает предела",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/838043.jpg",
+      "description": null,
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Грязь ",
+      "original_name": "The Dirt",
+      "alternative_name": null,
+      "year": 2019,
+      "id_kp": 262909,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0800325",
+      "id_tmdb": 327331,
+      "id_world_art": null,
+      "token_movie": "d9fc8ab457a5ce8d8e2301dff00f95",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-29 18:24:17",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "биография, комедия, музыка",
+      "actors": "",
+      "directors": "",
+      "producers": "",
+      "premiere_ru": null,
+      "premiere": "2018-06-07",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 7.4,
+      "rating_imdb": 7,
+      "time": "1:48",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/262909.jpg",
+      "description": null,
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Бразилия",
+      "original_name": "Brazil",
+      "alternative_name": null,
+      "year": 1985,
+      "id_kp": 483,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0088846",
+      "id_tmdb": 68,
+      "id_world_art": null,
+      "token_movie": "be70ae5ebcca89bb3f735ec306d50d",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-29 18:23:29",
+      "country": "Великобритания, США",
+      "category": "Фильм",
+      "genre": "драма, фантастика",
+      "actors": "",
+      "directors": "",
+      "producers": "",
+      "premiere_ru": null,
+      "premiere": "1985-02-20",
+      "age_restrictions": 16,
+      "rating_mpaa": "R",
+      "rating_kp": 7.7,
+      "rating_imdb": 7.9,
+      "time": "2:12",
+      "tagline": "Suspicion breeds confidence",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/483.jpg",
+      "description": null,
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Профессиональный многоголосый",
+      "translation_iframe": {
+        "87": {
+          "name": "Профессиональный многоголосый",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Американский психопат",
+      "original_name": "American Psycho",
+      "alternative_name": null,
+      "year": 2000,
+      "id_kp": 588,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0144084",
+      "id_tmdb": 1359,
+      "id_world_art": null,
+      "token_movie": "0aca1f481962c9cda89ff2a0df3dc7",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-29 18:22:36",
+      "country": "Канада, США",
+      "category": "Фильм",
+      "genre": "драма, криминал, триллер",
+      "actors": "",
+      "directors": "",
+      "producers": "",
+      "premiere_ru": null,
+      "premiere": "2000-01-21",
+      "age_restrictions": 18,
+      "rating_mpaa": "R",
+      "rating_kp": 7.1,
+      "rating_imdb": 7.6,
+      "time": "1:41",
+      "tagline": "Респектабельная внешность дьявола",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/588.jpg",
+      "description": null,
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Профессиональный двухголосый",
+      "translation_iframe": {
+        "121": {
+          "name": "Профессиональный двухголосый",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Дом вверх дном",
+      "original_name": "Bringing Down the House",
+      "alternative_name": null,
+      "year": 2003,
+      "id_kp": 4665,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0305669",
+      "id_tmdb": 10678,
+      "id_world_art": null,
+      "token_movie": "11692f7890aa3b5bded08637376076",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-29 18:21:51",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "комедия",
+      "actors": "",
+      "directors": "",
+      "producers": "",
+      "premiere_ru": null,
+      "premiere": "2003-03-07",
+      "age_restrictions": 12,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 6.2,
+      "rating_imdb": 5.6,
+      "time": "1:45",
+      "tagline": "Всё, что ему нужно знать о жизни, она узнала в тюрьме",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4665.jpg",
+      "description": null,
+      "iframe": "",
+      "quality": "WEB-DL",
+      "translation": "Профессиональный многоголосый",
+      "translation_iframe": {
+        "87": {
+          "name": "Профессиональный многоголосый",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Фри-соло",
+      "original_name": "Free Solo",
+      "alternative_name": null,
+      "year": 2018,
+      "id_kp": 1182400,
+      "alternative_id_kp": null,
+      "id_imdb": "tt7775622",
+      "id_tmdb": 515042,
+      "id_world_art": null,
+      "token_movie": "23aa076332349d9c6ad737615ece3c",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-29 18:21:13",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "документальный, приключения, спорт",
+      "actors": "",
+      "directors": "",
+      "producers": "",
+      "premiere_ru": null,
+      "premiere": "2018-08-31",
+      "age_restrictions": null,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 8.1,
+      "rating_imdb": 8.2,
+      "time": "1:40",
+      "tagline": "Live Beyond Fear",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1182400.jpg",
+      "description": null,
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Профессиональный двухголосый",
+      "translation_iframe": {
+        "121": {
+          "name": "Профессиональный двухголосый",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Бумажные города",
+      "original_name": "Paper Towns",
+      "alternative_name": null,
+      "year": 2015,
+      "id_kp": 841572,
+      "alternative_id_kp": null,
+      "id_imdb": "tt3622592",
+      "id_tmdb": 286565,
+      "id_world_art": null,
+      "token_movie": "cbac34dc07042578d00895c99662bf",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-29 18:20:18",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "детектив, комедия, мелодрама",
+      "actors": "",
+      "directors": "",
+      "producers": "",
+      "premiere_ru": "2015-07-23",
+      "premiere": "2015-06-18",
+      "age_restrictions": 12,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 6.1,
+      "rating_imdb": 6.3,
+      "time": "1:49",
+      "tagline": "Найди меня",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/841572.jpg",
+      "description": null,
+      "iframe": "",
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
       "name": "Гаражи ",
       "original_name": null,
       "alternative_name": null,
@@ -4396,2106 +4929,6 @@
         "123": {
           "name": "Любительский многоголосый",
           "quality": "BDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Друг невесты",
-      "original_name": "Made of Honor",
-      "alternative_name": null,
-      "year": 2008,
-      "id_kp": 279757,
-      "alternative_id_kp": null,
-      "id_imdb": "tt0866439",
-      "id_tmdb": 10761,
-      "id_world_art": null,
-      "token_movie": "7f8dd3f672f35b7a4801e61fc52a0c",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-08-29 10:24:25",
-      "country": "Великобритания, США",
-      "category": "Фильм",
-      "genre": "комедия, мелодрама",
-      "actors": "",
-      "directors": "",
-      "producers": "",
-      "premiere_ru": "2008-05-01",
-      "premiere": "2008-04-21",
-      "age_restrictions": 16,
-      "rating_mpaa": "PG-13",
-      "rating_kp": 7,
-      "rating_imdb": 5.9,
-      "time": "1:37",
-      "tagline": "Его последний шанс завоевать ее сердце",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/279757.jpg",
-      "description": null,
-      "iframe": "",
-      "quality": "BDRip",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "BDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Теперь мы все вместе",
-      "original_name": "All Together Now",
-      "alternative_name": null,
-      "year": 2020,
-      "id_kp": 794334,
-      "alternative_id_kp": null,
-      "id_imdb": "tt3155342",
-      "id_tmdb": 615466,
-      "id_world_art": null,
-      "token_movie": "1e630ae28305496c5cb23586f67d5d",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-08-29 10:23:49",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "драма",
-      "actors": "",
-      "directors": "",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": "2020-08-28",
-      "age_restrictions": null,
-      "rating_mpaa": "PG",
-      "rating_kp": 6.3,
-      "rating_imdb": 6.5,
-      "time": "1:32",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/794334.jpg",
-      "description": null,
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Пифагор",
-      "translation_iframe": {
-        "83": {
-          "name": "Пифагор",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Перед тем, как мы взорвёмся",
-      "original_name": "Avant qu'on explose",
-      "alternative_name": null,
-      "year": 2019,
-      "id_kp": 1240731,
-      "alternative_id_kp": null,
-      "id_imdb": "tt9825006",
-      "id_tmdb": 569496,
-      "id_world_art": null,
-      "token_movie": "9ab81fa59402c55b2baaf24682e10a",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-08-29 10:22:42",
-      "country": "Канада",
-      "category": "Фильм",
-      "genre": "комедия",
-      "actors": "",
-      "directors": "",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": "2019-02-28",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 6.6,
-      "time": "1:48",
-      "tagline": "La troisième guerre mondiale... Pire moment pour être puceau.",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1240731.jpg",
-      "description": null,
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Человек без лица",
-      "original_name": "The Faceless Man",
-      "alternative_name": null,
-      "year": 2019,
-      "id_kp": 1136744,
-      "alternative_id_kp": null,
-      "id_imdb": "tt8228290",
-      "id_tmdb": 625213,
-      "id_world_art": null,
-      "token_movie": "faf24ff36463b655737996be454bf3",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-08-29 10:21:59",
-      "country": "Австралия",
-      "category": "Фильм",
-      "genre": "ужасы",
-      "actors": "",
-      "directors": "",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": "2019-10-12",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 3.7,
-      "time": "1:46",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1136744.jpg",
-      "description": null,
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Женская доля",
-      "original_name": "Wie die Frauen so ticken",
-      "alternative_name": null,
-      "year": 2020,
-      "id_kp": 1375745,
-      "alternative_id_kp": null,
-      "id_imdb": "tt12135398",
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "f173a2ed3e31ef4c189e805c7d38ec",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-08-29 10:21:22",
-      "country": "Германия",
-      "category": "Фильм",
-      "genre": "комедия",
-      "actors": "",
-      "directors": "",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": "2020-02-26",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": null,
-      "time": "1:19",
-      "tagline": null,
-      "poster": null,
-      "description": null,
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Кутёж",
-      "original_name": "The Binge",
-      "alternative_name": null,
-      "year": 2020,
-      "id_kp": 1307468,
-      "alternative_id_kp": null,
-      "id_imdb": "tt10994688",
-      "id_tmdb": 647265,
-      "id_world_art": null,
-      "token_movie": "a47064445783a824b2be8f8f8ae98f",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-08-29 10:20:40",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "комедия",
-      "actors": "",
-      "directors": "",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": "2020-08-28",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 4.6,
-      "rating_imdb": 5.1,
-      "time": "1:38",
-      "tagline": "One nation under the influence.",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1307468.jpg",
-      "description": null,
-      "iframe": "",
-      "quality": "WEB-DL",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Ослепительно",
-      "original_name": "Nuni busige",
-      "alternative_name": null,
-      "year": 2019,
-      "id_kp": 1209000,
-      "alternative_id_kp": null,
-      "id_imdb": "tt9466968",
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "381dfbd7e2e7a1827fa4da4234349c",
-      "last_season": 1,
-      "last_episode": 12,
-      "date": "2020-08-29 04:40:15",
-      "country": "Корея Южная",
-      "category": "Сериал",
-      "genre": "мелодрама, фэнтези",
-      "actors": "",
-      "directors": "",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": "2019-02-11",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 7.5,
-      "rating_imdb": 8,
-      "time": "1:20",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1209000.jpg",
-      "description": null,
-      "iframe": "",
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "WEBRip",
-      "translation": "SoftBox",
-      "translation_iframe": {
-        "126": {
-          "name": "SoftBox",
-          "quality": "WEBRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Ведьмина любовь",
-      "original_name": "Manyeoui sarang",
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 1142687,
-      "alternative_id_kp": null,
-      "id_imdb": "tt8689936",
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "6482a71eb67c93f5479fd77f048546",
-      "last_season": 1,
-      "last_episode": 12,
-      "date": "2020-08-29 04:39:15",
-      "country": "Корея Южная",
-      "category": "Сериал",
-      "genre": "комедия, мелодрама, фэнтези",
-      "actors": "",
-      "directors": "",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": "2018-07-25",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 7,
-      "rating_imdb": 7.1,
-      "time": "0:55",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1142687.jpg",
-      "description": null,
-      "iframe": "",
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "HDTVRip, WEBRip",
-      "translation": "Любительский двухголосый",
-      "translation_iframe": {
-        "88": {
-          "name": "Любительский двухголосый",
-          "quality": "WEBRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Время учит меня любить",
-      "original_name": "Time Teaches Me to Love",
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 1251884,
-      "alternative_id_kp": null,
-      "id_imdb": "tt9486228",
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "0b258b57cbf7ad34023a7745d0f2ca",
-      "last_season": 1,
-      "last_episode": 24,
-      "date": "2020-08-29 04:30:57",
-      "country": "Китай",
-      "category": "Сериал",
-      "genre": "мелодрама",
-      "actors": "",
-      "directors": "",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": "2018-12-10",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 8.1,
-      "time": null,
-      "tagline": null,
-      "poster": null,
-      "description": null,
-      "iframe": "",
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "24": {
-              "iframe": "",
-              "episode": 24,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "23": {
-              "iframe": "",
-              "episode": 23,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "22": {
-              "iframe": "",
-              "episode": 22,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "21": {
-              "iframe": "",
-              "episode": 21,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "20": {
-              "iframe": "",
-              "episode": 20,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "19": {
-              "iframe": "",
-              "episode": 19,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "18": {
-              "iframe": "",
-              "episode": 18,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "17": {
-              "iframe": "",
-              "episode": 17,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "16": {
-              "iframe": "",
-              "episode": 16,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "15": {
-              "iframe": "",
-              "episode": 15,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "14": {
-              "iframe": "",
-              "episode": 14,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "13": {
-              "iframe": "",
-              "episode": 13,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "HDTVRip",
-      "translation": "Любительский двухголосый",
-      "translation_iframe": {
-        "88": {
-          "name": "Любительский двухголосый",
-          "quality": "HDTVRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Моя девушка",
-      "original_name": "Wo bu neng lian ai de nu peng you",
-      "alternative_name": null,
-      "year": 2019,
-      "id_kp": 1321878,
-      "alternative_id_kp": null,
-      "id_imdb": "tt11167822",
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "bb937d099fb284459b3e504cba808f",
-      "last_season": 1,
-      "last_episode": 28,
-      "date": "2020-08-29 04:29:28",
-      "country": "Китай",
-      "category": "Сериал",
-      "genre": "комедия, мелодрама",
-      "actors": "",
-      "directors": "",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": "2019-10-08",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 8.5,
-      "time": "0:40",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1321878.jpg",
-      "description": null,
-      "iframe": "",
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "28": {
-              "iframe": "",
-              "episode": 28,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "27": {
-              "iframe": "",
-              "episode": 27,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "26": {
-              "iframe": "",
-              "episode": 26,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "25": {
-              "iframe": "",
-              "episode": 25,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "24": {
-              "iframe": "",
-              "episode": 24,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "23": {
-              "iframe": "",
-              "episode": 23,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "22": {
-              "iframe": "",
-              "episode": 22,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "21": {
-              "iframe": "",
-              "episode": 21,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "20": {
-              "iframe": "",
-              "episode": 20,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "19": {
-              "iframe": "",
-              "episode": 19,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "18": {
-              "iframe": "",
-              "episode": 18,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "17": {
-              "iframe": "",
-              "episode": 17,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "16": {
-              "iframe": "",
-              "episode": 16,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "15": {
-              "iframe": "",
-              "episode": 15,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "14": {
-              "iframe": "",
-              "episode": 14,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "13": {
-              "iframe": "",
-              "episode": 13,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "88": {
-                  "translation": "Любительский двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "HDTVRip",
-      "translation": "Любительский двухголосый",
-      "translation_iframe": {
-        "88": {
-          "name": "Любительский двухголосый",
-          "quality": "HDTVRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Посредник",
-      "original_name": "The Middleman",
-      "alternative_name": null,
-      "year": 2008,
-      "id_kp": 397616,
-      "alternative_id_kp": null,
-      "id_imdb": "tt1122770",
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "1ef9fe83e87ab9a8bb994d7c06b4e4",
-      "last_season": 1,
-      "last_episode": 12,
-      "date": "2020-08-29 04:25:22",
-      "country": "США",
-      "category": "Сериал",
-      "genre": "драма, комедия, фантастика",
-      "actors": "",
-      "directors": "",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": "2008-06-16",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 6.5,
-      "rating_imdb": 8,
-      "time": "0:43",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/397616.jpg",
-      "description": null,
-      "iframe": "",
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "56": {
-                  "translation": "ViruseProject",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "56": {
-                  "translation": "ViruseProject",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "56": {
-                  "translation": "ViruseProject",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "56": {
-                  "translation": "ViruseProject",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "56": {
-                  "translation": "ViruseProject",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "56": {
-                  "translation": "ViruseProject",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "56": {
-                  "translation": "ViruseProject",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "56": {
-                  "translation": "ViruseProject",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "56": {
-                  "translation": "ViruseProject",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "56": {
-                  "translation": "ViruseProject",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "56": {
-                  "translation": "ViruseProject",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "56": {
-                  "translation": "ViruseProject",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "WEB-DL",
-      "translation": "ViruseProject",
-      "translation_iframe": {
-        "56": {
-          "name": "ViruseProject",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Наблюдатель",
-      "original_name": "Watchyeo",
-      "alternative_name": null,
-      "year": 2019,
-      "id_kp": 1235127,
-      "alternative_id_kp": null,
-      "id_imdb": "tt10405674",
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "a30e522b95ac1709acef541635244e",
-      "last_season": 1,
-      "last_episode": 16,
-      "date": "2020-08-29 04:23:47",
-      "country": "Корея Южная",
-      "category": "Сериал",
-      "genre": "детектив, криминал, триллер",
-      "actors": "",
-      "directors": "",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": "2019-07-06",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 7.4,
-      "rating_imdb": 7.8,
-      "time": "1:20",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1235127.jpg",
-      "description": null,
-      "iframe": "",
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "16": {
-              "iframe": "",
-              "episode": 16,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "15": {
-              "iframe": "",
-              "episode": 15,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "14": {
-              "iframe": "",
-              "episode": 14,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "13": {
-              "iframe": "",
-              "episode": 13,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "153": {
-                  "translation": "Колобок",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "WEB-DL, WEBRip",
-      "translation": "SoftBox, Колобок",
-      "translation_iframe": {
-        "126": {
-          "name": "SoftBox",
-          "quality": "WEB-DL",
-          "iframe": ""
-        },
-        "153": {
-          "name": "Колобок",
-          "quality": "WEBRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Твой аромат",
-      "original_name": "Kan jian wei dao de ni",
-      "alternative_name": null,
-      "year": 2019,
-      "id_kp": 1332850,
-      "alternative_id_kp": null,
-      "id_imdb": "tt11468962",
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "a5db2dc701981501b7a31e80733dfc",
-      "last_season": 1,
-      "last_episode": 25,
-      "date": "2020-08-29 04:17:27",
-      "country": "Китай",
-      "category": "Сериал",
-      "genre": "комедия, мелодрама, фэнтези",
-      "actors": "",
-      "directors": "",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": "2019-11-07",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 7.5,
-      "time": "0:43",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1332850.jpg",
-      "description": null,
-      "iframe": "",
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "25": {
-              "iframe": "",
-              "episode": 25,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "24": {
-              "iframe": "",
-              "episode": 24,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "23": {
-              "iframe": "",
-              "episode": 23,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "22": {
-              "iframe": "",
-              "episode": 22,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "21": {
-              "iframe": "",
-              "episode": 21,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "20": {
-              "iframe": "",
-              "episode": 20,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "19": {
-              "iframe": "",
-              "episode": 19,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "18": {
-              "iframe": "",
-              "episode": 18,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "17": {
-              "iframe": "",
-              "episode": 17,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "16": {
-              "iframe": "",
-              "episode": 16,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "15": {
-              "iframe": "",
-              "episode": 15,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "14": {
-              "iframe": "",
-              "episode": 14,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "13": {
-              "iframe": "",
-              "episode": 13,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "103": {
-                  "translation": "Любительский одноголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "HDTVRip",
-      "translation": "Любительский одноголосый",
-      "translation_iframe": {
-        "103": {
-          "name": "Любительский одноголосый",
-          "quality": "HDTVRip",
           "iframe": ""
         }
       }
