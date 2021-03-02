@@ -1,6 +1,579 @@
 {
   "data": [
     {
+      "name": "iБой",
+      "original_name": "iBoy",
+      "alternative_name": null,
+      "year": 2016,
+      "id_kp": 798955,
+      "alternative_id_kp": null,
+      "id_imdb": "tt3171832",
+      "id_tmdb": 414190,
+      "id_world_art": null,
+      "token_movie": "aa6942270b14294cddfd5ec588be05",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2019-12-29 09:10:31",
+      "country": "Великобритания",
+      "category": "Фильм",
+      "genre": "боевик, триллер, фантастика",
+      "actors": "Билл Милнер, Мэйси Уильямс, Миранда Ричардсон, Рори Киннер, Джордан Болджер, Чарли Палмер Ротуэлл, Армин Карима, МакКелл Дэвид, Шакил Али-Ебуа, Аймен Хамдуши, Леон Аннор, Петрис Джонс, Камерон Джек, Люси Теккерей, Кристофер Колкухоун, Оливер Куперсмит, Clara Onyemere, Хелен Смит, Jerome Gapas, Радж Авасти",
+      "directors": "Адам Рэндолл",
+      "producers": "Натаниель Болотин, Эмили Лео, Гэйл Матракс, Оливер Роскилл, Лакен Тох, Йен Брик, Бен Жак, Мэтт Левин, Гейб Скарпелли",
+      "premiere_ru": null,
+      "premiere": "2017-01-27",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 5.6,
+      "rating_imdb": 6,
+      "time": "1:30",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/798955.jpg",
+      "description": "После столкновения с местными отморозками в мозг Тома попадают осколки его собственного смартфона. Выйдя из комы он понимает, что возвращение к нормальной подростковой жизни невозможно, потому что у него появились суперспособности.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "HDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "HDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Голос из камня",
+      "original_name": "Voice from the Stone",
+      "alternative_name": null,
+      "year": 2017,
+      "id_kp": 488172,
+      "alternative_id_kp": null,
+      "id_imdb": "tt1544608",
+      "id_tmdb": 301372,
+      "id_world_art": null,
+      "token_movie": "bf21b11611c79be7320747c1ff4e45",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2019-12-29 09:07:13",
+      "country": "Италия, США",
+      "category": "Фильм",
+      "genre": "детектив, драма, триллер",
+      "actors": "Эмилия Кларк, Мартон Чокаш, Катерина Мурино, Ремо Джироне, Лиза Гастони, Эдвард Дринг, Дуччо Камерини, Николь Кадедду, Антонелла Бритти, Джампьеро Джудика, Кейт Линдер",
+      "directors": "Эрик Д. Хауэлл",
+      "producers": "Стефано Галлини, Дин Занук, Танназ Аниси, Майкл Брикман, Скотт Фишер, Блэр Хан, Брюс Джонсон, Жан Джонсон, Уте Леонхардт",
+      "premiere_ru": "2017-05-18",
+      "premiere": "2017-04-20",
+      "age_restrictions": 18,
+      "rating_mpaa": "R",
+      "rating_kp": 5.2,
+      "rating_imdb": 5.2,
+      "time": "1:30",
+      "tagline": "Отдай свою душу",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/488172.jpg",
+      "description": "50-е годы прошлого века. Таинственный старинный замок в Тоскане. Сюда приезжает Верена, молодая няня, обладающая редким даром возвращать к нормальной жизни психологически травмированных детей. Она умеет найти с ними тесный контакт. Верена – последняя надежда 40-летнего вдовца Клауса, чей сын Джейкоб в течение нескольких месяцев после смерти матери не произнёс ни слова. Оказывается, мальчик дал обет молчания до тех пор, пока дух матери не вернётся. Очень скоро Верена начинает подозревать, что призрак умершей играет с ней в кошки-мышки, чтобы вселиться в её тело.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Люмьеры!",
+      "original_name": "Lumière!",
+      "alternative_name": null,
+      "year": 2016,
+      "id_kp": 998204,
+      "alternative_id_kp": null,
+      "id_imdb": "tt5954462",
+      "id_tmdb": 411003,
+      "id_world_art": null,
+      "token_movie": "da814ec10a844bf8bd3ba4871dcab3",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2019-12-29 09:06:29",
+      "country": "Франция",
+      "category": "Фильм",
+      "genre": "документальный",
+      "actors": "Тьерри Фремо, Мартин Скорсезе, Франсуа Клер, Бенуа Дювал, Леопольдо Фреголи, Лои Фуллер, Мадлен Колер, Marcel Koehler, Андрее Люмьер, Огюст Люмьер, Луи Люмьер, Marguerite Lumière",
+      "directors": "Тьерри Фремо",
+      "producers": "Тьерри Фремо, Бертран Тавернье, Маэлль Арно",
+      "premiere_ru": "2017-08-10",
+      "premiere": "2016-10-03",
+      "age_restrictions": 6,
+      "rating_mpaa": null,
+      "rating_kp": 8.3,
+      "rating_imdb": 8.1,
+      "time": "1:30",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/998204.jpg",
+      "description": "В путешествие во вселенную Люмьеров, создателей кинематографа, вас приглашает Тьерри Фремо, директор Каннского фестиваля. С юмором и истинно киноманской страстью он раскроет перед вами мир первых кинолент, запечатлевших уникальные образы мира и Франции начала века. Фильмы Люмьеров — трогательные и в чем-то смешные первые шаги кино — искусства, которое завоюет весь мир.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Планета обезьян: Война",
+      "original_name": "War for the Planet of the Apes",
+      "alternative_name": null,
+      "year": 2017,
+      "id_kp": 819281,
+      "alternative_id_kp": null,
+      "id_imdb": "tt3450958",
+      "id_tmdb": 281338,
+      "id_world_art": null,
+      "token_movie": "88946e333647010089516f83819d82",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2019-12-29 09:05:29",
+      "country": "Канада, Новая Зеландия, США",
+      "category": "Фильм",
+      "genre": "боевик, триллер, фантастика",
+      "actors": "Энди Серкис, Вуди Харрельсон, Стив Зан, Карин Коновал, Амайя Миллер, Терри Нотари, Тай Олссон, Майкл Адамуэйт, Тоби Кеббелл, Гэбриел Чаварриа, Джуди Грир, Сара Каннинг, Девин Далтон, Алекс Паунович, Алессандро Джулиани, Макс Ллойд-Джонс, Тимоти Уэббер, Лауро Чартрэнд, Шон Омэйд, Роджер Кросс",
+      "directors": "Мэтт Ривз",
+      "producers": "Марк Бомбэк, Питер Чернин, Дилан Кларк, Рик Джаффа, Мэри МакЛаглен, Аманда Сильвер, Райан Стаффорд, Дженно Топпинг",
+      "premiere_ru": "2017-07-13",
+      "premiere": "2017-07-07",
+      "age_restrictions": 16,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 6.9,
+      "rating_imdb": 7.4,
+      "time": "2:20",
+      "tagline": "Кульминация великого противостояния",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/819281.jpg",
+      "description": "Армию генетически модифицированных обезьян ожидает новый вызов: они вынуждены вступить в смертельную схватку с армией людей под руководством безжалостного полковника. После невообразимых потерь среди своих воинов вождь обезьян Цезарь начинает личную борьбу с темными инстинктами и собирается отомстить за весь свой вид. В конце концов он и полковник должны будут сойтись в эпической битве, которая решит, кто теперь будет править на Земле – люди или обезьяны.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "На глубине 6 футов",
+      "original_name": "6 Below: Miracle on the Mountain",
+      "alternative_name": null,
+      "year": 2017,
+      "id_kp": 968384,
+      "alternative_id_kp": null,
+      "id_imdb": "tt5503688",
+      "id_tmdb": 423087,
+      "id_world_art": null,
+      "token_movie": "dc3480647d149fa405287022425b3f",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2019-12-29 08:58:38",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "драма, приключения, триллер",
+      "actors": "Джош Хартнетт, Мира Сорвино, Сара Дюмон, Кейл Калли, Джейсон Коттл, Остин Р. Грант, Нэйтан Стивенс, Марти МакСорели, Шон Пильц, Ваши Недомански, Джои Миясима, Дэвид Стивенс, Бет Вайзенбургер, Р. Курт Келси, Джуди Карпентер, Джейсон Бойдстон, Крэйг Хоскин, Джо Букаро III, Девин Хансен, Марти МакСорли",
+      "directors": "Скотт Во",
+      "producers": "Саймон Суорт, Такер Тули, Скотт Во, Грант Гилмор, Дэвид Грэйс, Том Лесински, Луиз Линтон, Майкл Дж. Майлис, Стивен Мнучин",
+      "premiere_ru": "2017-10-12",
+      "premiere": "2017-10-13",
+      "age_restrictions": 16,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 6.2,
+      "rating_imdb": 5.7,
+      "time": "1:29",
+      "tagline": "Никогда не теряйте надежду",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/968384.jpg",
+      "description": "После окончания спортивной карьеры хоккеист Эрик Лемарк уже не может жить без адреналина. Теперь драйв он находит в наркотиках и сноуборде. Когда лыжный патруль в горах Маммос (Калифорния) закрывает все трассы из-за надвигающейся бури, Лемарк решает сделать последний спуск и оказывается в смертельной снежной западне.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "WEB-DL",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Салют-7",
+      "original_name": null,
+      "alternative_name": null,
+      "year": 2017,
+      "id_kp": 893506,
+      "alternative_id_kp": null,
+      "id_imdb": "tt6537238",
+      "id_tmdb": 438740,
+      "id_world_art": null,
+      "token_movie": "7742f172a69271dc359b5d054e3af0",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2019-12-29 08:56:33",
+      "country": "Россия",
+      "category": "Фильм",
+      "genre": "драма, приключения, триллер",
+      "actors": "Владимир Вдовиченков, Павел Деревянко, Александр Самойленко, Виталий Хаев, Оксана Фандера, Любовь Аксенова, Полина Руденко, Александра Серебрякова, Мария Миронова, Наталья Кудряшова, Александр Ратников, Оксана Сырцова, Илья Андрюков, Василий Игнатич, Игорь Угольников, Степан Ратников, Юрий Игнатенко, Никита Панфилов, Артур Ваха, Кирилл Ульянов",
+      "directors": "Клим Шипенко",
+      "producers": "Антон Златопольский, Сергей Сельянов, Бакур Бакурадзе, Юлия Мишкинене, Наталья Смирнова",
+      "premiere_ru": "2017-10-12",
+      "premiere": "2017-09-21",
+      "age_restrictions": 12,
+      "rating_mpaa": null,
+      "rating_kp": 7.4,
+      "rating_imdb": 7.2,
+      "time": "1:51",
+      "tagline": "The right stuff of the cosmonauts.",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/893506.jpg",
+      "description": "Космическая станция «Салют-7», находящаяся на орбите в беспилотном режиме, неожиданно перестаёт отвечать на сигналы центра управления полётом. Принято решение об отправке на орбиту спасательной экспедиции. Космический экипаж должен найти «мёртвую» станцию и впервые в мире провести стыковку с 20-тонной глыбой неуправляемого железа.\n\rКосмонавты понимают, что шансов вернуться на Землю у них немного. Но этот рискованный путь — единственно возможный. Они должны не только проникнуть на «Салют-7», но и оживить его. Смогут ли два человека предотвратить неминуемую катастрофу и спасти планету от падения станции? Спасательная экспедиция превращается в опасное испытание.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "BDRip",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Гоголь. Начало",
+      "original_name": null,
+      "alternative_name": null,
+      "year": 2017,
+      "id_kp": 945391,
+      "alternative_id_kp": null,
+      "id_imdb": "tt6628228",
+      "id_tmdb": 468988,
+      "id_world_art": null,
+      "token_movie": "72917b3805691c4665f66d718e906c",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2019-12-29 08:54:58",
+      "country": "Россия",
+      "category": "Фильм",
+      "genre": "детектив, приключения, триллер",
+      "actors": "Александр Петров, Олег Меньшиков, Евгений Стычкин, Таисия Вилкова, Артем Ткаченко, Юлия Франц, Евгений Сытый, Ян Цапник, Сергей Бадюк, Марта Тимофеева, Светлана Киреева, Артем Сучков, Евгений Капитонов, Павел Деревянко, Валерий Рыбин, Дмитрий Быковский-Ромашов, Илья Борисов, Беата Маковская, Мария Мясникова, Антон Момот",
+      "directors": "Егор Баранов",
+      "producers": "Александр Цекало, Артур Джанибекян, Валерий Федорович, Евгений Никишов, Александра Ремизова, Иван Самохвалов, Ольга Никулина, Ольга Куренкова, Иван Голомовзюк",
+      "premiere_ru": "2017-08-31",
+      "premiere": "2017-09-15",
+      "age_restrictions": 18,
+      "rating_mpaa": null,
+      "rating_kp": 6.2,
+      "rating_imdb": 5.8,
+      "time": "1:40",
+      "tagline": "Самая тёмная ночь перед рассветом",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/945391.jpg",
+      "description": "Казаки, ведьмы, русалки, утопленницы и другие обитатели Диканьки встречаются лицом к лицу со своим создателем Николаем Гоголем, молодым писарем из Петербурга, который страдает загадочными припадками и может общаться с персонажами из потустороннего мира. Вместе со своим начальником, блестящим столичным следователем Яковом Гуро, начинающий писатель приезжает на Полтавщину расследовать таинственные убийства девушек. Здесь же он встречает свою любовь, которой суждено сыграть роковую роль в его судьбе. Но хватит ли юному литератору духу противостоять невообразимому? Ведь по слухам, которые активно разносят напуганные местные жители, за преступлениями стоит не кто иной, как сам Дьявол в обличии черного всадника.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "BDRip",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Гинтама (спэшл #1)",
+      "original_name": "Gintama Jump Festa 2005 Special",
+      "alternative_name": null,
+      "year": 2005,
+      "id_kp": null,
+      "alternative_id_kp": null,
+      "id_imdb": "tt7412510",
+      "id_tmdb": null,
+      "id_world_art": 6344,
+      "token_movie": "f2b2cbfae03157a785257e17237593",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2019-12-29 08:13:10",
+      "country": null,
+      "category": "Аниме",
+      "genre": null,
+      "actors": null,
+      "directors": null,
+      "producers": null,
+      "premiere_ru": null,
+      "premiere": null,
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": null,
+      "time": null,
+      "tagline": null,
+      "poster": null,
+      "description": null,
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "DVDRip",
+      "translation": "Субтитры",
+      "translation_iframe": {
+        "79": {
+          "name": "Субтитры",
+          "quality": "DVDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Смерть Супермена",
+      "original_name": "The Death of Superman",
+      "alternative_name": null,
+      "year": 2018,
+      "id_kp": 1047166,
+      "alternative_id_kp": null,
+      "id_imdb": "tt7167658",
+      "id_tmdb": 487670,
+      "id_world_art": 78491,
+      "token_movie": "8202eca8bab5cc9c220de0ddf456b5",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2019-12-29 06:58:43",
+      "country": "США",
+      "category": "Аниме",
+      "genre": "боевик, мультфильм, фантастика",
+      "actors": "Джерри О’Коннелл, Ребекка Ромейн, Рэйн Уилсон, Розарио Доусон, Нэйтан Филлион, Кристофер Горам, Мэтт Лантер, Шемар Мур, Ньямби Ньямби, Джейсон О’Мара, Джонатан Адамс, Роки Кэрролл, Тревор Дивэлл, Пол Айдинг, Патрик Фабиан, Дженнифер Хейл, Чарльз Халфорд, Эрика Латтрелл, Макс Миттелман, Токс Олагундойе",
+      "directors": "Jake Castorena, Сэм Лью",
+      "producers": "Сэм Лью, Эми МакКенна, Алан Барнетт, Мэттью Махони, Сэм Реджистер, Джеймс Такер",
+      "premiere_ru": null,
+      "premiere": "2018-07-24",
+      "age_restrictions": null,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 6.9,
+      "rating_imdb": 7.4,
+      "time": "1:21",
+      "tagline": "Witness the day Metropolis stood still.",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1047166.jpg",
+      "description": "Кларк Кент подумывает о том, чтобы раскрыть возлюбленной Лоис Лэйн свой самый большой секрет - что он является Суперменом. В это же время на Землю прибывает страшное чудовище Думсдэй, обладающее невероятной силой и злобой. Все супергерои в составе Лиги справедливости с трудом сдерживают монстра, поэтому Супермену придётся отложить свои личные дела и постараться помочь товарищам победить врага.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "HDRip",
+      "translation": "Anilibria",
+      "translation_iframe": {
+        "10": {
+          "name": "Anilibria",
+          "quality": "HDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Chosen",
+      "original_name": "Chosen",
+      "alternative_name": null,
+      "year": 2013,
+      "id_kp": 732906,
+      "alternative_id_kp": null,
+      "id_imdb": "tt2390334",
+      "id_tmdb": null,
+      "id_world_art": null,
+      "token_movie": "5e1b29a798e64df4686a9ad475c3a3",
+      "last_season": 3,
+      "last_episode": 3,
+      "date": "2019-12-29 05:02:44",
+      "country": "США",
+      "category": "Сериал",
+      "genre": "боевик, драма, триллер",
+      "actors": "Кэйтлин Кармайкл, Чад Майкл Мюррэй, Никки Уилан, Сара Ремер, Майло Вентимилья, Роуз МакГоун, Джозеф Лутман, Сэмми Ханратти, Александр Ле Бас, Брэндон Рут, Стэйси Хайдук, Дидрих Бадер, Патрик Ст. Эсприт, Лекси Эйнсуорт, Тристен Бэнкстон, Бриджер Задина, Бретт Даверн, Джои Керн, Кевин Хэмедани, Ноэль Гульеми",
+      "directors": "Бен Кетаи, Тоби Уилкинс",
+      "producers": "Бен Кетаи, Эми С. Ким, Райан Льюис, Майло Вентимилья, Крис Карлайл, Ивэн Чарнов, Расс Кандифф, Бенжамин Дж. Мерфи",
+      "premiere_ru": null,
+      "premiere": "2013-01-17",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 7.2,
+      "rating_imdb": 7.4,
+      "time": "0:22",
+      "tagline": "How far would you go?",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/732906.jpg",
+      "description": "Ян Митчелл, муж, отец и адвокат, проснувшись однажды утром, находит на пороге своего дома загадочную коробку с пистолетом и фото неизвестного ему человека, которого он должен убить в течение трёх дней.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "seasons_count": 3,
+      "seasons": {
+        "3": {
+          "iframe": "",
+          "season": 3,
+          "episodes": {
+            "3": {
+              "iframe": "",
+              "episode": 3,
+              "translation": {
+                "34": {
+                  "translation": "LostFilm",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "2": {
+              "iframe": "",
+              "episode": 2,
+              "translation": {
+                "34": {
+                  "translation": "LostFilm",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "1": {
+              "iframe": "",
+              "episode": 1,
+              "translation": {
+                "34": {
+                  "translation": "LostFilm",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "iframe": "",
+          "season": 2,
+          "episodes": {
+            "3": {
+              "iframe": "",
+              "episode": 3,
+              "translation": {
+                "34": {
+                  "translation": "LostFilm",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "2": {
+              "iframe": "",
+              "episode": 2,
+              "translation": {
+                "34": {
+                  "translation": "LostFilm",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "1": {
+              "iframe": "",
+              "episode": 1,
+              "translation": {
+                "34": {
+                  "translation": "LostFilm",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            }
+          }
+        },
+        "1": {
+          "iframe": "",
+          "season": 1,
+          "episodes": {
+            "6": {
+              "iframe": "",
+              "episode": 6,
+              "translation": {
+                "34": {
+                  "translation": "LostFilm",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "5": {
+              "iframe": "",
+              "episode": 5,
+              "translation": {
+                "34": {
+                  "translation": "LostFilm",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "4": {
+              "iframe": "",
+              "episode": 4,
+              "translation": {
+                "34": {
+                  "translation": "LostFilm",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "3": {
+              "iframe": "",
+              "episode": 3,
+              "translation": {
+                "34": {
+                  "translation": "LostFilm",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "2": {
+              "iframe": "",
+              "episode": 2,
+              "translation": {
+                "34": {
+                  "translation": "LostFilm",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "1": {
+              "iframe": "",
+              "episode": 1,
+              "translation": {
+                "34": {
+                  "translation": "LostFilm",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            }
+          }
+        }
+      },
+      "quality": "WEB-DL",
+      "translation": "LostFilm",
+      "translation_iframe": {
+        "34": {
+          "name": "LostFilm",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
       "name": "Слэшер",
       "original_name": "Slasher",
       "alternative_name": null,
@@ -880,7 +1453,7 @@
       "premiere": "2019-03-08",
       "age_restrictions": 6,
       "rating_mpaa": null,
-      "rating_kp": 5.4,
+      "rating_kp": 5.5,
       "rating_imdb": 4.8,
       "time": "1:33",
       "tagline": null,
@@ -1524,468 +2097,6 @@
         "87": {
           "name": "Профессиональный многоголосый",
           "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Ночлежка",
-      "original_name": "Crash Pad",
-      "alternative_name": null,
-      "year": 2017,
-      "id_kp": 937712,
-      "alternative_id_kp": null,
-      "id_imdb": "tt4557956",
-      "id_tmdb": 390053,
-      "id_world_art": null,
-      "token_movie": "14bc295ab2faf0effcd26e9b472567",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2019-12-28 18:39:30",
-      "country": "Канада, США",
-      "category": "Фильм",
-      "genre": "комедия",
-      "actors": "Донал Глисон, Кристина Эпплгейт, Сунита Прасад, Балиндер Джоал, Дэн Гилл, Джеймс Йи, Нилс Дж Хонестад, Нина Добрев, Томас Хейден Чёрч, Б.Дж. Харрисон, Бренда Кричлоу, Кэндас Черчилль, Анджела Мур, Алийа О’Брайен, Аня Савчич, Донна Бенедикто, Владимир Рузич, Роэн Кэмпбелл, Сет Уитэйкер, Ben Jacobs",
-      "directors": "Кевин Тент",
-      "producers": "Лорен Братман, Уильям Хорберг, Роб Диджи, Jon Ferro, Джесси Хара, Доминик Ианно, Билл Кили, Грег Малкольм, Джозеф МакКелхир",
-      "premiere_ru": null,
-      "premiere": "2017-09-26",
-      "age_restrictions": 16,
-      "rating_mpaa": "R",
-      "rating_kp": 5.8,
-      "rating_imdb": 5.7,
-      "time": "1:31",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/937712.jpg",
-      "description": "Стенслэнд, простак и безнадёжный романтик, верит, что обрёл истинную любовь в лице красавицы Морган. Однако для неё молодой любовник – лишь способ отомстить беспутному мужу, на что тот отвечает равноценной монетой, начав разгульную холостяцкую жизнь… в доме Стенслэнда.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "WEB-DL",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Сокровище Счастливчика",
-      "original_name": "Lucky's Treasure",
-      "alternative_name": null,
-      "year": 2017,
-      "id_kp": 937533,
-      "alternative_id_kp": null,
-      "id_imdb": "tt5034444",
-      "id_tmdb": 449304,
-      "id_world_art": null,
-      "token_movie": "b8ab709a33a1fe1269e59f4cbfcff7",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2019-12-28 18:38:42",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "приключения, семейный",
-      "actors": "Майкл Айронсайд, Делани, ДжиТи Нил, Lauren Taylor, Ryan Gregg, Nick Forrest, Томми Блэйз, Кэри Скотт, Керри Линн МакХью, Джайра Чаффи, Brenda McGinnis, Майк Хоукинс, Ай Олсон, Alison Kotila, Дебора Такер",
-      "directors": "Шэйн Хоукс",
-      "producers": "Кэрри Хоукс, Шэйн Хоукс",
-      "premiere_ru": null,
-      "premiere": "2017-04-04",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 4.7,
-      "time": "1:30",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/937533.jpg",
-      "description": "Студентка по имени Эмили переезжает из города в деревню, к своему дедушке. Там она заботится о бабушкином коне Счастливчике и пытается помочь скорбящему дедушке обрести Бога. Со временем она обзаводится новым другом по имени Джейк. Узнав, что бабушка Эмили умерла в поисках сокровища, друзья пытаются найти редкую золотую монету, десятилетиями ускользавшую от кладоискателей.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "DVDRip",
-      "translation": "Синема УС",
-      "translation_iframe": {
-        "84": {
-          "name": "Синема УС",
-          "quality": "DVDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Преподы идут",
-      "original_name": "Arrivano i prof",
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 1057774,
-      "alternative_id_kp": null,
-      "id_imdb": "tt7279014",
-      "id_tmdb": 516043,
-      "id_world_art": null,
-      "token_movie": "9a6216fd6497795fb122b36608b183",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2019-12-28 18:37:51",
-      "country": "Италия",
-      "category": "Фильм",
-      "genre": "комедия",
-      "actors": "Клаудио Бизио, Лино Гуанчале, Маурицио Никетти, Мария Ди Биасе, Шалана Сантана, Пьетро Рагуса, Алессио Сакара, Андреа Пеннакки, Джуси Бушеми, Франческо Прокопио, Christian Ginepro, Irene Vetere, Rocco Hunt, Mirko Alessandrini, Veronica Bitto, Кармен Ди Марзу, Haroun Fall, Riccardo Maria Manera, Isabella Merafino, Gennaro Moccardi",
-      "directors": "Иван Сильвестрини",
-      "producers": "Маттео Леви, Джаннандреа Пекорелли, Элеонора Шави",
-      "premiere_ru": null,
-      "premiere": "2018-05-01",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 4.5,
-      "time": "1:40",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1057774.jpg",
-      "description": null,
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "WEB-DL",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Берлинский синдром",
-      "original_name": "Berlin Syndrome",
-      "alternative_name": null,
-      "year": 2016,
-      "id_kp": 930966,
-      "alternative_id_kp": null,
-      "id_imdb": "tt3335606",
-      "id_tmdb": 363126,
-      "id_world_art": null,
-      "token_movie": "c705a42bc2e8e0a81f743b551bf713",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2019-12-28 18:36:20",
-      "country": "Австралия, Германия",
-      "category": "Фильм",
-      "genre": "детектив, драма, триллер",
-      "actors": "Тереза Палмер, Макс Римельт, Маттиас Хабих, Эмма Бадинг, Эльмира Бахрами, Кристоф Фрэнкен, Люси Арон, Нассим Ават, Малин Стеффен, Thuso Lekwape, Морган Ферру, Lara Marie Müller, Elias Esser, Клод Хайнрих, Nadine Peschel, Matthias Russel, Mascha Wolf, Viktor Bashmakov, Чарли Торн, Sasha Selezneva",
-      "directors": "Кейт Шортланд",
-      "producers": "Polly Staniford, Наима Абед, Скотт Отто Андерсон, Энджи Филдер, Эмили Жорж, Николас Кайзер, Оливер Лоуренс, Трой Льюм, Таня Майсснер",
-      "premiere_ru": "2017-07-20",
-      "premiere": "2017-01-20",
-      "age_restrictions": 18,
-      "rating_mpaa": "R",
-      "rating_kp": 6,
-      "rating_imdb": 6.3,
-      "time": "1:56",
-      "tagline": "Если носить маску слишком долго, она станет лицом",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/930966.jpg",
-      "description": "Во время отпуска в Берлине Клэр знакомится с обаятельным Энди и между ними сразу возникает влечение. После совместной прогулки по городу они проводят ночь вместе, но то, что на первый взгляд кажется началом бурного романа, неожиданно принимает зловещий оборот.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "WEB-DL",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Молодая женщина",
-      "original_name": "Jeune femme",
-      "alternative_name": null,
-      "year": 2017,
-      "id_kp": 986726,
-      "alternative_id_kp": null,
-      "id_imdb": "tt5598160",
-      "id_tmdb": 452016,
-      "id_world_art": null,
-      "token_movie": "ece6846993cda19fa32aa30cc57610",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2019-12-28 18:35:41",
-      "country": "Бельгия, Франция",
-      "category": "Фильм",
-      "genre": "драма, комедия",
-      "actors": "Летиция Дош, Сулейман Сейе Ндиайе, Грегуар Монсенжон, Жан-Кристоф Фолли, Натали Ришар, Арно де Казе, Зирек, Филипп Лэсри, Мари Ремон, Жан-Рене Лемуан, Bélinda Saligot, Филипп Винсент, Agathe Desche, Philippe Ferreira Gonçalo, Lou Valentini, Леони Симага, Эрика Сэйнт, Лила-Роуз Джилберти, Emma Benestan, Одри Бонне",
-      "directors": "Леонор Серай",
-      "producers": "Sandra da Fonseca, Бертран Гор, Натали Мезюре",
-      "premiere_ru": "2017-12-28",
-      "premiere": "2017-05-23",
-      "age_restrictions": 18,
-      "rating_mpaa": null,
-      "rating_kp": 6,
-      "rating_imdb": 6.6,
-      "time": "1:37",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/986726.jpg",
-      "description": "После долгих лет отсутствия Паула возвращается в Париж. Не имея ни гроша в кармане, с разбитым сердцем и любимой кошкой она пытается начать жизнь сначала.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "WEB-DL",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Леди Бёрд",
-      "original_name": "Lady Bird",
-      "alternative_name": null,
-      "year": 2017,
-      "id_kp": 958293,
-      "alternative_id_kp": null,
-      "id_imdb": "tt4925292",
-      "id_tmdb": 391713,
-      "id_world_art": null,
-      "token_movie": "500736aa91c601ce6b1923c0dd2144",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2019-12-28 18:34:47",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "драма, комедия",
-      "actors": "Сирша Ронан, Лори Меткаф, Трэйси Леттс, Лукас Хеджес, Тимоти Шаламе, Бини Фелдштейн, Лоис Смит, Стивен Хендерсон, Одейя Раш, Джордан Родригез, Мариэль Эйснер, Джон Карна, Джейк Макдорман, Бэйн Гибби, Лора Марано, Мариэтта ДеПрима, Дэниэл Дзоватто, Кристен Клоук, Энди Бакли, Пол Келлер",
-      "directors": "Грета Гервиг",
-      "producers": "Эли Буш, Эвелин О’Нилл, Скотт Рудин, Джейсон Сак, Алекс Дж. Скотт, Лила Якоб",
-      "premiere_ru": "2018-03-15",
-      "premiere": "2017-09-01",
-      "age_restrictions": 18,
-      "rating_mpaa": "R",
-      "rating_kp": 7,
-      "rating_imdb": 7.4,
-      "time": "1:34",
-      "tagline": "Time to Fly.",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/958293.jpg",
-      "description": "Кристина МакФерсон учится в консервативной католической школе в Сакраменто. Она ищет себя, своё место в мире и пытается быть не похожей на других. Её волосы выкрашены в странный красно-розовый цвет, а имя Леди Бёрд она дала себе сама и именно так просит её называть. И главная её мечта - вырваться из этого провинциального захолустья и поехать учиться в Нью-Йорк.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "BDRip",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "BDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Горе-творец",
-      "original_name": "The Disaster Artist",
-      "alternative_name": null,
-      "year": 2017,
-      "id_kp": 828242,
-      "alternative_id_kp": null,
-      "id_imdb": "tt3521126",
-      "id_tmdb": 371638,
-      "id_world_art": null,
-      "token_movie": "540dfd61226e11cd567825e88545b2",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2019-12-28 18:33:59",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "биография, драма, комедия",
-      "actors": "Джеймс Франко, Дэйв Франко, Сет Роген, Эри Грейнор, Элисон Бри, Джеки Уивер, Пол Шир, Зак Эфрон, Джош Хатчерсон, Джун Рафаэль, Меган Маллалли, Джейсон Манцукас, Эндрю Сантино, Нэйтан Филдер, Джо Манде, Шэрон Стоун, Джон Ерли, Мелани Гриффит, Хэннибал Бёресс, Шарлин Йи",
-      "directors": "Джеймс Франко",
-      "producers": "Ричард Бренер, Майкл Диско, Джозеф Дрэйк, Тоби Эммерих, Ashleigh Erwin, Джеймс Франко, Брюс Уэйн Гиллис, Эван Голдберг, Винс Джоливетт",
-      "premiere_ru": null,
-      "premiere": "2017-03-12",
-      "age_restrictions": 18,
-      "rating_mpaa": "R",
-      "rating_kp": 7.5,
-      "rating_imdb": 7.4,
-      "time": "1:44",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/828242.jpg",
-      "description": "Начинающий актёр-красавец Грэг на актерских курсах знакомится с эксцентричным Томми Вайсо. У новых друзей совсем немного общего, кроме любви к актерству и желания самовыражаться, поэтому парочка отправляется покорять Голливуд.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "BDRip",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "BDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Проект Флорида",
-      "original_name": "The Florida Project",
-      "alternative_name": null,
-      "year": 2017,
-      "id_kp": 998317,
-      "alternative_id_kp": null,
-      "id_imdb": "tt5649144",
-      "id_tmdb": 394117,
-      "id_world_art": null,
-      "token_movie": "2595bcbd3170e7a4c154779a1c9b86",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2019-12-28 18:33:09",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "драма",
-      "actors": "Бруклин Принс, Брия Винайте, Валерия Котто, Кристофер Ривера, Уиллем Дефо, Калеб Лэндри Джонс, Мэйкон Блэр, Эйден Малик, Josie Olivo, Эдвард Паган, Patti Wiley, Jasineia Ramos, Rosa Medina Perez, Mela Murder, Krystal Nicole Watts, Bronwyn Valley, Kelly Fitzgerald, Сэнди Кэйн, Джим Р. Коулмэн, Эндрю Романо",
-      "directors": "Шон Бэйкер",
-      "producers": "Шон Бэйкер, Крис Бергоч, Кевин Чиной, Andrew Duncan, Алекс Сакс, Франческа Сильвестри, Цоу Ши-Чин, Даррен Дин, Дэни Джонсон",
-      "premiere_ru": "2018-03-08",
-      "premiere": "2017-05-22",
-      "age_restrictions": 18,
-      "rating_mpaa": "R",
-      "rating_kp": 7,
-      "rating_imdb": 7.6,
-      "time": "1:51",
-      "tagline": "Welcome to a magical kingdom",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/998317.jpg",
-      "description": "Невоспитанная, но очаровательная 6-летняя Муни живет в мотеле во Флориде. Пока её непутевая мамаша пытается свести концы с концами разными, зачастую незаконными способами, девочка целыми днями предоставлена самой себе. Вместе с соседскими детьми Муни болтается по окрестностям без присмотра и определенной цели, хулиганя и грубя окружающим. Однако менеджер мотеля терпеливо и с симпатией относится к своим постояльцам.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "WEB-DL",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Тайна Крикли-холла",
-      "original_name": "The Secret of Crickley Hall",
-      "alternative_name": null,
-      "year": 2012,
-      "id_kp": 681830,
-      "alternative_id_kp": null,
-      "id_imdb": "tt2294227",
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "fd08b3175672b4f94551eb1c2eba59",
-      "last_season": 1,
-      "last_episode": 3,
-      "date": "2019-12-28 18:32:48",
-      "country": "Великобритания",
-      "category": "Сериал",
-      "genre": "детектив, драма, ужасы",
-      "actors": "Сюранна Джоунс, Том Эллис, Дуглас Хеншэлл, Дэвид Уорнер, Сара Смарт, Йен де Кестекер, Оливия Кук, Мэйси Уильямс, Билл Милнер, Пикси Дейвис, Kian Schmidt, Ферн Дикон, Сьюзэн Линч, Дональд Самптер, Крэйг Паркинсон, Джулия Форд, Николас Сиди, Эллиот Керли, Шеннон Бир, Пол Клэйтон",
-      "directors": "Джо Эхирн",
-      "producers": "Энн Харрисон-Бакстер, Элисон Луз, Хилари Мартин, Джош Дайневор",
-      "premiere_ru": null,
-      "premiere": "2012-10-28",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 6.8,
-      "rating_imdb": 6.9,
-      "time": "0:59",
-      "tagline": "They came to escape the past, the past had other ideas.",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/681830.jpg",
-      "description": "Спустя год после исчезновения сына, Гейб и Ева Калей переезжают с двумя дочерьми в Крикли-холл в попытке убежать от своих воспоминаний. И дать шанс своей семьей начать жизнь заново. Но дверь подвала вдруг начинает открываться сама по себе, невидимые дети плакать по ночам, а разъярённые призраки бродить в камышах. Но когда семья Калей уже приближается к решению съехать, Ева слышит голос своего пропавшего сына. Нащупав связь между событиями 1943 года и настоящим, семья Калей пытается выяснить, что связывает Крикли-холл с их пропавшим сыном. Найдут ли они Кэма прежде, чем Крикли-холл заберёт их дочерей?",
-      "iframe": "",
-      "iframe_trailer": null,
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "2": {
-                  "translation": "Agatha Studdio",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "2": {
-                  "translation": "Agatha Studdio",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "2": {
-                  "translation": "Agatha Studdio",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "WEB-DL",
-      "translation": "Agatha Studdio",
-      "translation_iframe": {
-        "2": {
-          "name": "Agatha Studdio",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Идеальный голос 3",
-      "original_name": "Pitch Perfect 3",
-      "alternative_name": null,
-      "year": 2017,
-      "id_kp": 916759,
-      "alternative_id_kp": null,
-      "id_imdb": "tt4765284",
-      "id_tmdb": 353616,
-      "id_world_art": null,
-      "token_movie": "31f8921b98c919ff3929d5282b2064",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2019-12-28 18:31:53",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "комедия, музыка",
-      "actors": "Анна Кендрик, Ребел Уилсон, Бриттани Сноу, Анна Кэмп, Хейли Стайнфелд, Эстер Дин, Хана Мэй Ли, Келли Джакл, Шелли Регнер, Крисси Фит, Элизабет Бэнкс, Джон Майкл Хиггинс, Джон Литгоу, Мэтт Лантер, Гай Бернет, Алексис Нэп, D.J. Халед, Трой Йен Холл, Майкл Эдвард Роуз, Джессика Чаффин",
-      "directors": "Триш Си",
-      "producers": "Элизабет Бэнкс, Джон Бернард, Пол Брукс, Кэй Кэннон, Макс Хандельман, Джейсон Мур, Дэвид Никсей, Скотт Ниемейер",
-      "premiere_ru": null,
-      "premiere": "2017-12-20",
-      "age_restrictions": 16,
-      "rating_mpaa": "PG-13",
-      "rating_kp": 6.1,
-      "rating_imdb": 5.8,
-      "time": "1:33",
-      "tagline": "Last Call, Pitches",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/916759.jpg",
-      "description": "История о коллективе юных и амбициозных певиц, которых ожидают новые вызовы и испытания на пути к успеху и широкому признанию.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "BDRip",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "BDRip",
           "iframe": ""
         }
       }
