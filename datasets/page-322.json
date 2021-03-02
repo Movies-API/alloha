@@ -1,6 +1,540 @@
 {
   "data": [
     {
+      "name": "Свидетельство",
+      "original_name": "Thadam",
+      "alternative_name": null,
+      "year": 2019,
+      "id_kp": 1154832,
+      "alternative_id_kp": null,
+      "id_imdb": "tt7822438",
+      "id_tmdb": 505971,
+      "id_world_art": null,
+      "token_movie": "99e6b9fb6b3b37f37b9f2d8280e5e3",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-10-20 10:00:04",
+      "country": "Индия",
+      "category": "Фильм",
+      "genre": "боевик, криминал, триллер",
+      "actors": "Арун Виджай, Tanya Hope, Smruthi Venkat, Фефси Виджаян, Йоги Бабу, Соня Агарвал, Видья Прадип, Джордж, Мира Кришна, Thanigai",
+      "directors": "Magizh Thirumeni",
+      "producers": "",
+      "premiere_ru": null,
+      "premiere": "2019-02-28",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 8.2,
+      "time": "2:18",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1154832.jpg",
+      "description": "Полицейские расследуют убийство. Их главная зацепка - селфи, на котором случайно был запечатлен убийца. Они выходят на предполагаемого преступника, но внезапно обнаруживается, что есть еще один человек, который выглядит точно так же.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "WEB-DL",
+      "translation": "Любительский двухголосый",
+      "translation_iframe": {
+        "88": {
+          "name": "Любительский двухголосый",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Животное",
+      "original_name": "The Animal",
+      "alternative_name": null,
+      "year": 2001,
+      "id_kp": 4187,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0255798",
+      "id_tmdb": 11090,
+      "id_world_art": null,
+      "token_movie": "db8f9d9dcb1d48b7df956e1827aec7",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-10-20 09:59:05",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "комедия, фантастика",
+      "actors": "Роб Шнайдер, Коллин Хэскелл, Джон К. МакГинли, Эдвард Эснер, Майкл Кейтон, Луис Ломбарди, Гай Торри, Боб Рубин, Пилар Шнайдер, Скотт Уилсон, Рэймонд Ма, Майкл Пападжон, Рон Рогге, Холли Мэйплс, Хенриетта Мантел, Джереми Крамер, Робб Скайлер, Нико Мариолис, Филип Болден, Декер Дэйли",
+      "directors": "Люк Гринфилд",
+      "producers": "Бэрри Бернарди, Карр Д’Анджело, Тодд Гарнер, Том Брэди, Дерек Дочи, Джек Джиррапуто, Том МакНалти, Нэйтан Талберт Рейманн, Адам Сэндлер",
+      "premiere_ru": "2001-08-22",
+      "premiere": "2001-03-21",
+      "age_restrictions": 12,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 6.2,
+      "rating_imdb": 4.8,
+      "time": "1:24",
+      "tagline": "The producing team of «Big Daddy» has delivered another winner!",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4187.jpg",
+      "description": "Попав в автокатастрофу, Марвин был спасён от смерти доктором Уайлдером, но весьма необычным способом. Повреждённые внутренние органы пациента врач заменил на органы разных животных. Марвин не только выздоровел, но и обрёл силу и выносливость своих доноров. Однако вместе с этим Марвин унаследовал и животные инстинкты.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "WEB-DL",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Элитное общество",
+      "original_name": "The Bling Ring",
+      "alternative_name": null,
+      "year": 2013,
+      "id_kp": 654875,
+      "alternative_id_kp": null,
+      "id_imdb": "tt2132285",
+      "id_tmdb": 96936,
+      "id_world_art": null,
+      "token_movie": "673d6edcb067618c595f565ce06abb",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-10-20 09:57:55",
+      "country": "Великобритания, США, Франция",
+      "category": "Фильм",
+      "genre": "биография, драма, криминал",
+      "actors": "Израэль Бруссар, Кэти Чанг, Эмма Уотсон, Таисса Фармига, Клер Элис Жюльен, Гэвин Россдэйл, Джорджия Рок, Лесли Манн, Карлос Миранда, Стэйси Эдвардс, Дж. Мак Браун, Марк Коппола, Джанет Сонг, Энни Фицджералд, Лоренцо Хант, Тимоти Старкс, Рич Кероло, Джо Ниевес, Нельсон Рокфорд, Даг ДиБич",
+      "directors": "София Коппола",
+      "producers": "Роман Коппола, София Коппола, Юри Хенли, Фрэнсис Форд Коппола, Даррен М. Деметре, Эмилио Диез Барросо, Дарлен Каамано, Пол Рассам, Фред Рус",
+      "premiere_ru": "2013-07-04",
+      "premiere": "2013-05-16",
+      "age_restrictions": 16,
+      "rating_mpaa": "R",
+      "rating_kp": 5.7,
+      "rating_imdb": 5.6,
+      "time": "1:27",
+      "tagline": "Где украсть красивую жизнь?",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/654875.jpg",
+      "description": "В поисках адреналина и приключений пятеро отчаянных подростков ради прикола стали навещать богатые особняки в окрестностях Голливуда. Наведываясь в гости к Линдси Лохан, Орландо Блуму, Пэрис Хилтон и другим голливудским звездам, девушки, конечно, больше интересовались дизайнерской одеждой и драгоценностями, а юноши – просто деньгами. Совершив десять краж со взломом, ребятки награбили больше трех миллионов долларов…",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Советник\t",
+      "original_name": "The Counselor",
+      "alternative_name": null,
+      "year": 2013,
+      "id_kp": 662834,
+      "alternative_id_kp": null,
+      "id_imdb": "tt2193215",
+      "id_tmdb": 109091,
+      "id_world_art": null,
+      "token_movie": "1af24b93184b56f1d60781d58f64ef",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-10-20 09:57:21",
+      "country": "Великобритания, США",
+      "category": "Фильм",
+      "genre": "драма, криминал, триллер",
+      "actors": "Майкл Фассбендер, Пенелопа Крус, Кэмерон Диаз, Хавьер Бардем, Брэд Питт, Бруно Ганц, Рози Перес, Сэм Спруэлл, Тоби Кеббелл, Эмма Ригби, Эдгар Рамирес, Рубен Бладес, Дин Норрис, Натали Дормер, Джон Легуизамо, Горан Вишнич, Сизар Агирр, Даниэль Ольгин, Кристофер Оби, Ричард Кебрал",
+      "directors": "Ридли Скотт",
+      "producers": "Пола Мэй Шварц, Стив Шварц, Ридли Скотт, Ник Уэкслер, Марк Альбела, Майкл Костиган, Марк Хаффам, Тереза Келли, Кормак МакКарти",
+      "premiere_ru": "2013-10-31",
+      "premiere": "2013-10-03",
+      "age_restrictions": 16,
+      "rating_mpaa": "R",
+      "rating_kp": 5.6,
+      "rating_imdb": 5.3,
+      "time": "1:57",
+      "tagline": "Соблазн велик",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/662834.jpg",
+      "description": "Успешный адвокат, стоящий практически на вершине успеха и на пороге собственной свадьбы, из любопытства и, конечно, ради денег соглашается на предложение своего давнего знакомого, имеющего тесные связи с преступным миром, перевезти из Мексики в США партию кокаина стоимостью 20 млн. долл.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Переломный момент",
+      "original_name": "The Game Changers",
+      "alternative_name": null,
+      "year": 2018,
+      "id_kp": 1069523,
+      "alternative_id_kp": null,
+      "id_imdb": "tt7455754\t",
+      "id_tmdb": 463088,
+      "id_world_art": null,
+      "token_movie": "713759ae033b83572e08e9f8f944a4",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-10-20 09:54:59",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "документальный",
+      "actors": "Джеймс Уилкс, Арнольд Шварценеггер, Patrik Baboumian, Dotsie Bausch, Tia Blanco, Nimai Delgado, Rip Esselstyn, Kendrick Farris, Mischa Janiec, Bryant Jennings, Scott Jurek, Дэмиен Мандер, Morgan Mitchell, Lucious Smith, Griff Whalen, Rob Bailey, Коламбус Батисте, Nathaniel Dominy, Caldwell Esselstyn Jr., David Goldman",
+      "directors": "Louie Psihoyos",
+      "producers": "Joseph Pace, Джеймс Уилкс, Niklas Adalberth, Сьюзи Эймис, Памела Андерсон, Josh Balk, Steve Bellamy, Marco Borges, Brendan Brazier",
+      "premiere_ru": null,
+      "premiere": "2018-01-19",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 7.9,
+      "rating_imdb": 7.9,
+      "time": "1:26",
+      "tagline": "Fueled by the Truth",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1069523.jpg",
+      "description": "Джеймс Уилкс, элитный тренер спецназа и абсолютный победитель The Ultimate Fighter, путешествует по миру в поисках оптимальной диеты.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "WEB-DL",
+      "translation": "Профессиональный многоголосый",
+      "translation_iframe": {
+        "87": {
+          "name": "Профессиональный многоголосый",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Стоянка\t",
+      "original_name": "The Layover",
+      "alternative_name": null,
+      "year": 2017,
+      "id_kp": 894007,
+      "alternative_id_kp": null,
+      "id_imdb": "tt4565520",
+      "id_tmdb": 339404,
+      "id_world_art": null,
+      "token_movie": "6233eed18c49a6ba025fd91e6770f9",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-10-20 09:54:15",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "комедия, мелодрама",
+      "actors": "Кейт Аптон, Александра Даддарио, Мэтт Барр, Мэтт Джонс, Кэл Пенн, Майкл Беняер, Эми Анеке, Джо Нуньес, Элвин Сандерс, Роб Кордри, Молли Шеннон, Анджела Мур, Джон Кассини, Дженнифер Чжон, Джон Дестри Адамс, Эрик Гибсон, Дин Редман, Роурк Критчлоу, Джо Маллен, Pendo Muema",
+      "directors": "Уильям Х. Мэйси",
+      "producers": "Аарон Л. Гилберт, Кет Кьярвал, Джейсон Клот, Адам Ф. Голдберг, Эрика Хэмпсон, Тайлер Джексон, Лэнс Кралл, Lori Massini, Cory Morel",
+      "premiere_ru": null,
+      "premiere": "2017-08-03",
+      "age_restrictions": 18,
+      "rating_mpaa": "R",
+      "rating_kp": 5.2,
+      "rating_imdb": 4.8,
+      "time": "1:28",
+      "tagline": "Женские бои без правил!",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/894007.jpg",
+      "description": "Две лучшие подруги решают сбежать от повседневных проблем в тропическое путешествие. Но из-за штормового предупреждения их вылет задерживается, и, что ещё хуже, девушки вступают в борьбу за одного симпатичного попутчика.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Вегас",
+      "original_name": "Vegas",
+      "alternative_name": null,
+      "year": 2012,
+      "id_kp": 669598,
+      "alternative_id_kp": null,
+      "id_imdb": "tt2262383",
+      "id_tmdb": null,
+      "id_world_art": null,
+      "token_movie": "be25f6c9361d6e1767b3baad0ce5e8",
+      "last_season": 1,
+      "last_episode": 21,
+      "date": "2020-10-20 09:53:25",
+      "country": "США",
+      "category": "Сериал",
+      "genre": "боевик, драма, криминал",
+      "actors": "Деннис Куэйд, Майкл Чиклис, Кэрри-Энн Мосс, Тейлор Хэндли, Джейсон О’Мара, Сара Джонс, Сонни Маринелли, Джеймс Руссо, Эйми Гарсиа, Майкл Рейли Бурк, Майкл Уайзмен, Дастин Сивей, Винесса Шоу, Джо Сабатино, Шон Дойл, Энвер Гьокай, Анна Кэмп, Майкл О’Нил, Мелинда Кларк, Майкл Айронсайд",
+      "directors": "Мэтт Эрл Бисли, Дуан Кларк, Роксанн Доусон, Пол МакКрейн, Кристин Мур, Грег Биман, Гэри Фледер, Энтони Хемингуэй, Джеймс Мэнголд, Джефф Т. Томас",
+      "producers": "",
+      "premiere_ru": "2013-08-02",
+      "premiere": "2012-09-25",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 7.2,
+      "rating_imdb": 7.3,
+      "time": "0:44",
+      "tagline": "Let the sin begin.",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/669598.jpg",
+      "description": "Фильм снят по реальным событиям, о ковбое по имени Ральф Лэмб, в 1960-м году ставшем главным шерифом Лас-Вегаса и прослужившем на этом посту 18 лет. При Лэмбе был сформирован полицейский департамент города. Он противостоял мафии, мото-банде «Ангелы ада» и прославился тем, что ни разу ни в кого не выстрелил.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "seasons_count": 1,
+      "seasons": {
+        "1": {
+          "iframe": "",
+          "season": 1,
+          "episodes": {
+            "21": {
+              "iframe": "",
+              "episode": 21,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "20": {
+              "iframe": "",
+              "episode": 20,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "19": {
+              "iframe": "",
+              "episode": 19,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "18": {
+              "iframe": "",
+              "episode": 18,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "17": {
+              "iframe": "",
+              "episode": 17,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "16": {
+              "iframe": "",
+              "episode": 16,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "15": {
+              "iframe": "",
+              "episode": 15,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "14": {
+              "iframe": "",
+              "episode": 14,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "13": {
+              "iframe": "",
+              "episode": 13,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "12": {
+              "iframe": "",
+              "episode": 12,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "11": {
+              "iframe": "",
+              "episode": 11,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "10": {
+              "iframe": "",
+              "episode": 10,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "9": {
+              "iframe": "",
+              "episode": 9,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "8": {
+              "iframe": "",
+              "episode": 8,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "7": {
+              "iframe": "",
+              "episode": 7,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "6": {
+              "iframe": "",
+              "episode": 6,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "5": {
+              "iframe": "",
+              "episode": 5,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "4": {
+              "iframe": "",
+              "episode": 4,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "3": {
+              "iframe": "",
+              "episode": 3,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "2": {
+              "iframe": "",
+              "episode": 2,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "1": {
+              "iframe": "",
+              "episode": 1,
+              "translation": {
+                "7": {
+                  "translation": "Amedia",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            }
+          }
+        }
+      },
+      "quality": "WEB-DL",
+      "translation": "Amedia",
+      "translation_iframe": {
+        "7": {
+          "name": "Amedia",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
       "name": "Дом",
       "original_name": "The House",
       "alternative_name": null,
@@ -2495,300 +3029,6 @@
         "87": {
           "name": "Профессиональный многоголосый",
           "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Новый разум\t",
-      "original_name": "Mind Blown",
-      "alternative_name": null,
-      "year": 2016,
-      "id_kp": 963276,
-      "alternative_id_kp": null,
-      "id_imdb": "tt4622818",
-      "id_tmdb": 429691,
-      "id_world_art": null,
-      "token_movie": "a3636446cbb4e1244f9b644946491e",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-10-19 23:09:11",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "боевик, триллер, фантастика",
-      "actors": "Джессика Уберуага, Майкл Маринаццио, Джон Мак, Люк Госс, Винс ДеКоста, Альберт Конг, Стив Хэнкс, Саксон Джонс, Сара Бут, Джанфранко Ламор, Сара Карсон, Мэри Кристина Браун, Alejandra Ulloa, Джимми Гонсалес, Моник Пэрент, Стивен Самблис, Tyler Schwab, Morgan Renear, Доун Броди, Tyler Francis",
-      "directors": "Кристиан Сесма",
-      "producers": "Майк Хаттон, Аско Акопян, Арнольд Чон, Люк Госс, Лиза М. Хансен, Пол Хертцберг",
-      "premiere_ru": null,
-      "premiere": "2016-12-01",
-      "age_restrictions": 16,
-      "rating_mpaa": null,
-      "rating_kp": 3.7,
-      "rating_imdb": 3,
-      "time": "1:28",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/963276.jpg",
-      "description": "Проект «Новый Разум» - секретная государственная программа, которая использует людей с исключительными способностями в своих целях. Во время очередной миссии что-то идёт не так и в результате оказывается разрушенным целый город. Кто виноват в этой трагедии и кому на самом деле можно доверять? Всё это предстоит выяснить телекинетику Дженнифер Гейнс.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "WEB-DL",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Сказ о розовом зайце",
-      "original_name": null,
-      "alternative_name": null,
-      "year": 2010,
-      "id_kp": 479698,
-      "alternative_id_kp": null,
-      "id_imdb": "tt1859588",
-      "id_tmdb": 100972,
-      "id_world_art": null,
-      "token_movie": "2a18976b13887c6aed2281fb368a4d",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-10-19 23:08:22",
-      "country": "Казахстан",
-      "category": "Фильм",
-      "genre": "драма, криминал",
-      "actors": "Ануар Нурпеисов, Максим Акбаров, Карлыгаш Мухамеджанова, Фархад Абдраимов, Бахтияр Кожа, Мурат Бисенбин, Саят Исембаев, Санжар Мади, Антон Фот, Райхан Айткожанова, Роман Хикалов, Ерболат Тогузаков, Эльвира Куспанова, Руслан Магаев",
-      "directors": "Фархат Шарипов",
-      "producers": "Ермек Аманшаев, Серик Жубандыков",
-      "premiere_ru": null,
-      "premiere": "2010-08-26",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 7.5,
-      "rating_imdb": 6.4,
-      "time": "1:45",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/479698.jpg",
-      "description": "Провинциальный парень Ерлан, студент 3 курса одного из алматинских ВУЗов. Он приехал в город в надежде добиться успеха в будущем. Среда «золотой молодежи» куда он попадает, оказалось непростой. У нее свои законы, собственные порядки, и для того, чтобы сохранить свои моральные принципы, многое придется заново пережить и испытать.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "DVDRip",
-      "translation": "Не требуется",
-      "translation_iframe": {
-        "82": {
-          "name": "Не требуется",
-          "quality": "DVDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Сентиментальщина",
-      "original_name": "Hearts and Flowers",
-      "alternative_name": null,
-      "year": 1919,
-      "id_kp": 175806,
-      "alternative_id_kp": null,
-      "id_imdb": "tt0010233",
-      "id_tmdb": 278127,
-      "id_world_art": null,
-      "token_movie": "31d2e258d786787e94e4e622c34d73",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-10-19 23:06:39",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "комедия, короткометражка",
-      "actors": "Луиза Фазенда, Форд Стерлинг, Филлис Хэвер, Билли Армстронг, Джек Экройд, Хейни Конклин, Харриет Хэммонд, Берт Роач, Балла Паша, Ева Тэтчер, Глэдис Аткинс, Мэрион Айе, Тельма Бейтс, Дороти Бил, Джозеф Белмонт, Elva Diltz, Роберт Финлэй, Вирджиния Фокс, Джордж Грэй, Гарри Гриббон",
-      "directors": "Эдвард Ф. Клайн",
-      "producers": "Мак Сеннет",
-      "premiere_ru": null,
-      "premiere": "1919-06-22",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 5.6,
-      "time": "0:23",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/175806.jpg",
-      "description": "Дирижёр оркестра узнаёт, что цветочница из отеля, где они дают концерт, после смерти дяди стала наследницей всего его состояния. Не долго думая, он начинает за ней ухаживать, от чего, разумеется, не в восторге парень девушки.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "WEB-DLRip",
-      "translation": "Оригинальная",
-      "translation_iframe": {
-        "93": {
-          "name": "Оригинальная",
-          "quality": "WEB-DLRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Роден",
-      "original_name": "Rodin",
-      "alternative_name": null,
-      "year": 2017,
-      "id_kp": 991863,
-      "alternative_id_kp": null,
-      "id_imdb": "tt5771710",
-      "id_tmdb": 445768,
-      "id_world_art": null,
-      "token_movie": "05ce5256a0cecf5e3ade489ecfe584",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-10-19 23:05:27",
-      "country": "Бельгия, Франция",
-      "category": "Фильм",
-      "genre": "биография, драма, мелодрама",
-      "actors": "Венсан Линдон, Изиа Ижлен, Северин Канеел, Бернар Верле, Андерс Даниелсен Лье, Артур Нозисель, Лоран Пуатрено, Оливье Кадьо, Alexandre Haulet, Louise Le Pape, Morgane de Vargas, Nia Acosta, Pauline Cousty, Сендрин Горбин, Гийен Пеан, Пьер-Ив Демонсо, Лиа Джексон, Франсуа Нейкен, Натали Бекю, Режис Руайе",
-      "directors": "Жак Дуайон",
-      "producers": "Кристина Ларсен, Чарльз С. Коэн, Филипп Логи, Патрик Кине, Тина Винхольт",
-      "premiere_ru": "2017-09-21",
-      "premiere": "2017-05-24",
-      "age_restrictions": 18,
-      "rating_mpaa": null,
-      "rating_kp": 5.5,
-      "rating_imdb": 4.9,
-      "time": "1:59",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/991863.jpg",
-      "description": "История восхождения гениального скульптора к вершине мирового искусства. Это рассказ о творчестве Огюста Родена, о его бесчисленных любовных интригах и о непростых взаимоотношениях с самыми главными женщинами в жизни мастера – талантливой ученицей Камиллой Клодель и Розой Бёре, матерью его единственного ребенка.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "BDRip",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "BDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Держи удар, детка",
-      "original_name": null,
-      "alternative_name": null,
-      "year": 2016,
-      "id_kp": 943896,
-      "alternative_id_kp": null,
-      "id_imdb": null,
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "46fd89eaee22590658e8bd92360103",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-10-19 23:04:49",
-      "country": "Россия",
-      "category": "Фильм",
-      "genre": "комедия, мелодрама",
-      "actors": "Екатерина Владимирова, Михаил Пореченков, Игорь Верник, Ольга Бузова, Настасья Самбурская, Даниил Вахрушев, Виктор Хориняк, Теймураз Тания, Анна Цуканова-Котт, Виталий Гогунский, Юлия Такшина, Константин Крюков, Олег Верещагин, Андрей Крыжний, Александра Назарова, Сергей Погосян, Омар Алибутаев, Никита Абдулов, Кристина Борейко, Инна Санчай",
-      "directors": "Ара Оганесян",
-      "producers": "Виктор Солодников, Ара Оганесян, Арам Оганесян, Григорий Стоялов, Артём Соловьев",
-      "premiere_ru": "2016-10-06",
-      "premiere": null,
-      "age_restrictions": 12,
-      "rating_mpaa": null,
-      "rating_kp": 5.3,
-      "rating_imdb": 5,
-      "time": "1:41",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/943896.jpg",
-      "description": "Близняшек Свету и Таню внешне отличить не может никто, но на этом их сходство заканчивается. Света – это женственность и стервозность. Она хочет построить карьеру на телевидении. Таня готовится попасть в сборную России по боксу. Тайсон в юбке. Ее жизнь - это тренировки и спортивный режим.\n\rТаня получает травму. Таня уговаривает сестру поменяться местами, чтобы пройти за нее медкомиссию и ходить на тренировки. Света готова на это с условием, что Таня пройдет за нее практику на телеканале. Свете предстоит поменять свой характер, чтобы довести сестру до боя. Тане - подумать мозгами, а не кулаками, чтобы стать Светой.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "WEB-DL",
-      "translation": "Не требуется",
-      "translation_iframe": {
-        "82": {
-          "name": "Не требуется",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Ужин с придурками",
-      "original_name": "Dinner for Schmucks",
-      "alternative_name": null,
-      "year": 2010,
-      "id_kp": 87146,
-      "alternative_id_kp": null,
-      "id_imdb": "tt0427152",
-      "id_tmdb": 38778,
-      "id_world_art": null,
-      "token_movie": "54dd95c35f6d6572e90baf4bece21c",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-10-19 22:45:34",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "комедия",
-      "actors": "Стив Карелл, Пол Радд, Зак Галифианакис, Джемейн Клемент, Стефани Зостак, Люси Панч, Брюс Гринвуд, Дэвид Уоллиамс, Рон Ливингстон, Ларри Уилмор, Кристен Шаал, П.Дж. Бирн, Андреа Сэвадж, Ник Кролл, Рэндолл Пак, Люси Девенпорт, Крис О’Дауд, Джефф Данэм, Октавия Спенсер, Патрик Фишлер",
-      "directors": "Джей Роуч",
-      "producers": "Лори МакДональд, Уолтер Ф. Паркс, Джей Роуч, Гари Барбер, Саша Барон Коэн, Роджер Бирнбаум, Джош Кинг, Джон Полл, Эми Сэйерс",
-      "premiere_ru": null,
-      "premiere": "2010-07-30",
-      "age_restrictions": 16,
-      "rating_mpaa": "PG-13",
-      "rating_kp": 6.1,
-      "rating_imdb": 5.9,
-      "time": "1:54",
-      "tagline": "Takes One To Know One.",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/87146.jpg",
-      "description": "Простой служащий фирмы Тим получил своё первое приглашение на «ужин для придурков». Это ежемесячное мероприятие устраивает его босс, и тот, кто покажет себя самым большим идиотом, может рассчитывать на некоторые бонусы в будущем.\n\rНевеста Тима – Джулии – находит всё это ужасным, и Тим соглашается пропустить ужин, но случайно знакомится с Барри  – сотрудником налоговой службы, который в свободное время конструирует диорамы из чучел мышей. Тим приглашает с собой на ужин Барри, который становится  причиной злоключений Тима. У него едва не срывается важная сделка, его бывшая подруга возвращается в его жизнь, а Джулии попадает в объятия другого…",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "BDRip",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "BDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Головар",
-      "original_name": null,
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 1111862,
-      "alternative_id_kp": null,
-      "id_imdb": null,
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "1fbbe7db52cfedc04f47526a120bee",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-10-19 22:44:39",
-      "country": "Россия",
-      "category": "Фильм",
-      "genre": "драма",
-      "actors": "Владимир Банчиков, Светлана Полянская, Владимир Барташевич, Артур Шувалов, Владимир Срабионов, Рина Жеребко, Алексей Туробов, Игорь Озеров, Владислав Самарин, Елена Ершова, Константин Озеров, Евгений Жамцуев",
-      "directors": "Юрий Ботоев",
-      "producers": "Денис Гармаев, Алексей Смирнов",
-      "premiere_ru": "2018-04-05",
-      "premiere": null,
-      "age_restrictions": 16,
-      "rating_mpaa": null,
-      "rating_kp": 5.2,
-      "rating_imdb": null,
-      "time": "1:35",
-      "tagline": "Каждый вправе сам свой выбрать путь",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1111862.jpg",
-      "description": "Налаженная жизнь, успешный нефритовый бизнес - все это было, пока главный герой не попал в ситуацию, которая поглотила его и всю его семью в трагические обстоятельства. Человек, который, казалось бы, может купить все,  что угодно, в том, числе власть, оказывается бессилен перед чередой случайных событий. Потеряв, близкого человека, он решается на отчаянный шаг.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "WEB-DLRip",
-      "translation": "Не требуется",
-      "translation_iframe": {
-        "82": {
-          "name": "Не требуется",
-          "quality": "WEB-DLRip",
           "iframe": ""
         }
       }
