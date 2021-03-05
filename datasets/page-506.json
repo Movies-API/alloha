@@ -1,578 +1,116 @@
 {
   "data": [
     {
-      "name": "Принцесса Лебедь",
-      "original_name": "The Swan Princess",
+      "name": "Звёздные Врата: Ковчег Истины",
+      "original_name": "Stargate: The Ark of Truth",
       "alternative_name": null,
-      "year": 1994,
-      "id_kp": 6667,
+      "year": 2008,
+      "id_kp": 307943,
       "alternative_id_kp": null,
-      "id_imdb": "tt0111333",
-      "id_tmdb": 22586,
+      "id_imdb": "tt0942903",
+      "id_tmdb": 13001,
       "id_world_art": null,
-      "token_movie": "5ecdfea063d52a0fb4676267f91c9b",
+      "token_movie": "45f53ec5134bef8c2940dbfa4308fa",
       "last_season": null,
       "last_episode": null,
-      "date": "2020-07-31 20:41:56",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "мультфильм, мюзикл, фэнтези",
-      "actors": "Мишель Никастро, Говард МакДжиллин, Джек Пэланс, Лиз Колэуэй, Джон Клиз, Стивен Райт, Стив Винович, Марк Харелик, Джеймс Аррингтон, Дэвис Гейнс, Джоэль Маккиннон Миллер, Дэкин Мэтьюз, Сэнди Дункан, Брайан Ниссен, Адам Вайли, Адриан Захири, Том Алан Роббинс, Бесс Хоппер, Джон Джойс, Сьюзэн Бойд",
-      "directors": "Ричард Рич",
-      "producers": "Ричард Рич, Джаред Ф. Браун, Мэтт Мазер, Терри Л. Носс, Томас Дж. Тобин, Селдон Янг",
-      "premiere_ru": null,
-      "premiere": "1994-10-17",
-      "age_restrictions": 6,
-      "rating_mpaa": "G",
-      "rating_kp": 7.9,
-      "rating_imdb": 6.4,
-      "time": "1:26",
-      "tagline": "Любовь и дружба разрушат злые чары",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/6667.jpg",
-      "description": "В те сказочные времена, когда на земле повсюду были заколдованные замки, таинственные лесные чащи, фантастические животные и злые колдуны, случилась эта история. История прекрасной принцессы, превращенной злым волшебником Ротбартом в лебедя, ее возлюбленного, принца Дерека, всех чудесных созданий, живших на берегу Лебединого озера, их любви, дружбы и борьбы со злом. ",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "DVDRip",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "DVDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Снова классика",
-      "original_name": "Classic Again",
-      "alternative_name": null,
-      "year": 2020,
-      "id_kp": 1381334,
-      "alternative_id_kp": null,
-      "id_imdb": "tt10075442",
-      "id_tmdb": 664511,
-      "id_world_art": null,
-      "token_movie": "aca9d5095dfd10a1588c17f22b809e",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-07-31 20:36:03",
-      "country": "Таиланд",
-      "category": "Фильм",
-      "genre": "драма, мелодрама",
-      "actors": "Тхитипум Течаапаикхун, Ranchrawee Uakoolwarawat, Suttirak Subvijtra, Tong Samitpong Sakulpongchai, Meiko Chonnikan Netjui, Amm Siraprapa Sookdamrong, Thitinan Khlangphet",
-      "directors": "Thatchaphong Suphasri",
-      "producers": "Чхве Ён-у, Мелвин Ан, Young Ki Cho, Гари Го, Jerry Ko, О Хе-рим, Ployphichcha Pipopvorachai, Thanakorn Puriwakin, Jetthamrong Sethi",
-      "premiere_ru": null,
-      "premiere": "2020-02-06",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 6.8,
-      "time": "2:03",
-      "tagline": null,
-      "poster": null,
-      "description": null,
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "WEB-DL",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Старший брат",
-      "original_name": "Moothon",
-      "alternative_name": null,
-      "year": 2019,
-      "id_kp": 1072462,
-      "alternative_id_kp": null,
-      "id_imdb": "tt6409416",
-      "id_tmdb": 458012,
-      "id_world_art": null,
-      "token_movie": "0ae690fb7db182974300d7a3f2ffb7",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-07-31 20:35:29",
-      "country": "Индия",
-      "category": "Фильм",
-      "genre": "боевик, драма, триллер",
-      "actors": "Нэвин Поули, Шашанк Арора, Sanjana Dipu, Собхита Дхулипала, Рошан Мэтью, Дилиш Потхан, Хариш Ханна, Мелисса Раджу Томас, Суджитх Санкар, Шохайбхан Ханифравтхер, Омкаар",
-      "directors": "Гитху Мохандас",
-      "producers": "Анураг Кашьяп, Алан МакАлекс, Эджей Рай, С. Винод Кумар, Ракеш Бхагвани, Нишитх Дадхич, Ранджит Гугле, Sadanand Kadam, Vinamrata Rai",
-      "premiere_ru": null,
-      "premiere": "2019-09-09",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 7.5,
-      "time": "1:50",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1072462.jpg",
-      "description": "Молодой человек разыскивает старшего брата.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "WEB-DL",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Том и Джерри: Робин Гуд и Мышь-Весельчак",
-      "original_name": "Tom and Jerry: Robin Hood and His Merry Mouse",
-      "alternative_name": null,
-      "year": 2012,
-      "id_kp": 713609,
-      "alternative_id_kp": null,
-      "id_imdb": "tt2423422",
-      "id_tmdb": 134623,
-      "id_world_art": null,
-      "token_movie": "70f56c5a3c0b9c3fc4e0292fa189f2",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-07-31 20:34:46",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "мультфильм, семейный",
-      "actors": "Джейми Бамбер, Чарльз Шонесси, Джон Майкл Хиггинс, Грэй Гриффин, Джон Ди Маджио, Джо Аляски, Фил ЛаМарр, Джонни Рис, Джесс Харнелл, Ричард Макгонагл, Клайв Ревилл",
-      "directors": "Спайк Брандт, Тони Червоне",
-      "producers": "Спайк Брандт, Тони Червоне, Алан Барнетт, Джадж Пламмер, Сэм Реджистер",
-      "premiere_ru": null,
-      "premiere": "2012-09-28",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 6.2,
-      "rating_imdb": 6.4,
-      "time": "0:55",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/713609.jpg",
-      "description": "Он грабил богатых, раздавал награбленное бедным, а теперь ему отчаянно нужна помощь Тома и Джерри! Знаменитый разбойник Робин Гуд попал в лапы злого шерифа Ноттингемского, а возлюбленной Робина, деве Мэриан, грозит серьезная опасность со стороны алчного принца Джона. Сумеют ли заклятые враги Том и Джерри на время забыть о своей вражде, чтобы спасти положение? В новом полнометражном мультипликационном фильме любимая многими средневековая сказка обрела новое прочтение. Динамичный сюжет, опасные трюки, залихватские песни, и, конечно, всеобщие любимцы, воитель Томас и маленький разбойник Джерри. Один за всех и все за одного в самой бесшабашной и удивительной истории из всех, что когда-либо происходили в Шервудском лесу.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "BDRip",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "BDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Скуби-Ду! Маска голубого сокола",
-      "original_name": "Scooby-Doo! Mask of the Blue Falcon",
-      "alternative_name": null,
-      "year": 2012,
-      "id_kp": 728230,
-      "alternative_id_kp": null,
-      "id_imdb": "tt2586070",
-      "id_tmdb": 151535,
-      "id_world_art": null,
-      "token_movie": "76201cdf4f148fe719c47ef068e207",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-07-31 20:33:56",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "боевик, комедия, мультфильм",
-      "actors": "Фрэнк Уэлкер, Минди Кон, Грэй Гриффин, Мэттью Лиллард, Дидрих Бадер, Ди Брэдли Бейкер, Джефф Беннетт, Грегг Бергер, Джон Ди Маджио, Ника Футтерман, Кевин Майкл Ричардсон, Минди Стерлинг, Тара Стронг, Фред Таташиор, Билли Уэст",
-      "directors": "Майкл Гогуэн",
-      "producers": "Джеймс Такер, Алан Барнетт, Сэм Реджистер, Джейсон Уайатт",
-      "premiere_ru": null,
-      "premiere": "2012-12-15",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 6.2,
-      "rating_imdb": 6.8,
-      "time": "1:18",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/728230.jpg",
-      "description": "Когда ужасный злодей мистер Хайд выпускает летучих мышей-монстров, воющих гончих и зловещую слизь на праздник, наступает время для Корпорации Тайны - разгадывать загадки и расставлять ловушки на монстров. \r\n\r\nНо наевшаяся пиццы, супер-заряженная команда Шегги и Скуби-Ду должны раскрыть в себе внутренних супергероев, чтобы остановить эту удушающую, омерзительную зеленую слизь!",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "BDRip",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "BDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Лесная братва",
-      "original_name": "Over the Hedge",
-      "alternative_name": null,
-      "year": 2006,
-      "id_kp": 6036,
-      "alternative_id_kp": null,
-      "id_imdb": "tt0327084",
-      "id_tmdb": 7518,
-      "id_world_art": null,
-      "token_movie": "990446e63d78b1e7f1e90aabb3402f",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-07-31 20:32:50",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "комедия, мультфильм, фэнтези",
-      "actors": "Брюс Уиллис, Стив Карелл, Гарри Шендлинг, Ванда Сайкс, Уильям Шетнер, Ник Нолти, Томас Хейден Чёрч, Эллисон Дженни, Юджин Леви, Кэтрин О’Хара, Аврил Лавин, Омид Джалили, Сами Киркпатрик, Шэйн Баумель, Мэдисон Девенпорт, Зои Рэндол, Джессика ДиЧикко, Дебра Уилсон, Шон Бишоп, Джинни Элиас",
-      "directors": "Тим Джонсон, Кэри Киркпатрик",
-      "producers": "Бонни Арнольд, Кристиан Кубш, Эллен Косс, Джим Кокс, Билл Дамашке",
-      "premiere_ru": "2006-05-26",
-      "premiere": "2006-04-22",
-      "age_restrictions": 12,
-      "rating_mpaa": "PG",
-      "rating_kp": 6.8,
-      "rating_imdb": 6.7,
-      "time": "1:23",
-      "tagline": "Ребята, надо поделиться!",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/6036.jpg",
-      "description": "Медведь Винсент, угрожая съесть енота Эр-Джея, даёт ему всего неделю на то, чтобы вернуть уничтоженные им съестные припасы. Во время поиска еды Эр-Джей находит коттеджный посёлок и уговаривает других животных отправиться с ним к людям. Но первая же вылазка за едой в посёлок заканчивается неприятностями.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "BDRip",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "BDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Милеа: звуки прошлого от Дилана",
-      "original_name": "Milea: Suara dari Dilan",
-      "alternative_name": null,
-      "year": 2020,
-      "id_kp": 1318521,
-      "alternative_id_kp": null,
-      "id_imdb": "tt11127878",
-      "id_tmdb": 642657,
-      "id_world_art": null,
-      "token_movie": "eb6b58424848b677877a14765315dd",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-07-31 20:31:41",
-      "country": "Индонезия",
-      "category": "Фильм",
-      "genre": "драма, мелодрама",
-      "actors": "Iqbaal Dhiafakhri Ramadhan, Vanesha Prescilla, Ira Wibowo, Bucek Depp, Хэппи Салма, Фархан, Yoriko Angeline, Debo Andryos, Zulfa Maharani, Густи Райхан, Omara N. Esteghlal, Гиулио Паренкуан, Andovi Da Lopez, Jerome Kurnia, Tike Priatnakusumah, Bima Azriel, Стефани Замора Хусен, Адистри Зара",
-      "directors": "Pidi Baiq, Fajar Bustomi",
-      "producers": "Ody Mulya Hidayat, Arif Rahman Hakim",
-      "premiere_ru": null,
-      "premiere": "2020-02-13",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 6.1,
-      "time": "1:42",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1318521.jpg",
-      "description": "Дилан состоит в банде байкеров, и его поведение в школе оставляет желать лучшего. Несмотря на то, что его девушка Милеа дорожит чувствами, она решает закончить отношения. Сначала для нее это было временной мерой, чтобы заставить Дилана одуматься. Но, внезапно для обоих, они не смогли помириться и вступили во взрослую жизнь порознь. Спустя какое-то время Дилан пишет книгу о своей любви, чтобы вновь пережить то, что чувствовал подростком.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "WEB-DL",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Скуби-Ду! Боязнь сцены",
-      "original_name": "Scooby-Doo! Stage Fright",
-      "alternative_name": null,
-      "year": 2013,
-      "id_kp": 777028,
-      "alternative_id_kp": null,
-      "id_imdb": "tt3025994",
-      "id_tmdb": 203696,
-      "id_world_art": null,
-      "token_movie": "df37e2f0638a60a7b187994514d0fd",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-07-31 20:30:48",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "мультфильм, ужасы, фэнтези",
-      "actors": "Изабелла Акрес, Трой Бэйкер, Эрик Бауза, Джефф Беннетт, Уэйн Брэди, Минди Кон, Вивика А. Фокс, Грэй Гриффин, Кейт Хиггинс, Мэттью Лиллард, Питер МакНикол, Кэнди Мило, Джон О’Харли, Кристина Пуччелли, Кевин Майкл Ричардсон, Пол Рагг, Тара Джейн, Тара Стронг, Клео Теллье, Фрэнк Уэлкер",
-      "directors": "Виктор Кук",
-      "producers": "Виктор Кук, Алан Барнетт, Сэм Реджистер, Джейсон Уайатт",
-      "premiere_ru": null,
-      "premiere": "2013-08-10",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 6.5,
-      "rating_imdb": 7.1,
-      "time": "1:15",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/777028.jpg",
-      "description": "Удивительные приключения очаровательного и смешного пса по кличке Скуби Ду вместе со своим хозяином Шеги и друзьями: Вельмой, Дафни и Фредди.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "BDRip",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "BDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Скуби-Ду! Под куполом цирка",
-      "original_name": "Big Top Scooby-Doo!",
-      "alternative_name": null,
-      "year": 2012,
-      "id_kp": 689167,
-      "alternative_id_kp": null,
-      "id_imdb": "tt2235542",
-      "id_tmdb": 119321,
-      "id_world_art": null,
-      "token_movie": "12f8d6085cd5d1807576cd22a5bfaf",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-07-31 20:30:10",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "комедия, мультфильм",
-      "actors": "Фрэнк Уэлкер, Минди Кон, Грэй Гриффин, Мэттью Лиллард, Джонни Рис, Морис ЛаМарш, Петер Стормаре, Джефф Данэм, Карлос Ферро, Джесс Харнелл, Джим Мескимен, Кэнди Мило, Хинден Уолш, Крэйг Фергюсон, Домитилья Д’амико",
-      "directors": "Бен Джонс",
-      "producers": "Спайк Брандт, Алан Барнетт, Тони Червоне, Эми МакКенна, Сэм Реджистер",
-      "premiere_ru": null,
-      "premiere": "2012-10-09",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 6.3,
-      "rating_imdb": 6.9,
-      "time": "1:16",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/689167.jpg",
-      "description": "Чтобы найти оборотня, который обкрадывает зрителей и пугает артистов, Бранкузи, работающий инспектором в цирке, нанимает бригаду для поимки злоумышленника. На нехорошего зверя охотятся также Скуби и Шегги, поступившие в цирк на должность конферансье.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "WEB-DL",
-      "translation": "Любительский одноголосый",
-      "translation_iframe": {
-        "103": {
-          "name": "Любительский одноголосый",
-          "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Супермен против Элиты",
-      "original_name": "Superman vs. The Elite",
-      "alternative_name": null,
-      "year": 2012,
-      "id_kp": 667310,
-      "alternative_id_kp": null,
-      "id_imdb": "tt2224455",
-      "id_tmdb": 103269,
-      "id_world_art": null,
-      "token_movie": "50f834ab41d8d07a24bc26a0f2990c",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-07-31 20:29:19",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "боевик, мультфильм, фантастика",
-      "actors": "Джордж Ньюберн, Поли Перретт, Робин Аткин Даунс, Ди Брэдли Бейкер, Оги Бэнкс, Катеро Колберт, Грэй Гриффин, Мелисса Дисней, Пол Айдинг, Трой Эванс, Дженнифер Хейл, Дэвид Кауфман, Эндрю Кисино, Памела Кош, Джефф ЛаПенси, Марселла Ленц-Поуп, Дэйв Митчелл, Сумали Монтано, Лорейн Ньюмен, Нолан Норт",
-      "directors": "Майкл Чанг",
-      "producers": "Алан Барнетт, Майкл Макасеро, Сэм Реджистер, Кодзи Такэути, Osamu Taniguchi, Брюс В. Тимм, Haruhisa Yamaji, Бенджамин Мельникер, Майкл Э. Услан",
-      "premiere_ru": null,
-      "premiere": "2012-06-12",
-      "age_restrictions": 12,
-      "rating_mpaa": "PG-13",
-      "rating_kp": 6.8,
-      "rating_imdb": 7.1,
-      "time": "1:14",
-      "tagline": "Мир – спасен. Человечество – потеряно",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/667310.jpg",
-      "description": "Разразилась новая катастрофа, и Супермен опять устремляется в бой. На этот раз помочь ему решила команда супергероев, называющих себя «Элита». Вооруженный отряд из четырех могучих существ возглавляет дерзкий и расчетливый Манчестер Блэк. Однако у новоявленных любимцев публики довольно жестокие методы борьбы со злом, так что на фоне «Элиты» Супермен выглядит одиноким и морально устаревшим.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "BDRip",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "BDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Супермен: Непобежденный",
-      "original_name": "Superman: Unbound",
-      "alternative_name": null,
-      "year": 2013,
-      "id_kp": 730474,
-      "alternative_id_kp": null,
-      "id_imdb": "tt2617456",
-      "id_tmdb": 166076,
-      "id_world_art": null,
-      "token_movie": "59292e12fd07b1ca87bc43621f3ede",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-07-31 20:28:42",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "боевик, мультфильм, приключения",
-      "actors": "Мэтт Бомер, Стана Катик, Джон Ноубл, Молли К. Куинн, Дидрих Бадер, Джейсон Бех, Фрэнсис Конрой, Йен Джеймс Корлетт, Мелисса Дисней, Александр Гоулд, Сирена Ирвин, Уилл Юн Ли, Андреа Романо, Стивен Рут, Уэйд Уильямс, Майкл-Леон Вули",
-      "directors": "Джеймс Такер",
-      "producers": "Алан Барнетт, Тошиюки Хирума, Ok Kil Lee, Майкл Макасеро, Сэм Реджистер, Джеймс Такер",
-      "premiere_ru": null,
-      "premiere": "2013-04-23",
-      "age_restrictions": null,
-      "rating_mpaa": "PG-13",
-      "rating_kp": 6.4,
-      "rating_imdb": 6.6,
-      "time": "1:15",
-      "tagline": "The machine is coming",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/730474.jpg",
-      "description": "К городу приближается несокрушимый андроид. К Земле приближается огненный шар. Бесстрашная красавица-журналистка приближается к своей цели - сделать об этом репортаж. \r\n\r\nЭто самый обычный день для Человека из стали, только на этот раз плечом к плечу с ним сражается его двоюродная сестра, Супердевушка. Приключения начинаются, когда Супермен узнаёт о том, что силы безжалостного Брэйниака смогли уменьшить и захватить Кандор, столицу планеты Криптон. \r\n\r\nСупермен намерен во что бы то ни стало освободить порабощенную метрополию и защитить родную планету от растущего могущества Брэйниака.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "BDRip",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "BDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Каспер: Рождество призраков",
-      "original_name": "Casper's Haunted Christmas",
-      "alternative_name": null,
-      "year": 2000,
-      "id_kp": 79574,
-      "alternative_id_kp": null,
-      "id_imdb": "tt0284946",
-      "id_tmdb": 5833,
-      "id_world_art": null,
-      "token_movie": "dc2ec1dbcee0d6ed06851601ff1f00",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-07-31 20:27:42",
+      "date": "2020-08-03 22:29:52",
       "country": "Канада, США",
       "category": "Фильм",
-      "genre": "мультфильм, ужасы, фэнтези",
-      "actors": "Брендон Райан Баррет, Кэтлин Барр, Йен Джеймс Корлетт, Дэвид Кэй, Грэм Кингстон, Терри Классен, Скотт МакНил, Теган Мосс, Колин Мёрдок, Табита Сен-Жермен, Ли Токар, Сэм Винсент",
-      "directors": "Оуэн Хёрли",
-      "producers": "Байрон Вонс, Роджер Бёрладж, Рик Мишел, Марк Ралстон, Ким Дент-Вайлдер",
+      "genre": "боевик, фантастика, фэнтези",
+      "actors": "Бен Браудер, Аманда Таппинг, Кристофер Джадж, Майкл Шэнкс, Бо Бриджес, Клаудия Блэк, Карри Грэм, Морена Баккарин, Тим Гини, Джулиан Сэндс, Сара Стрэйндж, Майкл Бич, Гари Джонс, Мартин Кристофер, Крис Готье, Эрик Брекер, Мэттью Уолкер, Алисен Даун, Габриель Роз, Фабрис Гроувер",
+      "directors": "Роберт С. Купер",
+      "producers": "Роберт С. Купер, Джон Дж. Леник, Брэд Райт, Н. Джон Смит, Эллисон Волк",
       "premiere_ru": null,
-      "premiere": "2000-10-31",
-      "age_restrictions": null,
-      "rating_mpaa": "G",
-      "rating_kp": 5.7,
-      "rating_imdb": 4.6,
-      "time": "1:24",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/79574.jpg",
-      "description": "Повсюду слышен волшебный звон колокольчиков и веселое пение детей. У дружелюбного привидения Каспера отличное настроение! Но предводитель всех призраков Кибош приказывает ему напугать хотя бы одного человека перед Рождеством.\n\rВ противном случае Каспер и трое его дядюшек-призраков - Длинный, Толстяк и Вонючка - будут строго наказаны. Добрый Каспер безуспешно пытается справиться с данным ему поручением. Как нашим героям избежать наказания и никому не испортить праздничного настроения?..",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "DVDRip",
-      "translation": "Многоголосый закадровый",
-      "translation_iframe": {
-        "72": {
-          "name": "Многоголосый закадровый",
-          "quality": "DVDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "ЛЕГО Фильм",
-      "original_name": "The Lego Movie",
-      "alternative_name": null,
-      "year": 2014,
-      "id_kp": 471644,
-      "alternative_id_kp": null,
-      "id_imdb": "tt1490017",
-      "id_tmdb": 137106,
-      "id_world_art": null,
-      "token_movie": "1b939ac41f4ec292cceb0f325a76c0",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-07-31 20:25:31",
-      "country": "Австралия, Дания, США",
-      "category": "Фильм",
-      "genre": "комедия, мультфильм, фэнтези",
-      "actors": "Крис Пратт, Уилл Феррелл, Элизабет Бэнкс, Уилл Арнетт, Морган Фриман, Лиам Нисон, Крэйг Берри, Элисон Бри, Дэвид Берроуз, Энтони Дэниелс, Чарли Дэй, Аманда Фаринос, Кит Фергюсон, Уилл Форте, Дэйв Франко, Тодд Хансен, Джона Хилл, Джейк Джонсон, Кигэн-Майкл Ки, Келли Лэфферти",
-      "directors": "Фил Лорд, Кристофер Миллер",
-      "producers": "Рой Ли, Дэн Лин, Эллисон Эббейт, Уилл Аллегра, Мэттью Эштон, Брюс Берман, Джон Бертон, Кэтлин Флеминг",
-      "premiere_ru": "2014-02-27",
-      "premiere": "2014-02-01",
-      "age_restrictions": 6,
-      "rating_mpaa": "PG",
-      "rating_kp": 7.2,
-      "rating_imdb": 7.7,
-      "time": "1:40",
-      "tagline": "Кто был никем, тот всем ещё покажет",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/471644.jpg",
-      "description": "В пластмассовом мире все заняты своими пластмассовыми делами, всё идёт по плану, и для обычного лего-строителя Эммета нет места идеальней - для него в этом мире всё прекрасно. Но однажды ему придётся присоединиться к походу против злого лего-диктатора, планирующего склеить вместе всю лего-вселенную.",
+      "premiere": "2008-03-11",
+      "age_restrictions": 12,
+      "rating_mpaa": null,
+      "rating_kp": 7.4,
+      "rating_imdb": 7.4,
+      "time": "1:37",
+      "tagline": "The lines have been drawn. The battle has been waged. Only one thing can save us...",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/307943.jpg",
+      "description": "Команда SG-1 начинает поиски артефакта, Ковчега истины, способного нанести поражение армии противника. Вскоре герои узнают о существовании суперворот, сквозь которые Орайи хотят отправить на Землю свою армаду для ее полного уничтожения. Артефакт находится в родной галактике Орайев, и SG-1 отправляется в путь, чтобы предвосхитить атаку. Но у комитета по ассигнованиям есть собственные планы, и SG-1 оказываются в далекой галактике меж двух могущественных врагов.",
       "iframe": "",
       "iframe_trailer": null,
       "quality": "BDRip",
-      "translation": "Дублированный",
+      "translation": "Профессиональный многоголосый",
       "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
+        "87": {
+          "name": "Профессиональный многоголосый",
           "quality": "BDRip",
           "iframe": ""
         }
       }
     },
     {
-      "name": "До Китая",
-      "original_name": "De Acá a la China",
+      "name": "Скрат: Потерянный орех",
+      "original_name": "Gone Nutty",
       "alternative_name": null,
-      "year": 2019,
-      "id_kp": 1382458,
+      "year": 2002,
+      "id_kp": 229686,
       "alternative_id_kp": null,
-      "id_imdb": "tt12303322",
-      "id_tmdb": 539049,
+      "id_imdb": "tt0342965",
+      "id_tmdb": 17963,
       "id_world_art": null,
-      "token_movie": "89dca0f0020be27438c66963e4613b",
+      "token_movie": "4ca983a5341c37a8fc5e7fcbc8fe5f",
       "last_season": null,
       "last_episode": null,
-      "date": "2020-07-31 20:24:32",
-      "country": "Аргентина",
+      "date": "2020-08-03 22:26:52",
+      "country": "США",
       "category": "Фильм",
-      "genre": "драма, комедия",
-      "actors": "Eugenio Donatello, Wu Fangbing, Zhouzhuo Heng, Federico Marcello, He Ning, Michael Ren, Valeria Ruiz, Hu Xiao Song, Stevens Vaughn, Pablo Zapata",
-      "directors": "Federico Marcello",
-      "producers": "Ramiro Lago, Víctor Torres, Pablo Zapata",
+      "genre": "комедия, короткометражка, мультфильм",
+      "actors": "Крис Уэдж",
+      "directors": "Карлос Салдана",
+      "producers": "Джон С. Донкин, Крис Кувата, Дианна Пиззути, Leslie Schor-Bresnahan, Irka B. Seng-Bloom, Майкл Дж. Треверс, Кристофер Меледандри, Крис Уэдж",
       "premiere_ru": null,
-      "premiere": "2019-03-03",
+      "premiere": "2002-11-26",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 7.7,
+      "rating_imdb": 7.4,
+      "time": "0:05",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/229686.jpg",
+      "description": "Знаменитая белка из «Ледникового периода» гоняется за орехами в процессе полета с обрыва до земли.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "BDRip",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Время покурить: Мэри и Джейн",
+      "original_name": "The 420 Movie: Mary &amp; Jane",
+      "alternative_name": null,
+      "year": 2020,
+      "id_kp": 803007,
+      "alternative_id_kp": null,
+      "id_imdb": "tt3234012",
+      "id_tmdb": 681749,
+      "id_world_art": null,
+      "token_movie": "ed828d351fe20705d0f2862c1cba52",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 22:26:05",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "комедия",
+      "actors": "Верн Тройер, Криста Аллен, Келли Джакл, Линдси МакКеон, Кимми Робертсон, Дэниэл Болдуин, Коуди Кэш, Ариес Спирс, Нико Пепадж, Трэвис Хаммер, Джой Джейкобсон, Джон Бэйн, Хоук Д’Онофрио, Barbara Ungerhofer, Рифф Рафф, Стэйси Дейнджер, Майкл Юрчак, Джейсон Бог, Николас Азарян, Уильям Стюртевант",
+      "directors": "Роберт А. Джонсон",
+      "producers": "Роберт А. Джонсон, Darrell Thompson, Enrique Cavazos",
+      "premiere_ru": null,
+      "premiere": null,
       "age_restrictions": null,
       "rating_mpaa": null,
       "rating_kp": null,
-      "rating_imdb": 6.8,
-      "time": "1:32",
+      "rating_imdb": null,
+      "time": null,
       "tagline": null,
       "poster": null,
       "description": null,
@@ -589,35 +127,35 @@
       }
     },
     {
-      "name": "Время любить",
-      "original_name": "ConneXion intime",
+      "name": "Флинтстоуны в Рок-Вегасе",
+      "original_name": "The Flintstones in Viva Rock Vegas",
       "alternative_name": null,
-      "year": 2019,
-      "id_kp": 1237122,
+      "year": 2000,
+      "id_kp": 3605,
       "alternative_id_kp": null,
-      "id_imdb": "tt9625420",
-      "id_tmdb": 635555,
+      "id_imdb": "tt0158622",
+      "id_tmdb": 889,
       "id_world_art": null,
-      "token_movie": "6dc9f51a0818f60b5ac3a0a7ec7007",
+      "token_movie": "ad786e0ff3fd96f6115c7817249d01",
       "last_season": null,
       "last_episode": null,
-      "date": "2020-07-31 20:23:44",
-      "country": "Франция",
+      "date": "2020-08-03 22:25:17",
+      "country": "США",
       "category": "Фильм",
-      "genre": "драма",
-      "actors": "Луна Карпио, Мэрилин Лима, Жюль Уплен, Армель Дойч, Мариус Коллуччи, Жюльен Пестель, Элоди Наварр, Mahia Zrouki, Бруни Макая, Sebastian Judea, Bilel Chegrani, Julien Ledet, Béatrice Facquer, Camille de Leu, Anthony Audoux, Стефан Ридо",
-      "directors": "Рено Бертран",
-      "producers": "Дэльфин Клодель, Фабьен Серван-Шрейбер",
+      "genre": "комедия, мелодрама, фантастика",
+      "actors": "Марк Эдди, Стивен Болдуин, Кристен Джонстон, Джейн Краковски, Джоан Коллинз, Томас Гибсон, Алан Камминг, Харви Кормен, Алекс Менесес, Джон Тейлор, Тони Лонго, Дэнни Вудберн, Тейлор Негрон, Джек МакГи, Дэвид Жан Томас, Брайан Кофлин, Ричард Керрон, Гари Епп, Дженнифер Симар, Хезер Симпсон",
+      "directors": "Брайан Левант",
+      "producers": "Брюс Коэн, Джозеф Барбера, Барт Браун, Уильям Ханна, Дэннис Э. Джонс",
       "premiere_ru": null,
-      "premiere": "2019-09-12",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 6,
-      "time": "1:36",
-      "tagline": null,
-      "poster": null,
-      "description": null,
+      "premiere": "2000-04-15",
+      "age_restrictions": 6,
+      "rating_mpaa": "PG",
+      "rating_kp": 4.2,
+      "rating_imdb": 3.6,
+      "time": "1:30",
+      "tagline": "Get ready to rock!",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/3605.jpg",
+      "description": "Фред Флинстоун, чудный динозаврик Дино и забавный зеленый инопланетянин по имени Газу решают отправиться в столицу развлечений - Рок-Вегас. Старина Фред и его закадычный приятель Барни Рабл познакомились с очаровательными девушками и собираются «оторваться» в этот уикенд «на полную катушку»! ",
       "iframe": "",
       "iframe_trailer": null,
       "quality": "HDTV",
@@ -631,19 +169,691 @@
       }
     },
     {
-      "name": "Жизнь с коронавирусом: Ответы на вопросы",
-      "original_name": "Deconfinement, vivre avec le virus: posez toutes vos questions!",
+      "name": "Ледниковый Период: Погоня за яйцами",
+      "original_name": "Ice Age: The Great Egg-Scapade",
       "alternative_name": null,
-      "year": 2020,
-      "id_kp": null,
+      "year": 2016,
+      "id_kp": 965633,
       "alternative_id_kp": null,
-      "id_imdb": null,
-      "id_tmdb": null,
+      "id_imdb": "tt5480340",
+      "id_tmdb": 387893,
       "id_world_art": null,
-      "token_movie": "1dee49b282dadd13a7923eb1f2d6a5",
+      "token_movie": "ab74f609b5217e4cfce3948c3cc4c7",
       "last_season": null,
       "last_episode": null,
-      "date": "2020-07-31 20:22:52",
+      "date": "2020-08-03 22:23:22",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "комедия, короткометражка, мультфильм",
+      "actors": "Рэй Романо, Джон Легуизамо, Дэнис Лири, Тараджи П. Хенсон, Куин Латифа, Габриэль Иглесиас, Венди Уильямс, Лили Эстефан, Блейк Андерсон, Шонн Уильям Скотт, Джош Пек, Сет Грин, Крис Уэдж, Дэвид Кауджилл, Дженнифер Элрод, Правин Надараджу, Кеке Палмер, Райан Типл, Daisy Tuckfield",
+      "directors": "Paul Stodolny, Рикардо Кертис, Стив Мартино, Майк Тёрмайер",
+      "producers": "Джон С. Донкин, Matthew Berkowitz, Лори Форте, Katie Hasleham, Уэс Луи, Sean McAlear",
+      "premiere_ru": null,
+      "premiere": "2016-03-20",
+      "age_restrictions": 6,
+      "rating_mpaa": null,
+      "rating_kp": 5.9,
+      "rating_imdb": 5.9,
+      "time": "0:25",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/965633.jpg",
+      "description": "Новый бизнес Сида по высиживанию яиц успешно развивается, но когда подлый кролик–пират Сквинт крадет яйца, Мэнни, Диего и остальные отправляются в бесстрашную спасательную операцию, которой суждено стать первой в истории погоней за яйцами.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Скрат и континентальный излом",
+      "original_name": "Scrat's Continental Crack-Up",
+      "alternative_name": null,
+      "year": 2010,
+      "id_kp": 574108,
+      "alternative_id_kp": null,
+      "id_imdb": "tt1791596",
+      "id_tmdb": 55692,
+      "id_world_art": null,
+      "token_movie": "855fb9c34464066c799e5233d2e84c",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 22:22:48",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "короткометражка, мультфильм",
+      "actors": "Крис Уэдж, Саймон Пегг, Джейсон Фриккионе",
+      "directors": "Стив Мартино, Майк Тёрмайер",
+      "producers": "Лори Форте, Крис Уэдж",
+      "premiere_ru": null,
+      "premiere": "2010-12-25",
+      "age_restrictions": null,
+      "rating_mpaa": "G",
+      "rating_kp": 7.5,
+      "rating_imdb": 7.6,
+      "time": "0:03",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/574108.jpg",
+      "description": "Очередное приключение доисторического крысобела, в результате которого произошло образование континентов на Земле.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "BDRip",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Дикая река",
+      "original_name": "The River Wild",
+      "alternative_name": null,
+      "year": 1994,
+      "id_kp": 1887,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0110997",
+      "id_tmdb": 8987,
+      "id_world_art": null,
+      "token_movie": "32ca8ea696b0df6c3c609f43e18de3",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 22:22:00",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "криминал, приключения, триллер",
+      "actors": "Мэрил Стрип, Кевин Бейкон, Дэвид Стрэтэйрн, Джон Си Райли, Джозеф Маццелло, Стефани Сойер, Бенджамин Брэтт, Уильям Лаккинг, Элизабет Хоффман, Виктор Гэллоуэй, Дайан Делано, Томас Ф. Даффи, Пол Кантелон, Гленн Моршауэр",
+      "directors": "Кёртис Хэнсон",
+      "producers": "Дэвид Фостер, Рэймонд Хартвик, Илона Херцберг, Денис О’Нил, Лоуренс Турман",
+      "premiere_ru": null,
+      "premiere": "1994-09-30",
+      "age_restrictions": 12,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 7.3,
+      "rating_imdb": 6.4,
+      "time": "1:51",
+      "tagline": "Отпуск закончился",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1887.jpg",
+      "description": "Нельзя сказать, что Гейл счастлива в браке: они с мужем на грани развода. Но однажды она принимает судьбоносное для семьи решение: отправиться в путешествие по бурной реке, знакомой ей с молодых лет. Семейные дрязги отходят на второй план, когда куда большую опасность, чем дикая вода, начинают представлять люди, оказавшиеся рядом.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "BDRip",
+      "translation": "Профессиональный многоголосый",
+      "translation_iframe": {
+        "87": {
+          "name": "Профессиональный многоголосый",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Стена между нами",
+      "original_name": "Zwischen uns die Mauer",
+      "alternative_name": null,
+      "year": 2019,
+      "id_kp": 1292715,
+      "alternative_id_kp": null,
+      "id_imdb": "tt10814118",
+      "id_tmdb": 628587,
+      "id_world_art": null,
+      "token_movie": "e8b12f968d866464f53552fedc84a1",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 22:21:11",
+      "country": "Германия",
+      "category": "Фильм",
+      "genre": "драма, мелодрама",
+      "actors": "Leon Lukas Blaschke, Tim Bülow, Till Demuth, Tillmann Depping, Lara Feith, Lea Freund, Timon Furchert, Бьёрн Хэррас, Andruscha Hilscher, Luise Hipp, Фриц Карл, Мартин Кифер, Maurizio Micksch, Lasse Möbus, Энн Мюллер, Кристоф Мюллер, Linn Müller, Джулия Прочноу, Hardy Punzel, Marco Schiedt",
+      "directors": "Норберт Лехнер",
+      "producers": "Дитер Хоррес",
+      "premiere_ru": null,
+      "premiere": "2019-09-04",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 7,
+      "time": "1:50",
+      "tagline": null,
+      "poster": null,
+      "description": null,
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "WEB-DL",
+      "translation": "Профессиональный многоголосый",
+      "translation_iframe": {
+        "87": {
+          "name": "Профессиональный многоголосый",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Ван Хельсинг: Лондонское задание",
+      "original_name": "Van Helsing: The London Assignment",
+      "alternative_name": null,
+      "year": 2004,
+      "id_kp": 81004,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0406310",
+      "id_tmdb": 7092,
+      "id_world_art": null,
+      "token_movie": "3e650677b335abac3a0340a6a33697",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 22:20:06",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "короткометражка, мультфильм, ужасы",
+      "actors": "Хью Джекман, Робби Колтрейн, Дэвид Уэнэм, Грэй Гриффин, Дуайт Шульц, Джон Ди Маджио, Скотт Мосенсон, Алан Армстронг, Роджер Л. Джексон, Джулия Флетчер, Тресс МакНилл, Тара Стронг, Джеймс Арнольд Тейлор",
+      "directors": "Шэрон Бриджман",
+      "producers": "Джон Кафка, Боб Дюксе, Стивен Соммерс",
+      "premiere_ru": null,
+      "premiere": "2004-04-17",
+      "age_restrictions": 12,
+      "rating_mpaa": null,
+      "rating_kp": 6.7,
+      "rating_imdb": 6.1,
+      "time": "0:30",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/81004.jpg",
+      "description": "1889 год, Лондон. Знаменитый охотник за нечистой силой Ван Хельсинг получает задание поймать зловещего демона - мистера Хайда, расправляющегося на ночных улицах с молодыми женщинами.\n\rВан Хельсинг сталкивается с альтер-эго жуткого монстра - доктором Джекиллом, планы которого, могут нанести непоправимый удар по Британской Империи.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "DVDRip",
+      "translation": "Профессиональный многоголосый",
+      "translation_iframe": {
+        "87": {
+          "name": "Профессиональный многоголосый",
+          "quality": "DVDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Скрат: Не время для орехов",
+      "original_name": "No Time for Nuts",
+      "alternative_name": null,
+      "year": 2006,
+      "id_kp": 272690,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0902999",
+      "id_tmdb": 46247,
+      "id_world_art": null,
+      "token_movie": "9f42bf489d2c8f7fe5274e92fb063c",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 22:19:16",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "короткометражка, мультфильм, фантастика",
+      "actors": "Дэвид Кромметт, Дэрин Де Пол, Дэнн Финк, Ванесса Лемонидес, Кристин Ривз, Крис Уэдж",
+      "directors": "Крис Рено, Майк Тёрмайер",
+      "producers": "Джон С. Донкин, Лори Форте, Кристофер Меледандри, Карлос Салдана, Крис Уэдж",
+      "premiere_ru": null,
+      "premiere": "2006-09-14",
+      "age_restrictions": null,
+      "rating_mpaa": "G",
+      "rating_kp": 7.9,
+      "rating_imdb": 7.6,
+      "time": "0:07",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/272690.jpg",
+      "description": "Полюбившаяся всем саблезубая белка из «Ледникового периода» в небольшом мульте, в котором она находит машину времени и...",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "BDRip",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Ледниковый период: Гигантское Рождество",
+      "original_name": "Ice Age: A Mammoth Christmas",
+      "alternative_name": null,
+      "year": 2011,
+      "id_kp": 647578,
+      "alternative_id_kp": null,
+      "id_imdb": "tt2100546",
+      "id_tmdb": 79218,
+      "id_world_art": null,
+      "token_movie": "c804ff38aaafd10760db95b01f7f07",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 22:18:28",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "комедия, короткометражка, мультфильм",
+      "actors": "Рэй Романо, Джон Легуизамо, Дэнис Лири, Куин Латифа, Шонн Уильям Скотт, Джош Пек, Сиэра Браво, ТиДжей Миллер, Билли Гарделл, Джуда Фридландер, Карен Дишер, Синди Слэттери, Крис Уэдж, Изабелла Акрес, Мэгги Бейрд, Дэниэл Буко, Сет Роберт Даски, Джонни Гидкомб, Даниэль Хартнет, Тейулер Эндер",
+      "directors": "Карен Дишер",
+      "producers": "Лори Форте, Joanna D. Ferguson",
+      "premiere_ru": null,
+      "premiere": "2011-11-24",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 6.9,
+      "rating_imdb": 6.5,
+      "time": "0:25",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/647578.jpg",
+      "description": "Когда Сид случайно разрушает рождественский камень, Мэнни говорит ему, что Сид попал в черный список Санты, и что ленивцу придется лететь на северный полюс просить извинения у Санты. На северном полюсе Сид хотел все сделать как лучше, но только усугубил ситуацию . Теперь дело за Мэнни и компанией, только они объединившись сохранят Рождество для всего мира!",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Еда",
+      "original_name": "Eat",
+      "alternative_name": null,
+      "year": 1964,
+      "id_kp": 203212,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0208926",
+      "id_tmdb": 151730,
+      "id_world_art": null,
+      "token_movie": "2d9d7f767bcb16f5f3bffd9a60d8e2",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 20:56:51",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "драма",
+      "actors": "Роберт Индиана",
+      "directors": "Энди Уорхол",
+      "producers": "",
+      "premiere_ru": null,
+      "premiere": null,
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 3.9,
+      "rating_imdb": 3.6,
+      "time": "0:45",
+      "tagline": null,
+      "poster": null,
+      "description": "Фильм-портрет художника Роберта Индианы. Процесс медленного поедания гриба Индианой обретает некую тайну благодаря скорости немой проекции, а также решению Уорхола смонтировать части в неправильном порядке.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "DVDRip",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "DVDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Диван",
+      "original_name": "Couch",
+      "alternative_name": null,
+      "year": 1964,
+      "id_kp": 198246,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0215674",
+      "id_tmdb": 130332,
+      "id_world_art": null,
+      "token_movie": "73ac5b5d53a02e2aba3e01a4b07e89",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 20:56:26",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "драма",
+      "actors": "Bingingham Birdie, Руфус Коллинз, Грегори Корсо, Аллен Гинсберг, Kate Heliczer, Pierre Helzicer, Джейн Хольцер, Джек Керуак, Марк Ланкастер, Joseph LeSeuer, Наоми Ливайн, Герард Маланга, Тейлор Мид, Билли Нейм, Айви Николсон, Ондин, Питер Орловский, Джон Палмер, Эми Тобин, Глория Вуд",
+      "directors": "Энди Уорхол",
+      "producers": "Энди Уорхол",
+      "premiere_ru": null,
+      "premiere": null,
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 2.5,
+      "rating_imdb": 5.7,
+      "time": "0:54",
+      "tagline": null,
+      "poster": null,
+      "description": null,
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "DVDRip",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "DVDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Банан Марио",
+      "original_name": "Mario Banana I",
+      "alternative_name": null,
+      "year": 1964,
+      "id_kp": 221433,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0390237",
+      "id_tmdb": 163117,
+      "id_world_art": null,
+      "token_movie": "42639ef24fceebd9955685880a5a08",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 20:55:54",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "короткометражка",
+      "actors": "Марио Монтец",
+      "directors": "Энди Уорхол",
+      "producers": "Энди Уорхол",
+      "premiere_ru": null,
+      "premiere": "1970-01-31",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 2.8,
+      "rating_imdb": 4.3,
+      "time": "0:04",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/221433.jpg",
+      "description": null,
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "DVDRip",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "DVDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Минет",
+      "original_name": "Blow Job",
+      "alternative_name": null,
+      "year": 1964,
+      "id_kp": 213600,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0130515",
+      "id_tmdb": 44503,
+      "id_world_art": null,
+      "token_movie": "bd8498d2bd7f761dd7cfd6d3468130",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 20:55:19",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "документальный, короткометражка",
+      "actors": "ДеВерен Букуолтер, Уиллард Маас",
+      "directors": "Энди Уорхол",
+      "producers": "Энди Уорхол",
+      "premiere_ru": null,
+      "premiere": null,
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 4.7,
+      "rating_imdb": 4.7,
+      "time": "0:35",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/213600.jpg",
+      "description": "Фильм показывает лицо человека, который получает сексуальное удовольствие.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "DVDRip",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "DVDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Эмпайр",
+      "original_name": "Empire",
+      "alternative_name": null,
+      "year": 1964,
+      "id_kp": 221430,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0196530",
+      "id_tmdb": 108419,
+      "id_world_art": null,
+      "token_movie": "c62eedb491c552ef1df5fb5b6a714f",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 20:54:50",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "документальный",
+      "actors": "Йонас Мекас, Энди Уорхол",
+      "directors": "Энди Уорхол",
+      "producers": "Энди Уорхол",
+      "premiere_ru": null,
+      "premiere": "1965-03-06",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 3.7,
+      "rating_imdb": 3.7,
+      "time": "8:05",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/221430.jpg",
+      "description": "Неподвижно поставленная камера, установленная в соседнем небоскребе, на протяжении всего фильма снимает Эмпайр Стэйт Билдинг.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "DVDRip",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "DVDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Сон",
+      "original_name": "Sleep",
+      "alternative_name": null,
+      "year": 1964,
+      "id_kp": 203192,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0187513",
+      "id_tmdb": 256222,
+      "id_world_art": null,
+      "token_movie": "8750bb2768a4fe3f9c7917b5fb45c4",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 20:54:23",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "документальный",
+      "actors": "Джон Джорно",
+      "directors": "Энди Уорхол",
+      "producers": "",
+      "premiere_ru": null,
+      "premiere": "1964-01-17",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 2.9,
+      "rating_imdb": 3.5,
+      "time": "5:21",
+      "tagline": null,
+      "poster": null,
+      "description": "В течение 5 часов и 20 минут зрителю показан спящий Джон Джорно, в то время любовник режиссера Энди Уорхола.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "DVDRip",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "DVDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Поцелуй",
+      "original_name": "Kiss",
+      "alternative_name": null,
+      "year": 1963,
+      "id_kp": 209910,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0213035",
+      "id_tmdb": 153410,
+      "id_world_art": null,
+      "token_movie": "a1ed2125951a699f99039dd6aa70c5",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 20:53:33",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "документальный, драма",
+      "actors": "Руфус Коллинз, Джонни Додд, Fred Herko, Джейн Хольцер, Роберт Индиана, Марк Ланкастер, Наоми Ливайн, Герард Маланга, Andrew Meyer, Джон Палмер, Pierre Restany, Эд Сандерс, Харольд Чилд",
+      "directors": "Энди Уорхол",
+      "producers": "",
+      "premiere_ru": null,
+      "premiere": "1970-01-31",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 5.2,
+      "rating_imdb": 5,
+      "time": "0:50",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/209910.jpg",
+      "description": "Эта работа представляет собой компиляцию небольших отрывков о поцелуях.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "DVDRip",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "DVDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Звездный путь: Возмездие",
+      "original_name": "Star Trek: Nemesis",
+      "alternative_name": null,
+      "year": 2002,
+      "id_kp": 321,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0253754",
+      "id_tmdb": 201,
+      "id_world_art": null,
+      "token_movie": "e5012a30bf4325ec8f633592caffb0",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 19:43:35",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "боевик, триллер, фантастика",
+      "actors": "Патрик Стюарт, Джонатан Фрейкс, Брент Спайнер, ЛеВар Бёртон, Майкл Дорн, Марина Сиртис, Гейтс МакФэдден, Том Харди, Рон Перлман, Шэннон Кокрен, Дина Мейер, Джуд Чикколелла, Алан Дэйл, Джон Берг, Майкл Оуэн, Кейт Малгрю, Робертсон Дин, Дэвид Ральф, Дж. Патрик МакКормак, Уил Уитон",
+      "directors": "Стюарт Бейрд",
+      "producers": "Рик Берман, Марти Хорнштейн, Питер Лоритсон, Джин Родденберри",
+      "premiere_ru": null,
+      "premiere": "2002-12-09",
+      "age_restrictions": 12,
+      "rating_mpaa": "PG-13",
+      "rating_kp": 6.7,
+      "rating_imdb": 6.4,
+      "time": "1:56",
+      "tagline": "Последнее путешествие поколения начинается...",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/321.jpg",
+      "description": "После свадьбы командира Уильяма Райкера и советника Дианы Трой экипаж корабля «Энтерпрайз» обнаруживает позитронный сигнал на одной из планет около нейтральной зоны, где они находят B-4, менее совершенный чем Дейта прототип андроида, созданного доктором Сунгом.\n\rЭта загадка остается неразгаданной, так как в то же время адмирал Джейнвей приказывает «Энтерпрайзу» отправиться к Ромулу, где сенат был свергнут в результате государственного переворота Шинзоном и его последователями.\n\rПо прибытии на Ромул «Энтерпрайз» обнаруживает не только самый мощный из всех встреченных ими кораблей, но и страшную тайну, касающуюся нового лидера Ромуланской империи, который планирует использовать смертельное оружие для уничтожения всего живого на главной планете Федерации - Земле.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "BDRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "BDRip",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Моя жизнь",
+      "original_name": "Mi vida",
+      "alternative_name": null,
+      "year": 2019,
+      "id_kp": 1124283,
+      "alternative_id_kp": null,
+      "id_imdb": "tt8221738",
+      "id_tmdb": 637660,
+      "id_world_art": null,
+      "token_movie": "ffc2594d0b2a9a86c84736f6a35b2a",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 18:06:20",
+      "country": "Нидерланды",
+      "category": "Фильм",
+      "genre": "драма, комедия",
+      "actors": "Эльвира Мингес, Анник Фейфер, Eduardo Rosa, Кармина Барриос, Diewertje Dir, Loïc Bellemans, Лоес Лука, Ферми Рейксач, Мария Кабрера, Mark Kraan, Mano Bouzamour, Lucas van der Rhee, Кармен Калле, Sebastian Garrido, David Ten Napel",
+      "directors": "Норберт тер Холл",
+      "producers": "Maaike Benschop, Петра Гудингс, Роберт Албердингк Тийм, Альваро Алонсо, Мариджн Де Фриз, Норберт тер Холл, Ed Keij, Maik Rözer, Ан ван дер Верфф",
+      "premiere_ru": null,
+      "premiere": "2019-11-21",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 6.8,
+      "time": "1:28",
+      "tagline": null,
+      "poster": null,
+      "description": null,
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "WEB-DL",
+      "translation": "Профессиональный многоголосый",
+      "translation_iframe": {
+        "87": {
+          "name": "Профессиональный многоголосый",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Моле-де-олья: оригинальный рецепт",
+      "original_name": "Mole de Olla, receta Original",
+      "alternative_name": null,
+      "year": 2019,
+      "id_kp": null,
+      "alternative_id_kp": null,
+      "id_imdb": "tt6945970",
+      "id_tmdb": 387730,
+      "id_world_art": null,
+      "token_movie": "7b66c0a771f0147888d0617b859c66",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 18:05:16",
       "country": null,
       "category": "Фильм",
       "genre": null,
@@ -663,213 +873,213 @@
       "iframe": "",
       "iframe_trailer": null,
       "quality": "WEB-DL",
-      "translation": "Многоголосый закадровый",
+      "translation": "Профессиональный многоголосый",
       "translation_iframe": {
-        "72": {
-          "name": "Многоголосый закадровый",
+        "87": {
+          "name": "Профессиональный многоголосый",
           "quality": "WEB-DL",
           "iframe": ""
         }
       }
     },
     {
-      "name": "Кокоша — маленький дракон: Приключения в джунглях",
-      "original_name": "Der kleine Drache Kokosnuss - Auf in den Dschungel!",
-      "alternative_name": null,
-      "year": 2019,
-      "id_kp": 1215761,
+      "name": "Переполох в Индии",
+      "original_name": "Da nao tian zhu",
+      "alternative_name": "Приятели в Индии",
+      "year": 2017,
+      "id_kp": 1001170,
       "alternative_id_kp": null,
-      "id_imdb": "tt9310460",
-      "id_tmdb": 544052,
+      "id_imdb": "tt6152908",
+      "id_tmdb": 435863,
       "id_world_art": null,
-      "token_movie": "515dc8b0169720bedd6c95fa970154",
+      "token_movie": "f14883c47e55d1cfb920b59e606de9",
       "last_season": null,
       "last_episode": null,
-      "date": "2020-07-31 20:21:41",
-      "country": "Германия",
+      "date": "2020-08-03 18:03:57",
+      "country": "Индия, Китай",
       "category": "Фильм",
-      "genre": "комедия, мультфильм, фэнтези",
-      "actors": "Макс фон дер Грёбен, Каролин Кебекус, Дастин Земмельрогге, Гудо Хегель, Ангелика Бендер",
-      "directors": "Энтони Пауэр",
-      "producers": "Маркус Хаманн, Габриэла Вальтер",
-      "premiere_ru": "2019-08-29",
-      "premiere": "2019-01-24",
-      "age_restrictions": 6,
+      "genre": "боевик, комедия",
+      "actors": "Ван Баоцян, Ада Лю, Бай Кэ, Юэ Юньпэн, Викрамджит Вирк, Чэнь Пэйсы, Хуан Бо, Milena Krawetz, Линь Юнцзянь, Лю Хаожань, Анита Смирнова, Шрути Соди, Вон Чо-Лам, Ма Юэ, Чжу Шимао",
+      "directors": "Ван Баоцян",
+      "producers": "Падам Бхушан, Раджат Канти Саркар, Аджай Кумар Шарма, Ашиш Сингх, Ван Баоцян",
+      "premiere_ru": null,
+      "premiere": "2017-01-27",
+      "age_restrictions": null,
       "rating_mpaa": null,
       "rating_kp": null,
-      "rating_imdb": 5.7,
-      "time": "1:20",
+      "rating_imdb": 3.7,
+      "time": "1:40",
       "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1215761.jpg",
-      "description": "Ура! Каникулы! Кокошу и его закадычного приятеля Оскара родители отправляют в летний лагерь для юных драконов и драконесс. Дикобразов туда не берут, поэтому друзья разрабатывают тайную спецоперацию по нелегальной отправке к месту отдыха их лучшей подружки, дикобразихи Матильды, без которой они никуда. Веселое и увлекательное путешествие неразлучной троицы очень быстро превратилось в опаснейшее приключение, потому что им повстречалось племя не самых гостеприимных Водяных Драконов, а джунгли просто кишели прожорливыми и очень голодными растениями…",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1001170.jpg",
+      "description": "На месте строительства будущего небоскреба уже снесены все старые дома. И только один жилец отказывается съехать из своей гнилушки, чем тормозит весь рабочий процесс. Его зовут Укун. Он - дрессировщик обезьян и мастер кунг-фу, поэтому способен в одиночку противостоять целой толпе строителей с лопатами. После затянувшегося противостояния застройщики обещают Укуну оставить в покое его избёнку и обезьян, если он поможет выполнить последнюю (и очень эксцентричную) просьбу умершего владельца компании. Отправиться вместе с его сыном Тан Сэнем в Индию, где спрятана единственная копия отцовского завещания. Старик догадывался, что родной дядя попытается отжать у законного наследника семейный бизнес, поэтому мастеру кунг-фу Укуну предстоит непростое путешествие. Путешествие на Запад.",
       "iframe": "",
       "iframe_trailer": null,
-      "quality": "BDRip",
-      "translation": "Дублированный",
+      "quality": "WEB-DL",
+      "translation": "Любительский одноголосый",
       "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "BDRip",
+        "103": {
+          "name": "Любительский одноголосый",
+          "quality": "WEB-DL",
           "iframe": ""
         }
       }
     },
     {
-      "name": "Том и Джерри: Гигантское приключение",
-      "original_name": "Tom and Jerry's Giant Adventure",
+      "name": "#ЗамужЗаЛучшегоДруга 2",
+      "original_name": "#TemanTapiMenikah2",
       "alternative_name": null,
-      "year": 2013,
-      "id_kp": 756478,
+      "year": 2020,
+      "id_kp": 1346723,
       "alternative_id_kp": null,
-      "id_imdb": "tt3108584",
-      "id_tmdb": 199753,
+      "id_imdb": "tt11640412",
+      "id_tmdb": 655293,
       "id_world_art": null,
-      "token_movie": "a51288f1ee8b52bff09b2d1f262f23",
+      "token_movie": "ec9b22eb433ae7a7e5aa9d2d52337e",
       "last_season": null,
       "last_episode": null,
-      "date": "2020-07-31 20:20:54",
-      "country": "США",
+      "date": "2020-08-03 18:01:38",
+      "country": "Индонезия",
       "category": "Фильм",
-      "genre": "комедия, мультфильм, семейный",
-      "actors": "Джейкоб Бертран, Томас Ф. Уилсон, Грэй Гриффин, Гаррисон Кейллор, Пол Рубенс, Кэт Суси, Джо Аляски, Ричард Макгонагл, Фил ЛаМарр, Джон Ди Маджио",
-      "directors": "Спайк Брандт, Тони Червоне",
-      "producers": "Спайк Брандт, Тони Червоне, Сэм Реджистер",
+      "genre": "комедия, мелодрама",
+      "actors": "Адипати Долкен, Mawar Eva de Jongh, Vonny Cornellya, Sari Nila, Ivan Leonardy, Clay Gribble, Sarah Sechan, Jourdy Pranata, Tubagus Ali, Ravil Prasetya, Nagra Kautsar Pakusadewo, Canti Tachril, Thalia Basir, Sp Lili, Anna Tairas, Уиллем Беверс, Hanif Thamrin, Estrina Nia Nirmala, Luffy Hamengku Dirgantara",
+      "directors": "Рако Приджанто",
+      "producers": "Фредерика, Tutut Kolopaking, Х.Б. Навин, Dallas Sinaga",
       "premiere_ru": null,
-      "premiere": "2013-08-06",
+      "premiere": "2020-02-27",
       "age_restrictions": null,
       "rating_mpaa": null,
-      "rating_kp": 5.8,
-      "rating_imdb": 6,
-      "time": "0:57",
+      "rating_kp": null,
+      "rating_imdb": 6.8,
+      "time": "1:40",
       "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/756478.jpg",
-      "description": "В этом мультфильме Том и Джерри - одни из последних зверушек, оставшихся в парке развлечений «Город сказок». Здесь «мечты оживают, если ты веришь в это». Мальчик Джек хочет спасти парк от рук жадного миллиардера и вместе со своими верными друзьями - котом и мышонком - решает продать своего бычка за пригоршню волшебных бобов. Забравшись по гигантскому бобовому стеблю за облака, они попадают в волшебную страну. Там правит злой и голодный великан, и живут сказочные герои: Друпи, Спайк и даже Матушка Гусыня. Смогут ли Том и Джерри помириться друг с дружкой ради того, чтобы спасти «Город Сказок»?",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1346723.jpg",
+      "description": "Аюдия никак не может насладится новым статусом жены, а беременность только обострила отношения супругов. Молодая жена начинается меняться, становится ленивой и очень чувствительной.",
       "iframe": "",
       "iframe_trailer": null,
-      "quality": "BDRip",
-      "translation": "Дублированный",
+      "quality": "WEB-DL",
+      "translation": "Профессиональный многоголосый",
       "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "BDRip",
+        "87": {
+          "name": "Профессиональный многоголосый",
+          "quality": "WEB-DL",
           "iframe": ""
         }
       }
     },
     {
-      "name": "Выстрел в пустоту",
-      "original_name": "Shot Caller",
+      "name": "Иррациональный страх",
+      "original_name": "Irrational Fear",
       "alternative_name": null,
-      "year": 2015,
-      "id_kp": 910353,
+      "year": 2017,
+      "id_kp": 1027348,
       "alternative_id_kp": null,
-      "id_imdb": "tt4633690",
-      "id_tmdb": 339692,
+      "id_imdb": "tt6155600",
+      "id_tmdb": 495303,
       "id_world_art": null,
-      "token_movie": "e7aba4392db3eed01b40e64a9e9bce",
+      "token_movie": "a287fe558b48d84e27483e88aec5df",
       "last_season": null,
       "last_episode": null,
-      "date": "2020-07-31 20:19:42",
+      "date": "2020-08-03 17:58:04",
       "country": "США",
       "category": "Фильм",
-      "genre": "драма, криминал, триллер",
-      "actors": "Николай Костер-Вальдау, Омари Хардвик, Лэйк Белл, Джон Бернтал, Эмори Коэн, Джеффри Донован, Ивэн Джонс, Хуан Пабло Раба, Мэтт Джералд, Макс Гринфилд, Джесси Шрэм, Крис Браунинг, Майкл Лэндис, Джонатан МакКлендон, Бенджамин Брэтт, Холт Маккэллани, Марк Сивертсен, Кру Эннис, Кит Джардин, Derek Dinniene",
-      "directors": "Рик Роман Во",
-      "producers": "Джонатан Кинг, Мишель Литвак, Гари Майкл Уолтерс, Рик Роман Во, Мэттью А. Родс, Джефф Сколл, Джеффри Стотт, Такер Тули, Билл Волькен",
-      "premiere_ru": "2017-07-13",
-      "premiere": "2017-06-17",
-      "age_restrictions": 18,
-      "rating_mpaa": "R",
-      "rating_kp": 7.4,
-      "rating_imdb": 7.3,
-      "time": "2:00",
-      "tagline": "Цена свободы",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/910353.jpg",
-      "description": "Роковая случайность, смертельная трагедия, и вся его жизнь летит под откос… Оказавшись за решеткой, он должен научиться жить по новым законам. Ты должен стать борцом, авторитетом или окажешься жертвой. Какую цену придется заплатить, чтобы выжить в этом аду, из которого нет дороги назад?",
-      "iframe": "",
-      "iframe_trailer": null,
-      "quality": "BDRip",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "BDRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Как поймать перо Жар-Птицы",
-      "original_name": null,
-      "alternative_name": null,
-      "year": 2013,
-      "id_kp": 586269,
-      "alternative_id_kp": null,
-      "id_imdb": "tt3194482",
-      "id_tmdb": 240938,
-      "id_world_art": null,
-      "token_movie": "ccff16d8ca410bffa1e96fc58ccf8c",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2020-07-31 20:18:48",
-      "country": "Россия",
-      "category": "Фильм",
-      "genre": "мультфильм, фэнтези",
-      "actors": "Михаил Озеров, Дмитрий Дюжев, Юлия Савичева, Андрей Леонов, Нонна Гришаева, Алексей Колган, Михаил Хрусталёв, Анатолий Петров, Юлия Галдун, Владимир Горбунов, Дмитрий Поляновский, Валентина Рычагова",
-      "directors": "Георгий Гитис, Вячеслав Плотников",
-      "producers": "Сергей Сельянов, Александр Лигай, Сергей Рапопорт, Юрий Москвин, Виталий Первухин, Вадим Свешников, Максим Свешников, Георгий Гитис",
-      "premiere_ru": "2013-10-24",
-      "premiere": "2013-10-24",
+      "genre": "ужасы",
+      "actors": "Бэйкер Чейз, Jennifer Nangle, Charles Chudabala, Chad Moseley, Хантер Джонсон, Кевин Соммерфилд, Калеб Шори, Leah Wiseman, Mathias Blake, Dane Bingenheimer, Guy Holling, Leni Irizarry, Zachary Allen, Marla Van Lanen, Cati Glidewell, Andrew Beirl, Kevin Gillespie, Neda Stevic, Tom McCarthy, Skylar Spaulding",
+      "directors": "Хантер Джонсон",
+      "producers": "Крис Геровски, Хантер Джонсон, Jay Sorensen, Zachary Allen, Andrew Beirl, Dane Bingenheimer, Крис Картер, Дилан Курзон, Ryan Fraser",
+      "premiere_ru": null,
+      "premiere": null,
       "age_restrictions": null,
       "rating_mpaa": null,
-      "rating_kp": 5.2,
-      "rating_imdb": 4.9,
-      "time": "1:20",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/586269.jpg",
-      "description": "Во исполнение воли царя Берендея, младший сын его Иван отправляется на поиски диковинной Жар-птицы. В поисках удачи Ивана Царевича сопровождает верный друг и помощник – Серый Волк, который, обладает всевозможными навыками и всегда спешит на помощь простодушному Ивану. Героев ждут увлекательные и опасные приключения, козни коварных братьев Ивана и его судьбоносная встреча с Еленой Прекрасной.  Юные зрители погрузятся в волшебный мир русской сказки, с её традициями и характерной эстетикой, причудливо перемежающейся с приметами современного жанрового кино. Ну, а родители оценят актуальный юмор и модную современную музыку, написанную специально для фильма популярными рок-музыкантами.",
+      "rating_kp": null,
+      "rating_imdb": 3.3,
+      "time": "1:38",
+      "tagline": "What's your fear?",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1027348.jpg",
+      "description": null,
       "iframe": "",
       "iframe_trailer": null,
-      "quality": "BDRip",
-      "translation": "Не требуется",
+      "quality": "WEB-DL",
+      "translation": "Профессиональный многоголосый",
       "translation_iframe": {
-        "82": {
-          "name": "Не требуется",
-          "quality": "BDRip",
+        "87": {
+          "name": "Профессиональный многоголосый",
+          "quality": "WEB-DL",
           "iframe": ""
         }
       }
     },
     {
-      "name": "Скуби-Ду! Музыка вампира",
-      "original_name": "Scooby-Doo! Music of the Vampire",
+      "name": "Быстрее выстрела",
+      "original_name": "Jumping the Gun",
       "alternative_name": null,
-      "year": 2012,
-      "id_kp": 660836,
+      "year": 2020,
+      "id_kp": 1028842,
       "alternative_id_kp": null,
-      "id_imdb": "tt2162709",
-      "id_tmdb": 81900,
+      "id_imdb": "tt6456308",
+      "id_tmdb": null,
       "id_world_art": null,
-      "token_movie": "67fa05b139d788413f66ae43b00270",
+      "token_movie": "dc7d28ea000aba5686cb9486f7750d",
       "last_season": null,
       "last_episode": null,
-      "date": "2020-07-31 20:18:10",
+      "date": "2020-08-03 17:57:02",
+      "country": "Канада, США",
+      "category": "Фильм",
+      "genre": "комедия, семейный, спорт",
+      "actors": "Кэррис Дорси, Шон О’Брайан, Макс Гэйл, Ким Майерс, Питер Уингфилд, Дэвид Бурк",
+      "directors": "Stephen Ihli",
+      "producers": "Эрик Смолл, Mark Krull, Joanne Storkan",
+      "premiere_ru": null,
+      "premiere": null,
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": null,
+      "time": "1:25",
+      "tagline": null,
+      "poster": null,
+      "description": null,
+      "iframe": "",
+      "iframe_trailer": null,
+      "quality": "WEB-DL",
+      "translation": "Профессиональный многоголосый",
+      "translation_iframe": {
+        "87": {
+          "name": "Профессиональный многоголосый",
+          "quality": "WEB-DL",
+          "iframe": ""
+        }
+      }
+    },
+    {
+      "name": "Инспектор Гаджет",
+      "original_name": "Inspector Gadget",
+      "alternative_name": null,
+      "year": 1999,
+      "id_kp": 5095,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0141369",
+      "id_tmdb": 332,
+      "id_world_art": null,
+      "token_movie": "0526489ec7512f29765b9ffc4f64e9",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 17:55:24",
       "country": "США",
       "category": "Фильм",
-      "genre": "детектив, мультфильм",
-      "actors": "Обба Бабатунде, Джефф Беннетт, Джулианна Бушер, Кристиан Кэмпбелл, Минди Кон, Джим Каммингс, Грэй Гриффин, Мэттью Лиллард, Роб Полсен, Минди Стерлинг, Роберт Таунзенд, Фрэнк Уэлкер, Джим Уайз",
-      "directors": "Дэвид Блок",
-      "producers": "Спайк Брандт, Алан Барнетт, Тони Червоне, Сэм Реджистер, А.Дж. Варгас",
-      "premiere_ru": null,
-      "premiere": "2012-03-07",
-      "age_restrictions": null,
-      "rating_mpaa": "G",
-      "rating_kp": 6.4,
-      "rating_imdb": 6.5,
+      "genre": "боевик, комедия, фантастика",
+      "actors": "Мэттью Бродерик, Руперт Эверетт, Джоэли Фишер, Мишель Трахтенберг, Энди Дик, Шери Отери, Майкл Дж. Хэгерти, Дэбни Коулмен, Д.Л. Хьюли, Рене Обержонуа, Фрэнсис Бэй, Мистер Ти, Ричард Кил, Ричард Ли-Сун, Бобби Белл, Хэнк Баррера, Кит Моррисон, John Kim, Джесси Йошимура, Аарон Мейерсон",
+      "directors": "Дэвид Келлогг",
+      "producers": "Роджер Бирнбаум, Энди Хэйард, Джордан Кернер, Лу Аркофф, Джон Эвнет, Бэрри Бернарди, Жан Шалопен, Джонатан Гликман, Аарон Мейерсон",
+      "premiere_ru": "2001-04-29",
+      "premiere": "1999-07-18",
+      "age_restrictions": 12,
+      "rating_mpaa": "PG",
+      "rating_kp": 5.3,
+      "rating_imdb": 4.1,
       "time": "1:18",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/660836.jpg",
-      "description": "Главный герой Скуби-Ду и его команда Шэгги, Фредди, Дафни и Велма берутся за новое дело. Но дело это не обычное, на сей раз им предстоит встреча с потусторонними существами, такими как вампиры и оборотни. Но эта отважная пятерка детективов не боится ни чего, и отправляется в самое логово злодеев…",
+      "tagline": "Go Go This July",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5095.jpg",
+      "description": "Неприметный охранник Джон Браун всю жизнь мечтал стать величайшим полицейским в истории. Сама судьба подарила ему этот шанс: после страшного взрыва Джон попадает в секретную научную лабораторию, где ученые превращают непутевого охранника в идеального служителя закона. Он становится инспектором Гаджетом, полицейским ХХI века, в теле которого – 14000 техническим приспособлений на все случаи жизни.\n\rСовершенная машина по борьбе с преступностью настигнет любого, где бы он ни спрятался и как бы быстро ни убегал. Но на пути непобедимого супергероя неожиданно встает суперзлодей, который раскрыл тайну секретных технологий и создал идеального преступника, точную копию инспектора Гаджета!",
       "iframe": "",
       "iframe_trailer": null,
       "quality": "WEB-DL",
@@ -883,3386 +1093,169 @@
       }
     },
     {
-      "name": "Взаперти",
-      "original_name": null,
+      "name": "Инспектор Гаджет 2",
+      "original_name": "Inspector Gadget 2",
       "alternative_name": null,
-      "year": 2020,
-      "id_kp": 1390617,
+      "year": 2003,
+      "id_kp": 77258,
       "alternative_id_kp": null,
-      "id_imdb": null,
-      "id_tmdb": null,
+      "id_imdb": "tt0301454",
+      "id_tmdb": 19766,
       "id_world_art": null,
-      "token_movie": "45de1391c6d82778592e1891b146ed",
-      "last_season": 1,
-      "last_episode": 10,
-      "date": "2020-07-31 19:29:37",
-      "country": "Россия",
-      "category": "Сериал",
-      "genre": "драма",
-      "actors": "Аня Чиповская, Дмитрий Ендальцев, Сергей Беляев, Анастасия Цибизова, Мила Ершова, Агриппина Стеклова, Виктор Маркин",
-      "directors": "Иван Петухов",
-      "producers": "Тимур Бекмамбетов, Софья Квашилава, Мария Затуловская",
-      "premiere_ru": "2020-07-28",
-      "premiere": null,
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 6.5,
-      "rating_imdb": null,
-      "time": "0:06",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1390617.jpg",
-      "description": "Пара решает расстаться, но самоизоляция вносит свои коррективы: экс-возлюбленным придётся провести вместе ещё две недели.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "WEBRip",
-      "translation": "Не требуется",
-      "translation_iframe": {
-        "82": {
-          "name": "Не требуется",
-          "quality": "WEBRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Параллельные миры",
-      "original_name": "Sliders",
-      "alternative_name": "Скользящие",
-      "year": 1995,
-      "id_kp": 89587,
-      "alternative_id_kp": null,
-      "id_imdb": "tt0112167",
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "574623cd0dfe370c9b62423b50e9b2",
-      "last_season": 5,
-      "last_episode": 18,
-      "date": "2020-07-31 19:08:57",
+      "token_movie": "c8511a0c728a0ed6a5988191841965",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 17:53:59",
       "country": "США",
-      "category": "Сериал",
-      "genre": "приключения, фантастика, фэнтези",
-      "actors": "Джерри О’Коннелл, Кливант Деррикс, Сабрина Ллойд, Джон Рис-Дэвис, Кари Вурер, Чарли О’Коннелл, Роберт Флойд, Темби Лок, Лестер Барри, Уилл Сассо, Линда Хеннинг, Нил Диксон, Джон Уолкатт, Джейсон Гаффни, Уэс Чарльз мл., Клинтон Деррикс-Кэрролл, Исраэл Хуарбе, Гари Джонс, Терри Маркуэлл, Алекс Брухански",
-      "directors": "Ричард Комптон, Дэвид Э. Пекинпа, Джерри О’Коннелл, Реза Бадии, Джим Джонстон, Оскар Л. Косто, Верн Джиллам, Пэрис Барклай, Джефри Леви, Адам Нимой",
-      "producers": "",
+      "category": "Фильм",
+      "genre": "боевик, комедия, фантастика",
+      "actors": "Френч Стюарт, Элэйн Хендрикс, Тони Мартин, Кэйтлин Уэкс, Марк Митчелл, Сигрид Торнтон, Брюс Спенс, Алетеа МакГрат, Джон Батчелор, Джеймс Уордло, Мик Роуган, Ник Лосон, Сирос Ниарос, Gino Lemura, Кейт Питерс, Брайан МакДермотт, Ник Бэкстром, Peter M. Green, Jan Nary, Тодд Леви",
+      "directors": "Алекс Замм",
+      "producers": "Питер М. Грин, Чарльз Хиршхорн, Роджер Бирнбаум, Жан Шалопен, Энди Хэйард, Джордан Кернер, Дэвид Россел",
       "premiere_ru": null,
-      "premiere": "1995-03-22",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 7.9,
-      "rating_imdb": 7.4,
-      "time": "0:43",
-      "tagline": "Before you open The X-Files tonight, slide into a new adventure!",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/89587.jpg",
-      "description": "Студент-физик Куина Мелори, основываясь на теории Эйнштейна-Подольского-Розена, проводил эксперименты по исследованию гравитации. В ходе них он вместо гравитационной машины получил машину-портал, позволяющую скользить в параллельные миры. Куин вместе со своим учителем профессором Артуро, подружкой Вейд и случайно попавшим в воронку портала Рембрандтом Брауном отправился в небольшое путешествие в параллельный мир.\n\rНо в ходе путешествия им пришлось срочно эвакуироваться из этого мира, при этом сбив настройки таймера, контролирующего их скольжения. И теперь они не могут вернуться домой и не знают, в какой следующий мир они попадут.",
+      "premiere": "2003-03-08",
+      "age_restrictions": 12,
+      "rating_mpaa": "G",
+      "rating_kp": 3.9,
+      "rating_imdb": 3.4,
+      "time": "1:29",
+      "tagline": "Гаджет встречает свою половину...",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/77258.jpg",
+      "description": "Не зря Ривертон называют самым тихим городом в мире, ведь закон и порядок в нем охраняет непобедимый инспектор Гаджет - киборг, в тело которого встроены тысячи приспособлений для борьбы с преступностью. Он один стоит целого полицейского участка, и поскольку бандиты боятся его как огня, Ривертон они обходят стороной. Но супергерою рано почивать на лаврах: его место может занять киборг нового поколения, механическая девица Гаджет-2.",
       "iframe": "",
       "iframe_trailer": null,
-      "seasons_count": 5,
-      "seasons": {
-        "5": {
-          "iframe": "",
-          "season": 5,
-          "episodes": {
-            "18": {
-              "iframe": "",
-              "episode": 18,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "17": {
-              "iframe": "",
-              "episode": 17,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "16": {
-              "iframe": "",
-              "episode": 16,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "15": {
-              "iframe": "",
-              "episode": 15,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "14": {
-              "iframe": "",
-              "episode": 14,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "13": {
-              "iframe": "",
-              "episode": 13,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        },
-        "4": {
-          "iframe": "",
-          "season": 4,
-          "episodes": {
-            "22": {
-              "iframe": "",
-              "episode": 22,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "21": {
-              "iframe": "",
-              "episode": 21,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "20": {
-              "iframe": "",
-              "episode": 20,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "19": {
-              "iframe": "",
-              "episode": 19,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "18": {
-              "iframe": "",
-              "episode": 18,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "17": {
-              "iframe": "",
-              "episode": 17,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "16": {
-              "iframe": "",
-              "episode": 16,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "15": {
-              "iframe": "",
-              "episode": 15,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "14": {
-              "iframe": "",
-              "episode": 14,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "13": {
-              "iframe": "",
-              "episode": 13,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        },
-        "3": {
-          "iframe": "",
-          "season": 3,
-          "episodes": {
-            "25": {
-              "iframe": "",
-              "episode": 25,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "24": {
-              "iframe": "",
-              "episode": 24,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "23": {
-              "iframe": "",
-              "episode": 23,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "22": {
-              "iframe": "",
-              "episode": 22,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "21": {
-              "iframe": "",
-              "episode": 21,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "20": {
-              "iframe": "",
-              "episode": 20,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "19": {
-              "iframe": "",
-              "episode": 19,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "18": {
-              "iframe": "",
-              "episode": 18,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "17": {
-              "iframe": "",
-              "episode": 17,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "16": {
-              "iframe": "",
-              "episode": 16,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "15": {
-              "iframe": "",
-              "episode": 15,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "14": {
-              "iframe": "",
-              "episode": 14,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "13": {
-              "iframe": "",
-              "episode": 13,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        },
-        "2": {
-          "iframe": "",
-          "season": 2,
-          "episodes": {
-            "13": {
-              "iframe": "",
-              "episode": 13,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        },
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "50": {
-                  "translation": "Sony Sci-Fi",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
       "quality": "DVDRip",
-      "translation": "Sony Sci-Fi",
+      "translation": "Профессиональный многоголосый",
       "translation_iframe": {
-        "50": {
-          "name": "Sony Sci-Fi",
+        "87": {
+          "name": "Профессиональный многоголосый",
           "quality": "DVDRip",
           "iframe": ""
         }
       }
     },
     {
-      "name": "Особенный",
-      "original_name": "Special",
+      "name": "Тайник",
+      "original_name": "La Caleta",
       "alternative_name": null,
-      "year": 2019,
-      "id_kp": 1219356,
+      "year": 2018,
+      "id_kp": 1293782,
       "alternative_id_kp": null,
-      "id_imdb": "tt9381622",
-      "id_tmdb": null,
+      "id_imdb": "tt10499448",
+      "id_tmdb": 636684,
       "id_world_art": null,
-      "token_movie": "f491de570f334c81b1aa3c5aaa36c8",
-      "last_season": 1,
-      "last_episode": 8,
-      "date": "2020-07-31 19:03:11",
-      "country": "США",
-      "category": "Сериал",
-      "genre": "драма, комедия",
-      "actors": "Ryan O'Connell, Джессика Хехт, Пунам Патель, Marla Mindelle, Август Прю, Патрик Фабиан, Кристофер Ли Херод, Gina Marie Hughes, Brandon Tucker, Брайан Джордан Альварез, Девин Бонне, Гаррет Грэхэм, Justin Kirk, Jason Michael Snow, Mj Vandivier, Бина Чаухан, Эндрю Дэйли, Andrew Daly, Giovanni Desoto, Брэндон Поттер",
-      "directors": "Анна Докоза",
-      "producers": "Росс М. Динерштейн, Анна Докоза, Колин Фредерик, Росс Джирард, Alison Mo Massey, Eric Norsoph, Ryan O'Connell, Джим Парсонс, Тодд Спивак",
+      "token_movie": "23792cd8c896af9a6c89b44fd372dc",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 17:52:41",
+      "country": "Колумбия",
+      "category": "Фильм",
+      "genre": "комедия",
+      "actors": "Фернандо Солорсано, Хорхе Эррера, Lina Castrillón, Альваро Родригез, Manuel Balanta, Ампаро Конде, Диего Ландаэта, Каррелл Лассо, Ruben Noreña, Elizabeth Sanchez",
+      "directors": "Carlos Julio Ramirez",
+      "producers": "Diego Lagos",
       "premiere_ru": null,
-      "premiere": "2019-04-12",
+      "premiere": "2018-10-18",
       "age_restrictions": null,
       "rating_mpaa": null,
-      "rating_kp": 6.5,
-      "rating_imdb": 7.6,
-      "time": "0:15",
+      "rating_kp": null,
+      "rating_imdb": null,
+      "time": "1:30",
       "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1219356.jpg",
-      "description": "У Райана легкая степень центрального паралича и к тому же он гей. Долгое время он пытался найти работу, переходя из одной компании в другую. Было время, когда юноша занимался интернет-блогом. Но, теперь он намерен выйти в свет и начать новую жизнь.",
+      "poster": null,
+      "description": null,
       "iframe": "",
       "iframe_trailer": null,
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "96": {
-                  "translation": "TVShows",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
       "quality": "WEB-DL",
-      "translation": "TVShows",
+      "translation": "Профессиональный многоголосый",
       "translation_iframe": {
-        "96": {
-          "name": "TVShows",
+        "87": {
+          "name": "Профессиональный многоголосый",
           "quality": "WEB-DL",
           "iframe": ""
         }
       }
     },
     {
-      "name": "Гром в раю",
-      "original_name": "Thunder in Paradise",
+      "name": "Удушье",
+      "original_name": "Asfixia",
       "alternative_name": null,
-      "year": 1994,
-      "id_kp": 237259,
+      "year": 2018,
+      "id_kp": 1089727,
       "alternative_id_kp": null,
-      "id_imdb": "tt0108958",
-      "id_tmdb": null,
+      "id_imdb": "tt6560352",
+      "id_tmdb": 553776,
       "id_world_art": null,
-      "token_movie": "3c3d30676ae00cbc77af248f133ab0",
-      "last_season": 1,
-      "last_episode": 25,
-      "date": "2020-07-31 19:01:53",
-      "country": "США",
-      "category": "Сериал",
-      "genre": "приключения",
-      "actors": "Халк Хоган, Крис Леммон, Кэрол Олт, Патрик Макни, Расс Вилер, Эшли Горрелл, Джимми Харт, Эд Лесли, Кики Шепард, Джим Нейдхарт, Хайди Марк, Эйприл Стормс, Стив Борден, Хорхе Гонзалес, Робин Уайзман, Лиза Стал, Уильям Уайтхед, Рас Блэквелл, Танкил Лиза Коллинз, Линда Рейс",
-      "directors": "Дуглас Шварц, Грегори Дж. Бонанн, Линдон Чаббак, Гас Триконис, Пол Каджеро, Том Грин, Бернард Л. Ковальски, Расс Мейберри, Лес Шелдон, Льюис Стаут",
-      "producers": "",
+      "token_movie": "db501a25ea3646fe1a848fbf5a3a45",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 17:13:18",
+      "country": "Мексика",
+      "category": "Фильм",
+      "genre": "драма",
+      "actors": "Энрике Арреола, Хоана Фрагосо Блендл, Моника дель Кармен, Рауль Брионес, Азуль Маганья Муньис, Марта Клаудия Морено, Маурицио Исаак",
+      "directors": "Кенья Маркес",
+      "producers": "Илиана Рейс, Роберто Фиеско, Сантьяго Гарсиа Гальван, Марта Игареда, Мири Хигареда, Кенья Маркес, Андрес Тальявини, Арасели Веласкез",
       "premiere_ru": null,
-      "premiere": "1994-03-21",
-      "age_restrictions": 12,
-      "rating_mpaa": null,
-      "rating_kp": 7.2,
-      "rating_imdb": 5.5,
-      "time": "0:43",
-      "tagline": "Danger.  Excitement.  Adventure.  It's just another day in paradise",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/237259.jpg",
-      "description": "Рэндольф Спенсер и Мартин Брубейкер - бывшие «морские котики», которые за огромные деньги выполняют самые опасные секретные миссии, во время которых передвигаются на суперскоростной лодке «Гром», оснащенной самыми невероятными техническими приспособлениями.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "25": {
-              "iframe": "",
-              "episode": 25,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "24": {
-              "iframe": "",
-              "episode": 24,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "23": {
-              "iframe": "",
-              "episode": 23,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "22": {
-              "iframe": "",
-              "episode": 22,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "21": {
-              "iframe": "",
-              "episode": 21,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "20": {
-              "iframe": "",
-              "episode": 20,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "19": {
-              "iframe": "",
-              "episode": 19,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "18": {
-              "iframe": "",
-              "episode": 18,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "17": {
-              "iframe": "",
-              "episode": 17,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "16": {
-              "iframe": "",
-              "episode": 16,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "15": {
-              "iframe": "",
-              "episode": 15,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "14": {
-              "iframe": "",
-              "episode": 14,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "13": {
-              "iframe": "",
-              "episode": 13,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "121": {
-                  "translation": "Профессиональный двухголосый",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "HDTVRip",
-      "translation": "Профессиональный двухголосый",
-      "translation_iframe": {
-        "121": {
-          "name": "Профессиональный двухголосый",
-          "quality": "HDTVRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Снова двадцать",
-      "original_name": "Dubeonjjae seumusal",
-      "alternative_name": null,
-      "year": 2015,
-      "id_kp": 938683,
-      "alternative_id_kp": null,
-      "id_imdb": "tt4984004",
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "bf170b40fd78492172d75924ad40a3",
-      "last_season": 1,
-      "last_episode": 16,
-      "date": "2020-07-31 18:52:49",
-      "country": "Корея Южная",
-      "category": "Сериал",
-      "genre": "мелодрама",
-      "actors": "Чхве Джи-у, Ли Сан-юн, Чхве Вон-ён, Ким Мин-джэ, Сон На-ын, Чон Су-ён, Пан Хё-джон, Чхве Юн-со, Пак Хё-джу, Но Ён-хак, Чин Ги-джу, Ким Ган-хён, Лим Сэ-джу, Со Хан-гёль, Чи Ха-юн, Хан Сон-ён, Ха Сын-ни, Ли Ю-джин, Ю Джун-хон, Чон Ду-гём",
-      "directors": "Ким Хён-щик",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": "2015-08-28",
+      "premiere": "2019-10-18",
       "age_restrictions": null,
       "rating_mpaa": null,
-      "rating_kp": 7.7,
-      "rating_imdb": 7.7,
-      "time": "1:00",
+      "rating_kp": null,
+      "rating_imdb": 6.7,
+      "time": "1:28",
       "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/938683.jpg",
-      "description": "38-ми летняя Ха Но-ра мечтала стать танцовщицей в старшей школе, но в 19 лет встретила своего будущего мужа Ким У-чхоля. У них родился ребёнок, и семья для девушки стала главным приоритетом в жизни, а от мечты пришлось отказаться. В надежде стать примерной женой для мужа и примерной матерью для сына Мин-су, Но-ра стремится поступить в колледж. И её принимают в то же учебное заведение, что и её сына. Ча Хён-сок будет преподавателем театрального искусства Но-ры, которая в старшей школе была его первой любовью.",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1089727.jpg",
+      "description": "Выйдя из тюрьмы, где она научилась ухаживать за больными, Альма преисполнена решимости найти место в жизни. Она находит работу сиделки, а ее клиентом становится Клемент, страдающий компульсивно-обсессивным расстройством, связанным со страхом внезапной смерти. Их отношения проходят стадии подозрительности, страха, сострадания, нежности и, наконец, любви.",
       "iframe": "",
       "iframe_trailer": null,
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "16": {
-              "iframe": "",
-              "episode": 16,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "15": {
-              "iframe": "",
-              "episode": 15,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "14": {
-              "iframe": "",
-              "episode": 14,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "13": {
-              "iframe": "",
-              "episode": 13,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "126": {
-                  "translation": "SoftBox",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
       "quality": "WEB-DL",
-      "translation": "SoftBox",
+      "translation": "Профессиональный многоголосый",
       "translation_iframe": {
-        "126": {
-          "name": "SoftBox",
+        "87": {
+          "name": "Профессиональный многоголосый",
           "quality": "WEB-DL",
           "iframe": ""
         }
       }
     },
     {
-      "name": "Великая",
-      "original_name": "The Great",
+      "name": "Блоха",
+      "original_name": "Flea",
       "alternative_name": null,
-      "year": 2020,
-      "id_kp": 666955,
+      "year": 2018,
+      "id_kp": 552963,
       "alternative_id_kp": null,
-      "id_imdb": "tt2235759",
-      "id_tmdb": null,
+      "id_imdb": "tt1690543",
+      "id_tmdb": 96768,
       "id_world_art": null,
-      "token_movie": "82fac5b83a3de1bd84131dcf5618e4",
-      "last_season": 1,
-      "last_episode": 10,
-      "date": "2020-07-31 18:03:34",
-      "country": "Австралия, Великобритания",
-      "category": "Сериал",
-      "genre": "биография, история, комедия",
-      "actors": "Эль Фаннинг, Николас Холт, Фиби Фокс, Гвилим Ли, Луи Хайнс, Саша Дхаван, Чарити Уэйкфилд, Адам Годли, Дуглас Ходж, Белинда Бромилов, Bayo Gbadamosi, Флоренс Кит-Роач, Дануся Самал, Себастьян де Соуса, Кеми-Бо Джейкобс, Джэми Деметриу, Кристоф Тек, Стюарт Скудамор, Алистэр Грин, Jordan Kagaba",
-      "directors": "Колин Бакси, Bert, Кэти Эллвуд, Бен Чессель, Гита Патель, Мэтт Шекман",
-      "producers": "Эль Фаннинг, Brittany Kahan, Джош Кесселман, Мэриэн МакГовэн",
-      "premiere_ru": "2020-05-16",
-      "premiere": "2020-05-15",
-      "age_restrictions": 16,
-      "rating_mpaa": null,
-      "rating_kp": 7,
-      "rating_imdb": 8.1,
-      "time": "0:52",
-      "tagline": "If the crown fits... take it.",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/666955.jpg",
-      "description": "Юная дочь обедневшего немецкого князя София Августа Фредерика Ангальт-Цербстская выходит замуж за императора российского Петра III и становится императрицей Екатериной II. Поначалу полная надежд на чистую и светлую любовь девушка быстро разочаровывается в царственном супруге как в человеке и как в правителе и, пока тот, устроив во дворце непрекращающуюся вечеринку, развлекается банкетами, охотой, блудом и унижением подданных, молодая императрица начинает строить планы, как ей самой обустроить Россию.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "34": {
-                  "translation": "LostFilm",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "39": {
-                  "translation": "Newstudio",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "147": {
-                  "translation": "Greb&Creative",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "85": {
-                  "translation": "HDrezka Studio",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "39": {
-                  "translation": "Newstudio",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "34": {
-                  "translation": "LostFilm",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "147": {
-                  "translation": "Greb&Creative",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "85": {
-                  "translation": "HDrezka Studio",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "147": {
-                  "translation": "Greb&Creative",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "34": {
-                  "translation": "LostFilm",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "39": {
-                  "translation": "Newstudio",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "85": {
-                  "translation": "HDrezka Studio",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "39": {
-                  "translation": "Newstudio",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "34": {
-                  "translation": "LostFilm",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "147": {
-                  "translation": "Greb&Creative",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "85": {
-                  "translation": "HDrezka Studio",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "34": {
-                  "translation": "LostFilm",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "39": {
-                  "translation": "Newstudio",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "147": {
-                  "translation": "Greb&Creative",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "85": {
-                  "translation": "HDrezka Studio",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "39": {
-                  "translation": "Newstudio",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "147": {
-                  "translation": "Greb&Creative",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "34": {
-                  "translation": "LostFilm",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "85": {
-                  "translation": "HDrezka Studio",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "147": {
-                  "translation": "Greb&Creative",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "34": {
-                  "translation": "LostFilm",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "39": {
-                  "translation": "Newstudio",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "85": {
-                  "translation": "HDrezka Studio",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "34": {
-                  "translation": "LostFilm",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "147": {
-                  "translation": "Greb&Creative",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "39": {
-                  "translation": "Newstudio",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "85": {
-                  "translation": "HDrezka Studio",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "147": {
-                  "translation": "Greb&Creative",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "34": {
-                  "translation": "LostFilm",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "39": {
-                  "translation": "Newstudio",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "85": {
-                  "translation": "HDrezka Studio",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "34": {
-                  "translation": "LostFilm",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "39": {
-                  "translation": "Newstudio",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "147": {
-                  "translation": "Greb&Creative",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                },
-                "85": {
-                  "translation": "HDrezka Studio",
-                  "quality": "WEBRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "WEB-DL, WEBRip",
-      "translation": "LostFilm, Newstudio, Greb&Creative, HDrezka Studio",
-      "translation_iframe": {
-        "34": {
-          "name": "LostFilm",
-          "quality": "WEB-DL",
-          "iframe": ""
-        },
-        "39": {
-          "name": "Newstudio",
-          "quality": "WEB-DL",
-          "iframe": ""
-        },
-        "147": {
-          "name": "Greb&Creative",
-          "quality": "WEB-DL",
-          "iframe": ""
-        },
-        "85": {
-          "name": "HDrezka Studio",
-          "quality": "WEBRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Discovery: Как устроена Вселенная",
-      "original_name": "How the Universe Works",
-      "alternative_name": null,
-      "year": 2010,
-      "id_kp": 615680,
-      "alternative_id_kp": null,
-      "id_imdb": "tt1832668",
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "73043ede4a21da018fc96f4f67fdcb",
-      "last_season": 8,
-      "last_episode": 9,
-      "date": "2020-07-31 17:45:23",
+      "token_movie": "af9fb1a1bc3fbd9ffbab1abca942b9",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2020-08-03 17:12:12",
       "country": "США",
-      "category": "Сериал",
-      "genre": "документальный",
-      "actors": "Фил Плейт, Мишель Таллер, Майк Роу, Хаким Олусейи, Лоуренс Краусс, James S. Bullock, Moogega Cooper, Дэн Дарда, Ричард Линтерн, Paul M. Sutter, Митио Каку, Яни Раденбо, Нина Ланца, Kevin Walsh, Алекс Филиппенко, Эрик Деллумс, Макс Тегмарк, Grant Tremblay, Крис МакКэй, Шон Кэрролл",
-      "directors": "Mark Bridge, Пол О’Коннор, Питер Чинн, Луиз Сай, Лорни Тауненд, Шон Тревисик, Кейт Дарт, Джордж Харрис, Алекс Хирл, Адам Уорнер",
-      "producers": "",
+      "category": "Фильм",
+      "genre": "драма, фэнтези",
+      "actors": "Бэрри Уильямс, Джозеф Кэннон, Брайан О’Хэллоран, Элизабет Карлсон, Брюс Д. Коул, Сьюза Ламберт Баузер, Jasper Anderton, Sarah Bella Anzaldo, Лон Годдар, Shaweh Harijan, Кимберли Хадсон, Anthony Mankins, Leslie Ostrom, Джерри Робертсон, Рик Ст. Чарльз, Westleigh Stenborg-Davies",
+      "directors": "Сьюза Ламберт Баузер",
+      "producers": "Джошуа Д. Нельсон, Сьюза Ламберт Баузер, Джозеф Кэннон, Брюс Д. Коул, Noreen Dooley, Хэрел Голдштейн, Кимберли Хадсон, Чарльз Моррис мл., Рик Романо",
       "premiere_ru": null,
-      "premiere": "2010-04-25",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 8.7,
-      "rating_imdb": 8.9,
-      "time": "0:43",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/615680.jpg",
-      "description": "Это история о создании всего в этом мире. Программа исследует, как Вселенная возникла из ничего, и как она выросла с точки значительно меньше, чем атомные частицы, до огромного космоса.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "seasons_count": 8,
-      "seasons": {
-        "8": {
-          "iframe": "",
-          "season": 8,
-          "episodes": {
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        },
-        "7": {
-          "iframe": "",
-          "season": 7,
-          "episodes": {
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        },
-        "6": {
-          "iframe": "",
-          "season": 6,
-          "episodes": {
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        },
-        "5": {
-          "iframe": "",
-          "season": 5,
-          "episodes": {
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        },
-        "4": {
-          "iframe": "",
-          "season": 4,
-          "episodes": {
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        },
-        "3": {
-          "iframe": "",
-          "season": 3,
-          "episodes": {
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        },
-        "2": {
-          "iframe": "",
-          "season": 2,
-          "episodes": {
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        },
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "66": {
-                  "translation": "Дублированный",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "HDTVRip",
-      "translation": "Дублированный",
-      "translation_iframe": {
-        "66": {
-          "name": "Дублированный",
-          "quality": "HDTVRip",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Гостиница «Россия»",
-      "original_name": null,
-      "alternative_name": null,
-      "year": 2016,
-      "id_kp": 958468,
-      "alternative_id_kp": null,
-      "id_imdb": null,
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "e997c22242372995c5ba34c92d2132",
-      "last_season": 1,
-      "last_episode": 12,
-      "date": "2020-07-31 16:57:19",
-      "country": "Россия",
-      "category": "Сериал",
-      "genre": "детектив, драма, мелодрама",
-      "actors": "Екатерина Вилкова, Людмила Дребнёва, Анатолий Горячев, Павел Трубинер, Владимир Кошевой, Данила Дунаев, Софья Синицына, Евгений Пронин, Иван Дубровский, Иван Босильчич, Анатолий Гущин, Никита Тарасов, Сабина Ахмедова, Константин Мурзенко, Полина Кит, Риана Райсгард, Александр Цёма, Дмитрий Савьяненко, Вилен Бабичев, Влад Красавин",
-      "directors": "Сергей Сенцов",
-      "producers": "Рубен Дишдишян, Нелли Яралова, Вадим Горяинов, Елена Денисевич, Арам Мовсесян, Дмитрий Домнин, Анна Бочкарева, Александр Мартынов",
-      "premiere_ru": "2017-10-16",
       "premiere": null,
       "age_restrictions": null,
       "rating_mpaa": null,
-      "rating_kp": 6.9,
-      "rating_imdb": 6.8,
-      "time": null,
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/958468.jpg",
-      "description": "Москва, 1976 год. Ксения — сотрудница орготдела гостиницы «Россия». Она отвечает за прием и комфортное пребывание гостей, среди которых в основном советская знать и высокопоставленные иностранцы. Гостиница — целый мир, не похожий на обыденную советскую реальность. Здесь ощущается дыхание другой жизни, роскошной, неизвестной, притягательной. Это место, где сходятся интересы разных отделов КГБ и милиции, криминала и мира искусства, интересы разных политических и международных групп. \n\rЭтот мир живет по своим законам, в него невозможно попасть просто с улицы. Получить работу в гостинице и удержаться на ней — большая удача и тяжелый труд. Ксения работает в атмосфере подозрительности, интриг. В «России» идет скрытая борьба за власть, и соблюсти нейтралитет не получается. Героине предстоит сделать не один непростой выбор, а также пережить страшный пожар в гостинице, который поставит точку в этой истории.",
+      "rating_kp": null,
+      "rating_imdb": 6.1,
+      "time": "1:31",
+      "tagline": "What lengths will Flea go to in order to protect her family from her violent step-father?",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/552963.jpg",
+      "description": null,
       "iframe": "",
       "iframe_trailer": null,
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "WEB-DL",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
       "quality": "WEB-DL",
-      "translation": "Не требуется",
+      "translation": "Профессиональный многоголосый",
       "translation_iframe": {
-        "82": {
-          "name": "Не требуется",
+        "87": {
+          "name": "Профессиональный многоголосый",
           "quality": "WEB-DL",
-          "iframe": ""
-        }
-      }
-    },
-    {
-      "name": "Петр Лещенко. Все, что было…",
-      "original_name": null,
-      "alternative_name": null,
-      "year": 2013,
-      "id_kp": 681879,
-      "alternative_id_kp": null,
-      "id_imdb": null,
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "9873824992a142bb9d2e13de1dfd7c",
-      "last_season": 1,
-      "last_episode": 8,
-      "date": "2020-07-31 16:55:48",
-      "country": "Россия",
-      "category": "Сериал",
-      "genre": "биография, история, мелодрама",
-      "actors": "Константин Хабенский, Иван Стебунов, Андрей Мерзликин, Мириам Сехон, Виктория Исакова, Тимофей Трибунцев, Борис Каморзин, Алексей Кравченко, Евгения Добровольская, Сергей Бызгу, Евгений Сидихин, Дмитрий Липинский, Николай Добрынин, Олег Мазуров, Вера Панфилова, Михаил Богдасаров, Семен Фурман, Елена Лотова, Ольга Лерман, Евгений Березовский",
-      "directors": "Владимир Котт",
-      "producers": "Денис Фролов",
-      "premiere_ru": "2017-05-22",
-      "premiere": "2013-10-14",
-      "age_restrictions": 12,
-      "rating_mpaa": null,
-      "rating_kp": 7.4,
-      "rating_imdb": 7.3,
-      "time": "0:53",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/681879.jpg",
-      "description": "Драматическая история жизни легендарного певца Петра Лещенко. Фильм расскажет о его детстве и молодости, прошедших в Кишиневе, о сражениях в Первой мировой войне, о пламенной любви, о начале карьеры и о днях всенародной славы. В разгар Великой Отечественной войны Лещенко, несмотря на все опасности, отправляется на гастроли в оккупированную Одессу – и лишь чудом возвращается оттуда живым, чтобы вскоре попасть в тюрьму…",
-      "iframe": "",
-      "iframe_trailer": null,
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "HDTV",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "HDTV",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "HDTV",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "HDTV",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "HDTV",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "HDTV",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "HDTV",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "HDTV",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "HDTV",
-      "translation": "Не требуется",
-      "translation_iframe": {
-        "82": {
-          "name": "Не требуется",
-          "quality": "HDTV",
           "iframe": ""
         }
       }
